@@ -1,0 +1,679 @@
+Beispiel,Kennzeichen
+elektrisches Potential,BA
+Spannungswandler,BA
+ Spannungsmesseinheit,BA
+ Messwandler (Spannung),BA
+elektrischer Strom,BC
+Messwandler (Strom),BC
+Dichte,BD
+andere elektrische und elektromagnetische Größen,BE
+Messwandler,BE
+ Messwiderstand,BE
+"Fluss (Durchfluss, Durchsatz)",BF
+Volumenstrommessung,BF
+Messblende,BF
+ Gaszähler,BF
+Wasserzähler,BF
+ Durchflussmesser,BF
+"Abstand, Länge, Stellung, Dehnung, Amplitude",BG
+Näherungsfühler/-schalter,BG
+Bewegungsmelder,BG
+Positionsschalter,BG
+Leistung,BJ
+Wattmeter,BJ
+Zeit,BK
+Uhr,BK
+ Zeitmesser,BK
+"Höhenangabe, Stand",BL
+Füllstandsmessung,BL
+"Wassergehalt, Feuchte",BM
+Feuchtigkeitsmesser,BM
+"Druck, Vakuum",BP
+Druckfühler,BP
+ Drucksensor,BP
+"Qualität
+(Zusammensetzung, Konzentration, Reinheit,
+Stoffeigenschaft)",BQ
+Rauchwächter,BQ
+ CO-Messung,BQ
+Viskosität,BQ
+Strahlung,BR
+Photozelle,BR
+ Brandwächter,BR
+Flammenwächter,BR
+"Geschwindigkeit, Frequenz
+(einschließlich Beschleunigung)",BS
+Geschwindigkeitsmesser,BS
+ Dreh-zahlmesser,BS
+ Schwingungsmesser,BS
+Temperatur,BT
+Temperaturfühler,BT
+Mehrfachvariable (zusammengesetzte Größen),BU
+Energiezähler,BU
+"Gewichtkraft, Masse",BW
+sonstige Größen,BX
+Mikrophon,BX
+ Videokamera,BX
+"Anzahl von Ereignissen, Zählungen, kombinierte
+Aufgaben",BZ
+Schaltspieldetektor,BZ
+ Radargerät,BZ
+kapazitive Speicherung elektrischer Energie,CA
+Kondensator,CA
+induktive Speicherung elektrischer Energie,CB
+Spule,CB
+chemische Speicherung elektrischer Energie,CC
+Speicherbatterie,CC
+ Akkumulator,CC
+statische USV,CC
+Speichern von Informationen,CF
+CD,CF
+ DVD,CF
+ Bandlaufwerk,CF
+ Festplatte,CF
+"offenes Speichern von Stoffen an festem Ort
+(Sammlung, Lagerung)",CL
+Grube,CL
+ Becken,CL
+ Kaverne,CL
+ Zisterne,CL
+"geschlossenes Speichern von Stoffen an festen Orten
+(Sammlung, Lagerung)",CM
+Ausdehnungsgefäß,CM
+ Behälter,CM
+Druckspeicher,CM
+ Tank,CM
+ Brauch-wasserspeicher,CM
+"mobiles Speichern von Stoffen (Sammlung, Lagerung)",CN
+Container,CN
+ Gasflasche,CN
+ Transport-behälter,CN
+Speichern von thermischer Energie,CP
+Eisspeicher,CP
+ Hybrideenergie-speicher,CP
+ Energiepufferspeicher,CP
+Erdspeicher,CP
+ Wärmepufferspeicher,CP
+Dampfspeicher,CP
+Speichern von mechanischer Energie,CQ
+Schwungrad,CQ
+ Dynamische USV,CQ
+"Erzeugung von elektromagnetischer Strahlung für
+Beleuchtungszwecke mittels elektrischer Energie",EA
+Beleuchtung,EA
+ Glühlampe,EA
+ LED,EA
+Leuchte,EA
+ Leuchtstoffröhre,EA
+"Erzeugung von Wärmeenergie mittels Umwandlung von
+elektrischer Energie",EB
+Elektroofen,EB
+ elektrischer Boiler,EB
+Elektro-Lufterhitzer,EB
+ Heizstab,EB
+Infrarotstrahler,EB
+"Erzeugung von Kälteenergie mittels Umwandlung von
+elektrischer Energie",EC
+Gefrieraggregat,EC
+ Kühlaggregat,EC
+Kältemaschine; Kühlschrank,EC
+"Erzeugung von anderer elektromagnetischer
+Strahlung mittels elektrischer Energie",EE
+Laser,EE
+ Röntgengerät,EE
+"Erzeugung von anderer elektromagnetischer Strahlung
+zum Zwecke der Signalisierung",EF
+"Erzeugung von elektromagnetischer Strahlung für
+Beleuchtungszwecke durch Verbrennung fossiler
+Brennstoffe",EL
+Gaslicht,EL
+ Gaslampe,EL
+"Erzeugung von thermischer Energie mittels
+Umwandlung chemischer Energie",EM
+Brenner,EM
+ Wärmeerzeuger,EM
+Heizkessel,EM
+ Ofen,EM
+Erzeugung von Wärmeenergie durch Energieaustausch,EP
+Lufterhitzer,EP
+ Verflüssiger,EP
+Wärmetauscher,EP
+ Heizkörper,EP
+Wärmepumpe,EP
+Erzeugung von Kälteenergie durch Energieaustausch,EQ
+Kühlturm,EQ
+ Luftkühler,EQ
+ Verdampfer,EQ
+Umluftkühlgerät,EQ
+ Kühldecke,EQ
+kombinierte Aufgaben,EZ
+Klimagerät,EZ
+ Klimatruhe,EZ
+Induktionsgerät,EZ
+Schutz gegen Überspannungen,FA
+Überspannungsableiter,FA
+Schutz gegen Fehlerströme,FB
+Fehlerstrom-Schutzschalter,FB
+Schutz gegen Überströme,FC
+Sicherung,FC
+ Sicherungseinheit,FC
+Leitungsschutzschalter,FC
+Schutz gegen andere elektrische Gefährdungen,FE
+Faradayscher Käfig,FE
+ Abschirmung,FE
+Schützen gegen gefährliche Druckzustände,FL
+Berstscheiben,FL
+ Sicherheitsarmatur,FL
+Überdruckventil,FL
+Schützen gegen Brandeinwirkungen,FM
+Brandschutzeinrichtung,FM
+Brandschutzklappen,FM
+Brandschutztür,FM
+ Brandschott,FM
+"Schützen vor gefährlichen Betriebszuständen oder
+Beschädigung",FN
+Schutzschild,FN
+ SchutzvorrichtungRammschutz,FN
+ Sicherheitskupplung,FN
+Schlagschutz,FN
+"Schützen gegen gefährliche Emissionen (z. B.
+Strahlung, chemische Emissionen, Lärm)",FP
+Schalldämmkulisse,FP
+ Strahlenschutz,FP
+Lärmschutzwand,FP
+"Schützen gegen Gefährdungen oder unerwünschten
+Situationen von Personen oder Tieren (z. B.
+Schutzvorrichtungen)",FQ
+Absperrung,FQ
+ Zaun,FQ
+ Brückennetz,FQ
+Fluchtfenster,FQ
+ Fluchttür,FQ
+ Handlauf,FQ
+Schranke schützend,FQ
+ Sichtschutz,FQ
+Schützen gegen Verschleiß (z. B. Korrosion),FR
+Kathodische Schutzanode,FR
+"Schützen vor Umwelteinflüssen (z. B. Witterung,
+geophysikalische Auswirkungen)",FS
+Witterungsschutz,FS
+ Dachpaneel,FS
+Sonnenschutz,FS
+ Blendschutz,FS
+Fassadenbekleidung,FS
+ Jalousie,FS
+kombinierte Aufgaben,FZ
+"Initiieren eines elektrischen Energieflusses durch
+Einsatz mechanischer Energie",GA
+Generator,GA
+ Dynamo,GA
+ Motor-Gene-rator-Satz,GA
+ Notstromgenerator,GA
+"Initiieren eines elektrischen Energieflusses durch
+chemische Umwandlung",GB
+Batterie,GB
+ Brennstoffzelle,GB
+Trockenzellenbatterie,GB
+Initiieren eines elektrischen Energieflusses mittels Licht,GC
+Solarzelle,GC
+Erzeugen von Signalen als Informationsträger,GF
+Signalgeber,GF
+ Signalgenerator,GF
+Initiieren eines stetigen Flusses von festen Stoffen,GL
+Bandförderer,GL
+ Kettenförderer,GL
+Zuteiler,GL
+Initiieren eines unstetigen Flusses von festen Stoffen,GM
+Aufzug,GM
+ Hubeinrichtung,GM
+ Kran,GM
+"Initiieren eines Flusses von flüssigen und fließfähigen
+Stoffen, angetrieben mittels Energieversorgung",GP
+Pumpe,GP
+ Schneckenförderer,GP
+"Initiieren eines Flusses von gasförmigen Stoffen durch
+mechanischen Antrieb",GQ
+Gebläse,GQ
+ Lüfter,GQ
+ Ventilator,GQ
+Verdichter,GQ
+ Vakuumpumpe,GQ
+ Sauger,GQ
+"Initiieren eines Flusses von flüssigen oder gasförmigen
+Stoffen durch ein Treibmedium",GS
+Ejektor,GS
+ Injektor,GS
+ Strahler,GS
+"Initiieren eines Flusses von flüssigen oder gasförmigen
+Stoffen durch Schwerkraft",GT
+Schmiervorrichtung,GT
+ Öler,GT
+kombinierte Aufgaben,GZ
+Trennen von Stoffgemischen durch Fliehkraft,HM
+Zentrifuge,HM
+ Zyklonabscheider,HM
+Trennen von Stoffgemischen durch Schwerkraft,HN
+Absetzbehälter,HN
+ Abscheider,HN
+"Trennen von Stoffgemischen durch thermische
+Verfahren",HP
+Destillierer,HP
+ Trockner,HP
+Trennen von Stoffgemischen durch Filtern,HQ
+Luftfilter,HQ
+ Flüssigkeitsfilter,HQ
+ Gasfilter,HQ
+Gitter,HQ
+ Sieb,HQ
+ Tropfenabscheider,HQ
+Schmutzfänger,HQ
+"Trennen von Stoffgemischen durch elektrostatische oder
+magnetische Kräfte",HR
+Magnetabscheider,HR
+ Elektrofilter,HR
+"Trennen von Stoffgemischen durch physikalische
+Verfahren",HS
+Entsalzung,HS
+ Absorbtionswäscher,HS
+Entfeuchter,HS
+ Ionentauscher,HS
+Aktivkohleabsorbierer,HS
+Erzeugen neuer gasförmiger Stoffe,HT
+Vergaser,HT
+ Mischbox,HT
+"Mischen zum Erzeugen neuer, fester, flüssiger,
+fließfähiger oder gasförmiger Stoffe",HW
+Mischer,HW
+ Befeuchter,HW
+kombinierte Aufgaben,HZ
+"Verarbeiten von elektrischen und elektronischen
+Signalen",KF
+Steuerung,KF
+ Relais,KF
+ Regler elektr.,KF
+Steuergerät,KF
+ Ein-/Ausgangs-baugruppe,KF
+ Prozessrechner,KF
+ CPU,KF
+Verarbeiten von optischen und akustischen Signalen,KG
+Spiegel,KG
+ Prüfgerät,KG
+"Verarbeiten von fluidtechnischen und pneumatischen
+Signalen",KH
+Steuerventil,KH
+ Regler pneumatisch,KH
+Verarbeiten von mechanischen Signalen,KJ
+Regler mechanisch,KJ
+"Verarbeitung unterschiedlicher Informationsträger an
+Ein- und Ausgang (z. B. elektrisch – pneumatisch)",KK
+elektrohydraulischer Umformer,KK
+elektrisches Vorsteuerventil,KK
+ Regler,KK
+kombinierte Aufgaben,KZ
+Antreiben durch elektromagnetische Wirkung,MA
+Elektromotor,MA
+ Stellantriebelektromotorisch,MA
+Antreiben durch magnetische Wirkung,MB
+Magnetantrieb,MB
+ Stellantrieb elektro-magnetisch,MB
+Antreiben durch mechanische Kraft,ML
+Federspeicherantrieb,ML
+ Stellantriebmechanisch,ML
+Antreiben durch fluidtechnische oder pneumatische Kraft,MM
+Fluidantrieb/-motor,MM
+ Stellantriebpneumatisch,MM
+ Hydraulikzylinder,MM
+Antreiben durch Kraft von Dampfstrom,MN
+Dampfturbine,MN
+Antreiben durch Kraft von Gasstrom,MP
+Gasturbine,MP
+Antreiben durch Windkraft,MQ
+Windrad,MQ
+ Windturbine,MQ
+Antreiben durch Kraft von Flüssigkeitsstrom,MR
+Wasserturbine,MR
+Antreiben durch Kraft einer chemischen Umwandlung,MS
+Verbrennungsmotor,MS
+kombinierte Aufgaben,MZ
+visuelle Anzeige von Einzelzuständen,PF
+LED,PF
+ Signalleuchte,PF
+visuelle Anzeige von Einzelvariablen,PG
+Thermometer,PG
+ Manometer,PG
+Pegelanzeige,PG
+ Voltmeter,PG
+Amperemeter,PG
+ Wattmeter,PG
+ Zähler,PG
+Uhr,PG
+"visuelle Anzeige von Information in Zeichnungsform,
+Bildform und/oder Textform",PH
+Barcode-Drucker,PH
+ Rekorder,PH
+Drucker,PH
+ Bildschirm,PH
+ Schreiber,PH
+akustische Informationsdarstellung,PJ
+Klingel,PJ
+ Lautsprecher,PJ
+ Signalgerätakustisch,PJ
+fühlbare Informationsdarstellung,PK
+Vibrator,PK
+kombinierte Aufgaben,PZ
+Schalten und Variieren von elektrischen Energiekreisen,QA
+Leistungsschalter,QA
+ Schütz,QA
+ Thyristor,QA
+Motoranlasser,QA
+Trennen von elektrischen Energiekreisen,QB
+Trennschalter,QB
+ Lasttrenner,QB
+Erden von elektrischen Energiekreisen,QC
+Erder,QC
+ Erdungsschalter,QC
+Bremsen,QL
+Bremse,QL
+"Schalten eines Flusses fließfähiger Stoffe in
+geschlossenen Umschließungen",QM
+Absperrarmaturen (auchEntleerungsarmaturen) Klappe,QM
+Absperrventil,QM
+"Verändern eines Flusses fließfähiger Stoffe in
+geschlossenen Umschließungen",QN
+Gasregelstrecke,QN
+ Regelventil,QN
+Regelklappe,QN
+ Regelarmatur,QN
+"Schalten oder Verändern eines Flusses fließfähiger
+Stoffe in offenen Umschließungen",QP
+Schleuse,QP
+ Wehre,QP
+"Ermöglichen von Zugang zu einem Raum oder einer
+Fläche",QQ
+Tür,QQ
+ Drehkreuz,QQ
+ Schrankeabgrenzend,QQ
+"Absperren eines Flusses fließfähiger Stoffe (keine
+Armaturen)",QR
+Absperreinrichtung,QR
+"Öffnen , Schließen von Einlässen (Licht, Luft) zu
+abgegrenzten Orten",QW
+Fenster,QW
+ Verglasung,QW
+kombinierte Aufgaben,QZ
+Begrenzen des Flusses von elektrischer Energie,RA
+Widerstand,RA
+ Diode,RA
+ Drossel,RA
+Stabilisieren eines Flusses von elektrischer Energie,RB
+USV,RB
+Stabilisieren von Signalen,RF
+Tiefpass,RF
+ Entzerrer,RF
+ Filter,RF
+"Verhindern von unerlaubtem Bedienen und/oder
+Bewegungen (mechanisch)",RL
+Begrenzer,RL
+ Schloss,RL
+ Arretierung,RL
+"Verhindern des Rückflusses von gasförmigen, flüssigen
+und fließfähigen Stoffen",RM
+Rückschlagventil,RM
+Rückschlagklappe,RM
+Rückstauverschluss,RM
+"Begrenzen des Durchflusses von flüssigen und
+gasförmigen Stoffen",RN
+Lufteinlass,RN
+ Luftauslass,RN
+Drosselscheibe,RN
+Abschirmen und Dämmen von Lärm,RP
+Schalldämpfer,RP
+Abschirmen und Dämmen von Wärme oder Kälte,RQ
+Wärmedämmung,RQ
+ Isolierung,RQ
+"Abschirmen und Dämmen vor mechanischen
+Einwirkungen",RR
+Anpralldämpfer,RR
+ Ausmauerung,RR
+Spritzschutz,RR
+ Stoßdämpfer,RR
+Kompensator,RR
+Abschirmen und Dämmen vor chemischen Einwirkungen,RS
+Auskleidung,RS
+Abschirmen und Dämmen von Licht,RT
+Lichtblende,RT
+"Abschirmen und Stabilisieren von Bewegung in Orten/im
+Gelände",RU
+Zaun,RU
+ Trennwand,RU
+kombinierte Aufgaben,RZ
+Bereitstellen eines elektrischen Signals,SF
+DV-Eingabegeräte,SF
+ Schalter,SF
+ Taster,SF
+Sollwerteinsteller,SF
+"Bereitstellen eines elektromagnetischen, optischen oder
+akustischen Signals",SG
+Lichtschranke,SG
+ Computermaus,SG
+Bereitstellen eines mechanischen Signals,SH
+Bedienelemente,SH
+ Handrad,SH
+"Bereitstellung eines fluidtechnischen oder
+pneumatischen Signals",SJ
+Bedienventil,SJ
+kombinierte Aufgaben,SZ
+"Umwandeln elektrischer Energie unter Beibehaltung der
+Energieart und Energieform",TA
+Transformator,TA
+ Frequenzwandler,TA
+DC/DC-Wandler,TA
+ Frequenzumrichter,TA
+"Umwandeln elektrischer Energie unter Beibehaltung der
+Energieart, aber Veränderung der Energieform",TB
+Gleichrichter,TB
+ Wechselrichter,TB
+AC/DC-Wandler,TB
+ Netzteil,TB
+Umwandeln von Signalen,TF
+U/I-Umformer,TF
+ Elektrischer Mess-umformer,TF
+ Antenne,TF
+ Verstärker,TF
+Signalumformer,TF
+"Umwandeln von Drehzahl, Drehmoment, Kraft in
+dieselbe Art",TL
+Drehzahl-,TL
+ Drehmomentwandler,TL
+Druckkraftverstärker,TL
+ Getriebe,TL
+"Umwandeln von Strahlungsenergie unter Beibehaltung
+der Energieform",TR
+Brennglas,TR
+ Parabolspiegel,TR
+kombinierte Aufgaben,TZ
+"Halten und Tragen von Einrichtungen elektrischer
+Energie",UA
+Gerüst,UA
+ Stütze,UA
+ Einbau- undSchwenkrahmen in Schaltschrank,UA
+Halten und Tragen von elektrischen Energiekabeln und -leitungen,UB
+Aufhänger,UB
+ Kabelkanal,UB
+Kabelpritsche ,UB
+ Kabeltrasse,UB
+ Mast,UB
+"Umschließen und Tragen von Einrichtungen elektrischer
+Energie",UC
+Schaltschrank,UC
+ Gehäuse,UC
+"Umschließen, Halten und Tragen von elektrischen und
+kommunikationstechnischen Anschlüssen",UE
+Bodentank,UE
+ Elektrant,UE
+Brüstungskanal,UE
+"Halten, Tragen, Umschließen von leittechnischen und
+kommunikationstechnischen Einrichtungen",UF
+Baugruppenträger,UF
+ Rack,UF
+"Halten und Tragen von leittechnischen und
+kommunikationstechnischen Kabeln und Leitungen",UG
+Kabelkanal,UG
+ Kabelpritsche,UG
+Kabeltrasse,UG
+"Umschließen und Tragen von leittechnischen
+Einrichtungen",UH
+Steuerschrank,UH
+ Gehäuse,UH
+"Halten und Tragen von maschinentechnischen
+Einrichtungen",UL
+Maschinenfundament,UL
+Halten und Tragen von gebäudetechnischen Objekten,UM
+Fundament,UM
+ Bohrpfahl,UM
+ Unterzug,UM
+Oberzug,UM
+ Stütze,UM
+ Strukturelement,UM
+"Halten und Tragen von rohrleitungstechnischen
+Objekten",UN
+Halterung für Rohrleitungen,UN
+Rohrbrücke,UN
+Halten und Führen von Wellen und Läufer,UP
+Gleitlager,UP
+ Kugellager,UP
+"Befestigen und Verankern von maschinentechnischen
+Einrichtungen",UR
+Konsole,UR
+ Montagegestell,UR
+ Träger,UR
+"räumliche Objekte zur Unterbringung und zum Tragen
+anderer Objekte",US
+Schacht,US
+ Raum,US
+ Korridor,US
+ Halle,US
+kombinierte Aufgaben,UZ
+"Reinigen von Stoffen, Produkten oder Einrichtungen",VQ
+Staubsauger,VQ
+ Waschmaschine,VQ
+Gebäudereinigungseinrichtung,VQ
+"Verteilen von elektrischer Energie
+(> 1 000 V AC oder > 1 500 V DC)",WA
+Stromschiene,WA
+ elektrischer Verteiler,WA
+Sammelschiene,WA
+"Transportieren von elektrischer Energie
+(> 1 000 V AC oder > 1 500 V DC)",WB
+Kabel,WB
+ Leiter,WB
+ Durchführung,WB
+"Verteilen von elektrischer Energie
+(<= 1 000 V AC oder <= 1 500 V DC)",WC
+elektrischer Verteiler,WC
+Sammelschiene,WC
+"Transportieren von elektrischer Energie
+(<= 1 000 V AC oder <= 1 500 V DC)",WD
+Leistungskabel,WD
+Leiten von Erdpotential oder Bezugspotential,WE
+Erdungsschiene,WE
+Potentialausgleichsschiene,WE
+Verteilen von elektrischen oder elektronischen Signalen,WF
+Datenbus,WF
+ Feldbus,WF
+ Rangierverteiler,WF
+"Transportieren von elektrischen oder elektronischen
+Signalen",WG
+Steuerkabel,WG
+ Messkabel,WG
+Datenleitung,WG
+Transportieren und Führen von optischen Signalen,WH
+Lichtwellenleiter,WH
+ Glasfaserkabel,WH
+Kabel optisch,WH
+"Transportieren von Stoffen und Produkten (nicht
+angetrieben)",WL
+Förderer,WL
+ schiefe Ebene,WL
+ Rollentisch,WL
+"Leiten und Führen von Strömen flüssiger und
+fließfähiger Stoffe (offene Umschließungen)",WM
+Abläufe,WM
+ Kanal,WM
+ Rinne,WM
+ Bodeneinlauf,WM
+"Leiten und Führen von Strömen flüssiger, fließfähiger
+und gasförmiger Stoffe (geschlossene, flexible Um-schließungen)",WN
+Schlauch,WN
+"Leiten und Führen von Strömen flüssiger und
+fließfähiger Stoffe (geschlossene, starre
+Umschließungen)",WP
+Luftkanal,WP
+ Rohrleitung,WP
+Abwasserleitung,WP
+Übertragen von mechanischer Energie,WQ
+Läufer,WQ
+ Kette,WQ
+ Welle,WQ
+Leiten und Führen für spurgebundene Transportmittel,WR
+Schienen-,WR
+ Weicheneinrichtung,WR
+Leiten und Führen von Personen (Begeheinrichtungen),WS
+Schleuse,WS
+ Treppe,WS
+ Laufsteg,WS
+Plattform,WS
+"Leiten und Führen von mobilen Transportmitteln
+(Transportwege)",WT
+befahrbare Verkehrsfläche,WT
+begehbare Verkehrsfläche,WT
+Schifffahrtsweg,WT
+kombinierte Aufgaben,WZ
+"Anschließen/Verbinden von Objekten
+(> 1 000 V AC oder > 1 500 V DC)",XB
+Klemme,XB
+ Leiste,XB
+ Muffe,XB
+"Anschließen/Verbinden von Objekten
+(<= 1 000 V AC oder <= 1 500 V DC) < 1 kV",XD
+Klemme,XD
+ Leiste,XD
+ Steckverbinder,XD
+LSA-Leisten,XD
+ Steckdose,XD
+Anschließen von Erdpotential oder Bezugspotential,XE
+Erdungsklemme,XE
+Schirmanschlussklemme,XE
+Verbinden in Datenübertragungsnetzen,XF
+Hub,XF
+ Switch,XF
+ Patchpanel,XF
+Verbinden von elektrischen Signalträgern,XG
+Signalverteiler,XG
+ Steckverbinder,XG
+Anschlusselement,XG
+Verbinden (optisch) von Signalen,XH
+optischer Anschluss,XH
+Verbinden starrer Umschließungen für Stoffströme,XL
+Flansch,XL
+ Kupplung,XL
+ Fittings,XL
+Verbinden flexibler Umschließungen für Stoffströme,XM
+Schlauchverbindung,XM
+ -kupplung,XM
+"Verbinden von Objekten zur Übertragung von
+mechanischer Energie, nicht trennbar",XN
+Kupplung,XN
+ starr,XN
+"Verbinden von Objekten zur Übertragung von
+mechanischer Energie (schaltbar/variabel)",XP
+Schaltkupplung,XP
+ Regelkupplung,XP
+"Verbinden von Objekten, unlösbar",XQ
+Schweiß-,XQ
+ Löt-,XQ
+ Klebeverbindung,XQ
+"Verbinden von Objekten, lösbar",XR
+Haken,XR
+ Öse,XR
+kombinierte Aufgaben,XZ

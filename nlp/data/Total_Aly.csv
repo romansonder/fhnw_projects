@@ -1,0 +1,6576 @@
+Beispiel,Kennzeichen
+"Objekt zur Erfassung und Darstellung von
+Informationen",B
+Erkennungsobjekt,B
+Erkennungsobjekt für elektrisches Potential,BA
+"Objekt zur Erkennung von
+elektrischem Potential",BA
+Kopplungskondensator,BA
+ Messspannungsrelais,BA
+Spannungswandler für Messzwecke,BA
+ Spannungsrelais,BA
+Spannungswandler,BA
+"Erkennungsobjekt für Widerstand oder
+Leitfähigkeit",BB
+"Objekt zur Erkennung von
+Widerstand",BB
+Detektor für elektrischen Widerstand,BB
+ Sensor für elektrischenWiderstand,BB
+ Detektor für thermischen Widerstand,BB
+Erkennungsobjekt für elektrischen Strom,BC
+"Objekt zur Erkennung von
+elektrischem Strom",BC
+elektronisches Überlastrelais,BC
+ Messstromrelais,BC
+ Stromwandler fürMesszwecke,BC
+ Überlastrelais,BC
+Erkennungsobjekt für Dichte,BD
+Dichteerkennungsobjekt,BD
+Senkwage,BD
+ Dichtesensor,BD
+ Dichteschalter,BD
+ Dichtewandler,BD
+Hydrometer,BD
+Erkennungsobjekt für Spannungsfeld,BE
+Spannungsfelderkennungsobjekt,BE
+Spannungsfelddetektor,BE
+ Spannungsfeldsensor,BE
+ Magnetfeld-detektor,BE
+ Magnetfeldsensor,BE
+ Reedrelais,BE
+ Reedschalter,BE
+Erkennungsobjekt für Durchfluss,BF
+Durchflusserkennungsobjekt,BF
+Durchflusssensor,BF
+ Durchflussschalter,BF
+ Durchflussmesswertgeber,BF
+Gasflusssensor,BF
+ Gasflussschalter,BF
+ Flüssigkeitsflusssensor,BF
+Stoffflusssensor,BF
+ Feststoffflussschalter,BF
+ Wasserflusssensor,BF
+"Erkennungsobjekt für räumliche Dimension
+und/oder Position",BG
+"Objekt zur Erkennung von
+physikalischen Dimensionen",BG
+2D-Scanner,BG
+ 3D-Scanner,BG
+ Ausrichtungssensor,BG
+ Ausrichtungs-schwellendetektor,BG
+ Winkelschalter,BG
+ Winkelmesswertgeber,BG
+ Ko-ordinatenscanner,BG
+ Distanzschalter,BG
+ Distanzmesswertgeber,BG
+ End-stopp,BG
+ Laserabstandserkennungsschalter,BG
+ Laserabstandssensor,BG
+Laserscanner,BG
+ Bewegungsdetektor,BG
+ Bewegungssensor (PIR),BG
+Objektscanner,BG
+ Positionssensor,BG
+ Positionsschalter,BG
+Positionsmesswertgeber,BG
+ Anwesenheitsanzeige,BG
+ Anwesenheitser-kennung,BG
+ Radar,BG
+ Drehgeber,BG
+ Sichtbarkeitssensor,BG
+Windrichtungsanzeige,BG
+ Windrichtungssensor,BG
+Erkennungsobjekt für Energie,BH
+Energieerkennungsobjekt,BH
+Kondensatsensor,BH
+ Stromflussmesswertgeber,BH
+ Kühlungsenergie-Messgerät,BH
+ Energiezähler,BH
+ Energiesensor,BH
+ Strömungsenergie-zähler,BH
+ Gasenergiezähler,BH
+ kWh-Zähler,BH
+ Wärmeenergiezähler,BH
+Erkennungsobjekt für Leistung,BJ
+Leistungserkennungsobjekt,BJ
+kW-Zähler,BJ
+ Leistungsbegrenzungsschalter,BJ
+ Leistungszähler,BJ
+Erkennungsobjekt für Zeit,BK
+Zeiterkennungsobjekt,BK
+Uhr,BK
+ Zeitzähler,BK
+ Zeitinformationsgerät,BK
+ Zeitmessgerät,BK
+ Zeitschalter,BK
+Erkennungsobjekt für Füllstand,BL
+Füllstandserkennungsobjekt,BL
+Füllstandssensor,BL
+ Füllstandsschalter,BL
+ Füllstandsmesswertgeber,BL
+Flüssigkeitsstandssensor,BL
+ Flüssigkeitsstandsschalter,BL
+Erkennungsobjekt für Feuchte,BM
+Feuchteerkennungsobjekt,BM
+Feuchtesensor,BM
+ Feuchteschalter,BM
+ Feuchtemesswertgeber,BM
+Erkennungsobjekt für Druck,BP
+Druckerkennungsobjekt,BP
+Absolutdrucksensor,BP
+ Absolutdruckschalter,BP
+ Absolutdruckmess-wertgeber,BP
+ Differenzialdrucksensor,BP
+ Differenzialdruckschalter,BP
+Differenzialdruckmesswertgeber,BP
+ Manometer,BP
+ Druckwächter,BP
+Drucksensor,BP
+ Druckschalter,BP
+ Druckaufnehmer,BP
+ Relativdruckdetektor,BP
+Relativdrucksensor,BP
+ Relativdrucksensor,BP
+"Erkennungsobjekt für
+Substanzkonzentration",BQ
+Konzentrationserkennungsobjekt,BQ
+CO-Konzentrationssensor,BQ
+ CO_{2} -Konzentrationssensor,BQ
+ Konzentra-tionssensor,BQ
+ Konzentrationserkennungsschalter,BQ
+ Nebeldetektor,BQ
+Nebelsensor,BQ
+ Gaskonzentrationsdetektor,BQ
+ Gaskonzentrationsmess-gerät,BQ
+ Flüssigkeitskonzentrationsdetektor,BQ
+ Flüssigkeitskonzentra-tionsmessgerät,BQ
+ NH_{3} -Konzentrationssensor,BQ
+ Benzinkonzentra-tionssensor,BQ
+ Rauchdetektor,BQ
+ Rauchsensor,BQ
+ Rauchschalter,BQ
+ Fest-stoffkonzentrationsdetektor,BQ
+ Feststoffkonzentrationsmessgerät,BQ
+Trübedetektor,BQ
+ Trübesensor,BQ
+ Sichtbarkeitsdetektor,BQ
+ Sichtbarkeits-sensor,BQ
+Erkennungsobjekt für Strahlung,BR
+Strahlungserkennungsobjekt,BR
+Elektromagnetwellendetektor,BR
+ Messgerät für elektromagnetischeWellen,BR
+ Geigerzähler,BR
+ Gammastrahlungsdetektor,BR
+ IR-Sensor,BR
+ Licht-schranke,BR
+ Lichtdetektor,BR
+ Lichtmessgerät,BR
+ Lichtsender,BR
+ Leitungs-detektor,BR
+ Dämmerungsschalte,BR
+r Lux-Sensor,BR
+ Fotozelle,BR
+Radarsensor,BR
+ Strahlungsmessgerät,BR
+ Strahlungsdetektor,BR
+ UV-Sensor,BR
+Erkennungsobjekt für Zeitbereich,BS
+Zeitbereicherkennungsobjekt,BS
+Beschleunigungsaufnehmer-Relais,BS
+ Beschleunigungsmess-wertgeber,BS
+ Taktraten-Erkennungsschalter,BS
+ Taktratensensor,BS
+ Takt-ratenmesswertgeber,BS
+ Frequenzmesswertgeber,BS
+ Bewegungsdetek-tor,BS
+ Bewegungsmesswertgeber,BS
+ Drehgeschwindigkeitsrelais,BS
+ Dreh-geschwindigkeitssensor,BS
+ seismischer Sensor,BS
+ seismischer Schal-ter,BS
+ Vibrationsschalter,BS
+ Geschwindigkeitserkennungsschalter,BS
+ Ge-schwindigkeitsmesswertgeber,BS
+ Geschwindigkeitssensor,BS
+ Dreh-zahlmessgerät,BS
+Erkennungsobjekt für Temperatur,BT
+Temperaturerkennungsobjekt,BT
+Temperaturdetektor,BT
+ Temperatursensor,BT
+ Temperaturschalter,BT
+Temperaturmesswertgeber,BT
+Erkennungsobjekt für mehrere Mengen,BU
+Mehrfacherkennungsobjekt,BU
+Buchholz-Relais,BU
+ Distanzschutzrelais,BU
+ Impedanzschutzrelais,BU
+Mehrfachdetektor,BU
+ Mehrfachmesssensor,BU
+ Mehrfachsensorschalter,BU
+Gegenphasenfolgerelais,BU
+"Erkennungsobjekt für Gewicht, Kraft oder
+Drehmoment",BW
+Krafterkennungsobjekt,BW
+Krafterkennungsschalter,BW
+ Kraftsensor,BW
+ Kraftmesswertgeber,BW
+ Last-zelle,BW
+ Drehmomentsensor,BW
+ Drehmomentschalter,BW
+ Drehmoment-messwertgeber,BW
+ Gewichtserkennungsschalter,BW
+ Gewichtssensor,BW
+Gewichtsmesswertgebersender,BW
+"Erkennungsobjekt für Ton und/oder äußeres
+Erscheinen",BX
+Audiovisuelles Erkennungs-objekt,BX
+Alarmmikrofon,BX
+ Akustikdetektor,BX
+ Akustiksensor,BX
+ Akustiküberwa-chungsgerät,BX
+ Kamera,BX
+ CCTV,BX
+ Gesichtserkennungsgerät,BX
+ Fin-gerabdruckleser,BX
+ Glasbruchsensor,BX
+ Bildgeber,BX
+ Bilderkennungs-gerät,BX
+ Iris-Scanner,BX
+ Mikrofon,BX
+ Profilkontrolle,BX
+ PTZ-Kamera,BX
+Scanner,BX
+ Videokamera,BX
+"Erkennungsobjekt für gespeicherte
+Informationen",BY
+Informationserkennungsobjekt,BY
+Barcode-Lesegerät,BY
+ Chipkarten-Lesegerät,BY
+ Chip-Lesegerät,BY
+elektromagnetisches Lesegerät,BY
+ Magnetstreifenlesegerät,BY
+ Lese-gerät für optische Platten,BY
+ optisches Lesegerät,BY
+ RFC-Lesegerät,BY
+RFID-Lesegerät,BY
+ QR-Lesegerät,BY
+ Lochstreifenlesegerät,BY
+"Erkennungsobjekt für Ereignisse bzw.
+Mengen",BZ
+Ereigniserkennungsobjekt,BZ
+Zähler,BZ
+ Stoffdetektor,BZ
+ Personendetektor,BZ
+ Präsenzdetektor,BZ
+ Über-gangszähler,BZ
+"Objekt zum Speichern für ein späteres
+Abrufen",C
+Speicherobjekt,C
+"Speicherobjekt für elektrische Energie
+innerhalb eines elektrostatischen Felds",CA
+Kapazitives Speicherobjekt,CA
+Kondensator,CA
+"Speicherobjekt für elektrische Energie
+innerhalb eines elektromagnetischen Felds",CB
+Induktives Speicherobjekt,CB
+Drosselspule,CB
+"Speicherobjekt für elektrische Energie
+innerhalb eines elektrochemischen Stoffes",CC
+Elektrochemisches Speicher-objekt,CC
+Wiederaufladbare Batterie,CC
+Speicherobjekt für Informationen,CF
+Informationsspeicherobjekt,CF
+Informationsspeichermedien,CF
+ Sitz,CF
+"Speicherobjekt für Stoffe oder Personen
+innerhalb einer stationären offenen
+Umschließung",CL
+Offenes stationäres Speicher-objekt,CL
+Bett,CL
+ Bunker,CL
+ Stuhl,CL
+ Zisterne,CL
+ Sofa,CL
+ Schacht,CL
+ Becken,CL
+ Ablagefach,CL
+"Speicherobjekt für Stoffe innerhalb einer
+stationären geschlossenen Umschließung",CM
+"Geschlossenes stationäres
+Speicherobjekt",CM
+Behälter,CM
+ Gehäuse,CM
+ Schrank,CM
+ Tank,CM
+"Speicherobjekt für Stoffe oder Personen
+innerhalb einer beweglichen geschlossenen
+Umschließung",CN
+Bewegliches Speicherobjekt,CN
+Container,CN
+ Trommel,CN
+ Becher-Hebeanlage,CN
+ Baggerladeschaufel,CN
+Gasflasche,CN
+ Aufzugskabine,CN
+Speicherobjekt für Wärmeenergie,CP
+Wärmeenergie-Speicherobjekt,CP
+Wassererwärmer,CP
+ kristalliner Behälter,CP
+ Gasbehälter,CP
+ Flüssigkeits-behälter,CP
+ Stoffbehälter,CP
+Speicherobjekt für mechanische Energie,CQ
+"Speicherobjekt für
+mechanische Energie",CQ
+Gegengewicht,CQ
+ angehobene Masse,CQ
+ Schwungrad,CQ
+ Gummiband,CQ
+Feder,CQ
+Objekt zum Aussenden,E
+Aussendeobjekt,E
+Aussendeobjekt für Licht,EA
+Lichtobjekt,EA
+Argonlampe,EA
+ Elektrolumineszenzgeräte,EA
+ elektrische Leuchte,EA
+Leuchtstofflampe,EA
+ Leuchtstoffröhre,EA
+ Gaslampe,EA
+ Glühlampe,EA
+ Lampe,EA
+Lampenbirne,EA
+ Laser,EA
+ Flüssigkeitslampe,EA
+ Neonlampe,EA
+ Paraffinlampe,EA
+"Aussendeobjekt für durch elektrische
+Energie erzeugte Wärme",EB
+Elektroheizobjekt,EB
+Lichtbogen-Heizungsobjekt,EB
+ Elektrolichtbogenofen,EB
+ Elektrokessel,EB
+elektrische Heizfläche,EB
+ Elektroheißluftgebläse,EB
+ Elektroofen,EB
+Bratplatte,EB
+ Heizkabel,EB
+ Heizmatte,EB
+ Induktionsheizung,EB
+ Induktionsofen,EB
+Infrarot-Heizung,EB
+ Sauna,EB
+"Aussendeobjekt für durch elektrische
+Energie erzeugte Kälte",EC
+Elektrokühlobjekt,EC
+Kompressionskältemaschine,EC
+ Elektrokaltluftgebläse,EC
+ elektrischeKühloberfläche,EC
+Aussendeobjekt für drahtlose Energie,EE
+Drahtlosenergie-Objekt,EE
+kapazitiver Koppler,EE
+ Gammastrahlenquelle,EE
+ induktive Antenne,EE
+Magnetron,EE
+ Maser,EE
+ Mikrowellenofen,EE
+ Röntgenstrahlenquelle,EE
+"Aussendeobjekt für durch Wärmeenergie
+übertragene Wärme und Kälte",EG
+Wärmeenergie-Übertragungs-objekt,EG
+Gefriergerät,EG
+ Kühlschrank,EG
+ Wärmetauscher,EG
+ Wärmepumpe,EG
+ Peltier-Element,EG
+ Kühlcontainer,EG
+ Kühlregal,EG
+ reversible Wärmepumpe,EG
+"Aussendeobjekt für durch Verbrennung
+erzeugte Wärme",EM
+Verbrennungsheizobjekt,EM
+Kochplatte,EM
+ Feuerungskessel,EM
+ Herd,EM
+"Aussendeobjekt für durch Wärmeenergie
+erzeugte Wärme",EP
+Wärmeheizobjekt,EP
+Kondensator,EP
+ Heizspule,EP
+ Heizplatte,EP
+ Heizrohr,EP
+ Heizfläche,EP
+ Heizröhre,EP
+Heißluftgebläse,EP
+ Radiator,EP
+"Aussendeobjekt für durch Wärmeenergie
+erzeugte Kälte",EQ
+Thermal-Kühlobjekt,EQ
+Gebläsekühleinrichtung,EQ
+ Kondensator,EQ
+ Kühler,EQ
+ Kühlspule,EQ
+ Kühlplatte,EQ
+Kühlrohr,EQ
+ Kühloberfläche,EQ
+ Kühlturm,EQ
+ Kühlröhre,EQ
+ Verdampfer,EQ
+"Aussendeobjekt für durch Kernspaltung
+erzeugte Wärme",ET
+Nuklearenergie-Wärmeobjekt,ET
+Siedewasserreaktor,ET
+ gasgekühlter Hochtemperaturreaktor,ET
+ Kugel-haufenreaktor,ET
+ Druckwasserreaktor,ET
+Aussendeobjekt für subatomare Partikel,EU
+Partikelaussendeobjekt,EU
+Alphastrahlengerät,EU
+ Betastrahlengerät,EU
+ Neutronenstrahlengerät,EU
+Partikelgenerator,EU
+ Plasmagenerator,EU
+Aussendeobjekt für Schallwellen,EV
+Schallwellenaussendeobjekt,EV
+Lautsprecher zur Geräuschunterdrückung,EV
+ Sonar,EV
+"Objekt zum Schutz vor den Auswirkungen
+gefährlicher oder unerwünschter
+Bedingungen",F
+Schutzobjekt,F
+Schutzobjekt bei Überspannung,FA
+Überspannungsschutzobjekt,FA
+Begrenzer,FA
+ Funkenstrecken-Überspannungsableiter,FA
+ Überspan-nungsschutz,FA
+ Varistor-Überspannungsschutz,FA
+ Zener-Diode,FA
+Schutzobjekt bei Erdschlussströme,FB
+Erdschlussstrom-Schutzobjekt,FB
+Fehlerstromschutzschalter (FI-Schalter),FB
+ Erdschluss-Schutzschal-ter,FB
+ Fehlerspannungsschutzschalter (FU-Schalter),FB
+ FI-Schutzschal-ter,FB
+ Fehlerschutzschalter,FB
+ neutraler Erdungswiderstand,FB
+ Erd-schlussstrom-Begrenzer,FB
+ neutraler Erdungsreaktor,FB
+ Petersen-Spule,FB
+ Fehlerstromschutzschalter (RCCB),FB
+ Fehlerstromgerät,FB
+Schutzobjekt bei Überströme,FC
+Überstromschutzobjekt,FC
+Bimetall,FC
+ Bimetall-Schaltkreis,FC
+ Sicherung,FC
+ Leistungsschutzschalter,FC
+thermische Überlastauslösung,FC
+ thermisches Überlastrelais,FC
+"Schutzobjekt bei elektrische und/oder
+magnetische Felder",FE
+Feldschutzobjekt,FE
+Betonwand,FE
+ elektrische Feldabschirmung,FE
+ elektromagnetischerFeldabschirmungs-Faradaykäfig,FE
+ Bleiblock,FE
+ Metallbleche,FE
+ Magnet-feldabschirmung,FE
+ Mu-metallische Abschirmung,FE
+Schutzobjekt bei Drücke,FL
+Druckschutzobjekt,FL
+Ausdehnungsbehälter,FL
+ Ausdehnungsgefäß,FL
+ Berstscheibe,FL
+ Sicher-heitsdämpfer,FL
+ Sicherheitsarmatur,FL
+ Rückschlagventil gegen Vakuum,FL
+Schutzobjekt bei Feuer,FM
+Brandschutzobjekt,FM
+Brand- und Gasschutzklappe,FM
+ Brandschutzblende,FM
+ Brandschutz-klappe,FM
+ Feuerlöscher,FM
+ Gasschutzklappe,FM
+ Brandschutzimprägnie-rung,FM
+ Brandisolierung,FM
+ Brandschutzbeschichtung,FM
+ feuerabweisendeBeschichtung,FM
+ Rauchschutzverschluss,FM
+ Rauchschutzvorhang,FM
+Schutzobjekt bei mechanischer Kraft,FN
+"Objekt zum Schutz vor
+mechanischer Kraft",FN
+Kabelschutz,FN
+ Stoßschutz,FN
+ Sicherheitskupplung,FN
+Schutzobjekt durch Barriere oder Hindernis,FQ
+Vorbeugendes Schutzobjekt,FQ
+Bruchschutz,FQ
+ Blendschutz,FQ
+ Gleitschutz,FQ
+ Schutzgeländer,FQ
+ Handlauf,FQ
+Lukenschloss,FQ
+ Schutzgewebe,FQ
+ Schutzgitter,FQ
+ Schutznetz,FQ
+ Schutz-schiene,FQ
+ Schutzstange,FQ
+ Schutzdach,FQ
+ Schneeschutz,FQ
+ Spritzschutz,FQ
+Aufhängungsschutz,FQ
+Schutzobjekt bei Materialerosion,FR
+Verschleißschutzobjekt,FR
+Schmierobjekt,FR
+ Schmieröl,FR
+ Verschleißschutz,FR
+"Schutzobjekt in Bezug auf die lokale
+Umgebung",FS
+Umgebungsschutzobjekt,FS
+Lawinenschutzkonstruktion,FS
+ kathodischer Schutz,FS
+Korrosionsschutz,FS
+ Zement,FS
+ Gebäude,FS
+ Imprägnierung,FS
+Imprägnierungsplatte,FS
+ materialtrennende Lackschicht,FS
+ Lack,FS
+ Mörtel,FS
+Gips,FS
+ Schutzversiegelung,FS
+ Überwachungsgerät für seismischeSchwingungen,FS
+ Opferanode,FS
+ Schuppen,FS
+ Unterstand,FS
+ Schneefang,FS
+"Objekt zur Bereitstellung eines steuerbaren
+Durchflusses",G
+Erzeugungsobjekt,G
+"Erzeugungsobjekt für durch mechanische
+Energie erzeugte elektrische Energie",GA
+"Erzeugungsobjekt für
+elektrische Energie durch
+mechanische Energie",GA
+Wechselstromgenerator,GA
+ Gleichstromgenerator,GA
+ Dynamo,GA
+Generator,GA
+"Erzeugungsobjekt für durch chemische
+Reaktion erzeugte elektrische Energie",GB
+"Erzeugungsobjekt für
+elektrische Energie durch
+chemische Energie",GB
+Batterie,GB
+ Elektrobatterie,GB
+ Brennstoffzelle,GB
+"Erzeugungsobjekt für durch Solarenergie
+erzeugte elektrische Energie",GC
+"Erzeugungsobjekt für
+elektrische Energie durch
+Sonnenenergie",GC
+kristallines Photovoltaik-Modul,GC
+ Solarzelle,GC
+ Dünnschicht-Photo-voltaik-Modul,GC
+"Erzeugungsobjekt von Signalen für
+Informationsträger",GF
+Signalerzeugungsobjekt,GF
+Elektromagnetwellenmesswertgeber,GF
+ Lasermesswertgeber,GF
+ Radio-wellenmesswertgeber,GF
+ Signalerzeuger,GF
+ Fernsehstation,GF
+"Erzeugungsobjekt für kontinuierlich
+laufende Geräte",GL
+"Kontinuierliches
+Beförderungsobjekt",GL
+Gurtförderer,GL
+ Kettenförderer,GL
+ Förderband,GL
+ Rolltreppe,GL
+ Paternoster,GL
+Rollenförderer,GL
+ Förderschnecke,GL
+ Vibrationsförderer,GL
+"Erzeugungsobjekt für nicht kontinuierlich
+laufende Geräte",GM
+"Nicht kontinuierliches
+Beförderungsobjekt",GM
+Kran,GM
+ Aufzug,GM
+ Hub,GM
+ Palletiergerät,GM
+ Stapelgerät,GM
+ Drehscheibe,GM
+Vibrationsförderer,GM
+ Wagen,GM
+Erzeugungsobjekt für Flüssigkeiten,GP
+Flüssigkeitsstrom-Erzeugungsobjekt,GP
+axiale Strömungspumpe,GP
+ Zentrifugalpumpe,GP
+ Strahlpumpe,GP
+Laufrad,GP
+ Strömungspumpe,GP
+ Schmiervorrichtung,GP
+ Öler,GP
+Peristaltikpumpe,GP
+ Kolbenpumpe,GP
+ Verdrängerpumpe,GP
+ radialeStrömungspumpe,GP
+ Rotationspumpe,GP
+ Schraubpumpe,GP
+Vakuumpumpe,GP
+Erzeugungsobjekt für Gas,GQ
+Gasstrom-Erzeugungsobjekt,GQ
+Luftvorhang,GQ
+ geschlossener Propellerlüfter,GQ
+ Gaskompressor,GQ
+Gasstrahler,GQ
+ mechanischer Lüfter,GQ
+ offener Propellerlüfter,GQ
+Propeller,GQ
+ Käfigläuferlüfter,GQ
+ Ventilator,GQ
+"Erzeugungsobjekt für durch Solarenergie
+erzeugte Wärmeenergie",GR
+"Erzeugungsobjekt für durch
+Solarenergie erzeugte
+Wärmeenergie",GR
+Flachsolarmodul,GR
+ Solarmodul,GR
+ Solarturm,GR
+Objekt zur Behandlung von Stoffen,H
+Stoffbearbeitungsobjekt,H
+Stoffbearbeitungsobjekt durch Urformen,HJ
+Urformobjekt,HJ
+3D-Drucker,HJ
+ Gießwerkzeug,HJ
+ Spanplattenpresse,HJ
+ Presse,HJ
+Sinterpresse,HJ
+"Stoffbearbeitungsobjekt für
+Oberflächenbehandlung",HK
+Oberflächenbehandlungsobjekt,HK
+Luftpistole,HK
+ Eloxierer,HK
+ Poliermaschine,HK
+ Geschirrspüler,HK
+ elektro-statische Beschichtungsmaschine,HK
+ Hämmermaschine,HK
+ Staub-sauger,HK
+ Ölbeschichtungsmaschine,HK
+ Polierer,HK
+ Sandpapier,HK
+Dusche,HK
+ Oberflächenbeschichtungsmaschine,HK
+ Oberflächen-bearbeitungsmaschine,HK
+ Oberflächenvorbereitungsmaschine,HK
+Ultraschall-Entfetter,HK
+ Dampf-Entfetter,HK
+ Fensterwischer,HK
+ Draht-bürste,HK
+"Stoffbearbeitungsobjekt durch Fügen oder
+Montieren",HL
+Montierobjekt,HL
+Montageroboter,HL
+ chemische Fügemaschine,HL
+ Crimpmaschine,HL
+Lichtbogenschweißgerät,HL
+ Reibschweißmaschine,HL
+ Klebema-schine,HL
+ Induktionslötmaschine,HL
+ mechanische Fügemaschine,HL
+Druckschweißer (Kaltschweißer),HL
+ Lötmaschine,HL
+ Thermo-Schweißmaschine,HL
+ Ultraschall-Schweißmaschine,HL
+"Stoffbearbeitungsobjekt zum erzwungenen
+Trennen vermischter Substanzen",HM
+Krafttrennobjekt,HM
+Zentrifuge,HM
+ Zyklon,HM
+ Hydrozyklon,HM
+ Absetzbecken,HM
+"Stoffbearbeitungsobjekt zum thermischen
+Trennen vermischter Substanzen",HP
+Thermisches Trennobjekt,HP
+Destilliergerät,HP
+ Destillationskolonne,HP
+ Trockner,HP
+ Verdampfer,HP
+"Stoffbearbeitungsobjekt zum mechanischen
+Trennen vermischter Substanzen",HQ
+Mechanisches Trennobjekt,HQ
+Beutelfilter,HQ
+ Filter,HQ
+ Rechen,HQ
+ Trenngitter,HQ
+ Sack,HQ
+ Abstreifer,HQ
+"Stoffbearbeitungsobjekt zum elektro-magnetischen Trennen vermischter
+Substanzen",HR
+"Elektrisches oder magnetisches
+Trennobjekt",HR
+Elektrostatischer Filter,HR
+ elektrostatischer Separator,HR
+magnetischer Separator,HR
+"Stoffbearbeitungsobjekt zum chemischen
+Trennen von vermischten Substanzen",HS
+Chemisches Trennobjekt,HS
+Absorber,HS
+ Absorptionswaschgerät,HS
+ Adsorber,HS
+ Elektrolysator,HS
+Ionenaustauscher,HS
+"Stoffbearbeitungsobjekt, mit dem festes
+Material zerkleinert wird",HU
+"Schleif- und
+Zerkleinerungsobjekt",HU
+Schneidmaschine,HU
+ Zerkleinerungsmaschine,HU
+ Getreidemühle,HU
+Mühle,HU
+ Steinbrecher,HU
+ Abfallzerkleinerer,HU
+ Wassermühle,HU
+"Stoffbearbeitungsobjekt, mit dem größere
+Formen von Material erzeugt werden",HV
+Anhäufungsobjekt,HV
+Flokkulationsapparat,HV
+ Flokkulator,HV
+ Pelletiergerät,HV
+"Stoffbearbeitungsobjekt, mit dem ver-schiedene Substanzen gemischt werden",HW
+Mischobjekt,HW
+Luftbefeuchter,HW
+ Knetmaschine,HW
+ Mischgerät,HW
+"Stoffbearbeitungsobjekt, mit dem durch
+chemische oder biologische Reaktion neues
+Material erzeugt wird",HX
+Reaktionsobjekt,HX
+Chemiereaktor,HX
+ Fermentiergerät,HX
+ Vergaser,HX
+"Objekt zur Verarbeitung von
+Eingangssignalen und Bereitstellung eines
+geeigneten Ausgangs",K
+Informationsverarbeitungsobjekt,K
+"Informationsverarbeitendes Objekt zur
+Verarbeitung elektrischer Signale",KE
+"Elektrische Signale
+verarbeitendes Objekt",KE
+Kartenschreibgerät,KE
+ zentrale Verarbeitungseinheit (CPU),KE
+Kommunikationsgerät,KE
+ CD-Brenner,KE
+ Computer,KE
+ Datennetz-Gateway,KE
+ Distanzschutz- und -steuereinheit,KE
+ Ethernet-Karte,KE
+Firewall,KE
+ FireWire-Karte,KE
+ I/O-Gerät,KE
+ I/O-Modul,KE
+ Schreibgerät füroptische Platten,KE
+ PC,KE
+ persönlicher Computer,KE
+ speicherprogram-mierbare Steuerung (SPS),KE
+ optischer CD-Brenner,KE
+ Fernbedie-nungsmodul (RTU),KE
+ Router,KE
+ Sicherheitsgerät,KE
+ Synchronisie-rungsgerät,KE
+ Synchronisierungsrelais,KE
+ Tablet-Computer,KE
+Tonbandgerät,KE
+ USB-Karte,KE
+"Informationsverarbeitendes Objekt zur
+Weiterleitung elektrischer Signale",KF
+"Elektrische Signale
+weiterleitendes Objekt",KF
+Koppler,KF
+ elektrische Netzwerkbrücke,KF
+ elektrischer Netzwerk-schalter,KF
+ Repeater,KF
+ Relais,KF
+ Zeitrelais,KF
+"Informationsverarbeitendes Objekt für
+optische Signale",KG
+Optisches Signalobjekt,KG
+optischer Netzwerkschalter,KG
+ optischer Verstärker,KG
+ optischerRouter,KG
+"Informationsverarbeitendes Objekt für
+fluidische Signale",KH
+Fluidisches Signalobjekt,KH
+Flüssigkeitsregler,KH
+ Pilotventil,KH
+"Informationsverarbeitendes Objekt für
+mechanische Signale",KJ
+Mechanisches Signalobjekt,KJ
+Schließzylinder,KJ
+ Schlüsselcode-Gerät,KJ
+ mechanischer Regler,KJ
+"Informationsverarbeitendes Objekt für
+mehrere Signale",KZ
+Mehrfach-Signalobjekt,KZ
+Mehrfachschalter,KZ
+"Objekt zur Erzeugung mechanischer
+Bewegungen oder Kraft",M
+Antriebsobjekt,M
+"Antriebsobjekt in Form von Drehmoment,
+angetrieben durch elektromagnetische Kraft",MA
+"Elektromagnetisches
+Rotationsantriebsobjekt",MA
+Wechselstrommotor,MA
+ Asynchron-Motor,MA
+ Gleichstrommotor,MA
+Elektromotor,MA
+ Induktionsmotor,MA
+ PM-Motor,MA
+ Servomotor,MA
+ Schritt-motor,MA
+ Synchronmotor,MA
+"Antriebsobjekt in Form von linearer Kraft,
+angetrieben durch elektromagnetische Kraft",MB
+"Elektromagnetisches
+Linearantriebsobjekt",MB
+Stellantrieb,MB
+ Elektromagnet,MB
+ Linearmotor,MB
+ Magnetventil,MB
+"Antriebsobjekt, angetrieben durch
+magnetische Kraft",MC
+Magnetkraft-Antriebsobjekt,MC
+Permanentmagnet,MC
+"Antriebsobjekt, angetrieben durch
+piezoelektrische Kraft",MD
+"Piezoelektrisches
+Antriebsobjekt",MD
+Piezoelektrischer Stellantrieb,MD
+ piezoelektrischer Motor,MD
+"Antriebsobjekt, angetrieben durch
+mechanische Energie",ML
+"Durch mechanische Energie
+angetriebenes Objekt",ML
+elastischer Energieantrieb,ML
+ Gasturbine,ML
+ Gravitationsenergiean-trieb,ML
+ Achterbahn,ML
+ Federantrieb,ML
+ Wasserturbine,ML
+ Windturbine,ML
+"Antriebsobjekt, angetrieben durch
+Flüssigkeitsverdrängung oder Druck",MM
+Flüssigkeitsbetriebenes Objekt,MM
+Hydraulikzylinder,MM
+ Hydraulikmotor,MM
+ Pneumatikzylinder,MM
+ Pneuma-tikmotor,MM
+"Antriebsobjekt, angetrieben durch
+Verbrennung von Brennstoffen",MS
+Verbrennungsmotor,MS
+Dieselmotor,MS
+ Ottomotor,MS
+ Wankelmotor,MS
+"Antriebsobjekt, angetrieben durch eine
+externe Wärmequelle",MT
+Wärmemaschine,MT
+Dampfmotor,MT
+ Stirling-Motor,MT
+"Objekt zum teilweisen oder vollständigen
+Abdecken eines anderen Objekts",N
+Abdeckobjekt,N
+"Abdeckungsobjekt durch Schließen einer
+Öffnung",NB
+Schließungsobjekt,NB
+Gehäuseklappe,NB
+ Kabinentür,NB
+ Schranktür,NB
+ Türblatt,NB
+ Blende,NB
+Tankdeckel,NB
+ Türflügel,NB
+ Luckendeckel,NB
+ Gehäusedeckel,NB
+Wartungsklappe,NB
+ Flügel einer großen Tür,NB
+"Abdeckungsobjekt durch
+Abschlussstrukturen",NC
+Abschlussobjekt,NC
+Luftfahrzeugverkleidung,NC
+ Luftfahrzeugbeplankung,NC
+ Rumpfver-kleidung,NC
+ Kraftfahrzeugkarosserieteile,NC
+ Deckenschicht,NC
+ Cockpit-verkleidung,NC
+ Bodenbelag,NC
+ Rasenboden,NC
+ Motorradverkleidung,NC
+Bepflasterung,NC
+ Pflanzenmatte,NC
+ Bedachung,NC
+ unbelastete Rumpf-platte,NC
+ Wandverkleidung,NC
+ Fensterbrett,NC
+ Fenstersims,NC
+"Abdeckungsobjekt zum Abschließen eines
+anderen Objekts",ND
+Abschließungsobjekt,ND
+Ortgang,ND
+ Deckenabschluss,ND
+ Krone,ND
+ Aufsatzkante,ND
+ Stirnbrett,ND
+Umbördelung,ND
+ Rasenkante,ND
+ Pflanzenbeetkante,ND
+ Zwischen-bodenkante,ND
+ Wandoberseite,ND
+"Abdeckungsobjekt zum Verdecken von
+Fugen und Übergängen",NE
+Verdeckungsobjekt,NE
+Architrav,NE
+ Sockelleiste,NE
+ Muffe,NE
+ Deckenverkleidung,NE
+ Traufe,NE
+Abdeckblech,NE
+ Auskleidung,NE
+ Dachabdeckung Sockelbrett,NE
+Wandeckenauskleidung,NE
+"Objekt zur Bereitstellung wahrnehmbarer
+Informationen",P
+Präsentierobjekt,P
+"Präsentierobjekt in sichtbarer Form diskreter
+Zustände",PF
+Sichtbare Zustandsanzeige,PF
+Stellungsanzeiger,PF
+ Signallampe,PF
+ Ampel,PF
+"Präsentierobjekt in sichtbarer Form einer
+einzelnen Skalarvariablen",PG
+Skalaranzeige,PG
+Amperemeter,PG
+ Winkelanzeige,PG
+ Audiospektrometer,PG
+ Barometer,PG
+Taktgeber,PG
+ Konzentrationsanzeige,PG
+ Cos-phi-Meter,PG
+ Dichteanzei-ge,PG
+ Maßanzeige,PG
+ Elektromagnetwellenanzeige,PG
+ Energiezähler,PG
+Feldindikator,PG
+ Durchflusszähler,PG
+ Kraftanzeige,PG
+ Frequenzmess-gerät,PG
+ Feuchteanzeige,PG
+ Hygrometer,PG
+ Füllstandsanzeige,PG
+ Mano-meter,PG
+ Positionsanzeige,PG
+ Druckanzeige,PG
+ Mengenmessgerät,PG
+Widerstandsanzeige,PG
+ Schauglas,PG
+ Temperaturanzeige,PG
+ Blind-verbrauchszähler,PG
+ Blindleistungsmessgerät,PG
+ Voltmeter,PG
+ Watt-stundenzähler,PG
+ Wattmeter,PG
+"Präsentierobjekt in sichtbarer Form durch
+Bilder, Symbole, Text oder physikalische
+Eigenschaften",PH
+Grafische Anzeige,PH
+Tafel,PH
+ Bildschirm,PH
+ Zeichnung,PH
+ Markierungsstelle,PH
+ Drucker,PH
+Projektor,PH
+ Referenzpunkt,PH
+ Schild,PH
+ Verkehrszeichen,PH
+ Whiteboard,PH
+Präsentationsobjekt in hörbarer Form,PJ
+Akustisches Gerät,PJ
+Glocke,PJ
+ Hupe,PJ
+ Lautsprecher,PJ
+Präsentationsobjekt in taktiler Form,PK
+Taktiles Gerät,PK
+Braille-Zeichen,PK
+ Warnung zu lichter Höhe,PK
+ Straßenrillen,PK
+ Rüttler,PK
+Präsentationsobjekt in Ornamentform,PL
+Ornamentobjekt,PL
+Teppich,PL
+ Sims,PL
+ Figur,PL
+ Fries,PL
+ Bild,PL
+ Pilaster,PL
+ Stuck,PL
+Präsentationsobjekt in mehreren Formen,PZ
+Mehrfachpräsentierobjekt,PZ
+Audiovisueller Alarm,PZ
+ Fernsehgerät,PZ
+"Objekt zur Steuerung von Zugang oder
+Durchfluss",Q
+Steuerungsobjekt,Q
+"Steuerobjekt für elektrischen Strom in einem
+Schaltkreis",QA
+Stromsteuerungsobjekt,QA
+Schütz,QA
+ Leistungsschalter,QA
+ Defibrillator,QA
+ elektronischerLeistungsschalter,QA
+ Motoranlasser,QA
+ Solid-State-Leistungs-transistor,QA
+ Thyristor,QA
+ Röhrenleistungstransistor,QA
+"Steuerobjekt durch Trennen elektrischer
+Stromkreise",QB
+Elektrisches Trennobjekt,QB
+Trennschalter,QB
+ Sicherungstrennschalter,QB
+ gesicherter Trenn-schalter,QB
+ sicherungsloser Trennschalter,QB
+ Lasttrennschalter,QB
+Sicherungslasttrennschalter,QB
+"Steuerobjekt durch Erdung elektrischer
+Stromkreise",QC
+Elektrisches Erdungsobjekt,QC
+Erdungsschalter,QC
+"Steuerobjekt zum Aktivieren/Deaktivieren
+von Flüssigkeiten in verschlossenen
+Umschließungen",QM
+"Schaltobjekt für
+eingeschlossene Flüssigkeiten",QM
+Ablaufhahn,QM
+ Wasserhahn,QM
+ Gassperrventil,QM
+ Flüssigkeitsab-sperrventil,QM
+ Ein-Aus-Klappe,QM
+ Stopfen,QM
+"Steuerobjekt zum Variieren des
+Flüssigkeitsstroms in verschlossenen
+Umschließungen",QN
+"Variierobjekt für
+eingeschlossene Flüssigkeiten",QN
+Regelklappe,QN
+ Gasregelventil,QN
+ Flüssigkeitsregelventil,QN
+"Steuerobjekt für Flüssigkeiten in offener
+Umgebung",QP
+Steuerobjekt für offenen Fluss,QP
+Dammplatte,QP
+ Flüssigkeitsdurchgang,QP
+ Schleusentor,QP
+ Stringer,QP
+Stopfen,QP
+ Ruder,QP
+ Grenzschichtzaun Tragflügel,QP
+ Turbulator,QP
+Wirbelerzeuger,QP
+Steuerobjekt für einen Raum,QQ
+Raumzugangsobjekt,QQ
+Tür,QQ
+ Notluke,QQ
+ Tor,QQ
+ Luke,QQ
+ große Tür,QQ
+ Riegel zum Öffnen,QQ
+Vorlegerblock,QQ
+ Fenster,QQ
+ Fenstereinheit,QQ
+Steuerobjekt für feste Substanzen,QR
+"Variierobjekt für feste
+Substanzen",QR
+Dosierer,QR
+ Klappenventil,QR
+ Irisventil,QR
+ Luftschleusen-Drehventil,QR
+Steuerobjekt für mechanische Bewegung,QS
+"Objekt zur Steuerung
+mechanischer Bewegungen",QS
+Verriegelung,QS
+ Schloss,QS
+ Eisenbahnweiche,QS
+ Schienenweiche,QS
+"Steuerobjekt in elektrischen Kreisen durch
+Verwenden verschiedener Maßnahmen",QZ
+Mehrfachsteuerobjekt,QZ
+Erdungs- und Trennschalter,QZ
+Objekt zur Begrenzung oder Stabilisierung,R
+Begrenzungsobjekt,R
+"Begrenzungsobjekt durch Einschränken des
+elektrischen Energieflusses",RA
+Elektrizitätsbegrenzungsobjekt,RA
+Diode,RA
+ Begrenzer,RA
+ Reaktor,RA
+ Widerstand,RA
+ Serienreaktor,RA
+"Begrenzungsobjekt durch Stabilisation eines
+elektrischen Energieflusses",RB
+Elektrizitätsstabilisierungsobjekt,RB
+Phasenkompensator,RB
+ Leistungausgleicher,RB
+ Leistungsfaktorkor-rektursystem,RB
+ Leistungsfaktorkorrektureinheit,RB
+ Leistungsfilter,RB
+unterbrechungsfreie Stromversorgung,RB
+ USV,RB
+ Spannungskom-pensator,RB
+"Begrenzungsobjekt zur Stabilisierung eines
+Signals",RF
+Signalstabilisierungsobjekt,RF
+Ferrit,RF
+ Signalausgleicher,RF
+ Signalfilter,RF
+"Begrenzungsobjekt zur Begrenzung von
+Bewegung",RL
+Bewegungsbegrenzungsobjekt,RL
+Bremse,RL
+ Türkette,RL
+ Ankerschiene,RL
+ Gummitülle,RL
+ Sicherheitskette,RL
+Stoßdämpfer,RL
+ Bodenschwelle,RL
+"Begrenzungsobjekt zur Begrenzung des
+Rückflusses von Stoffen",RM
+Rückflussbegrenzungsobjekt,RM
+Klappe,RM
+ Drosselklappe,RM
+ Rückschlagventil,RM
+ Geruchsverschluss,RM
+"Begrenzungsobjekt zur Begrenzung des
+geführten Rückflusses von Stoffen",RN
+Durchflussbegrenzer,RN
+Einstellbare Düse,RN
+ Lufteinlass,RN
+ Luftauslass,RN
+ Diffusor,RN
+ Absperr-hahn,RN
+ feste Düse,RN
+ Messblende,RN
+ Regelklappe,RN
+ Regelventil,RN
+Dusche,RN
+ Duschkopf,RN
+ Regelventil für Feststoffe,RN
+ Lüftungseinlass,RN
+Lüftungsauslass,RN
+Begrenzungsobjekt für die lokale Umgebung,RQ
+"Lokales
+Klimastabilisierungsobjekt",RQ
+Ausmauerung,RQ
+ Klimamembran,RQ
+ Vorhang,RQ
+ Isolierung,RQ
+ Jalousien,RQ
+Membran,RQ
+ Lärmschutzwand,RQ
+ Lärmschutz,RQ
+ Blende,RQ
+ Sichtschutz-wand,RQ
+ Rollladen,RQ
+ Schallwand,RQ
+ Unkrautbekämpfungsvlies,RQ
+Begrenzungsobjekt zur Zutrittsbegrenzung,RU
+Zutrittsbegrenzungsobjekt,RU
+Riegel,RU
+ Vogelnetz,RU
+ Absperrpfosten,RU
+ Zutrittsverwaltungsgerät,RU
+Zaun,RU
+ Torvorrichtung,RU
+ Einwege-Tür,RU
+ Nagerschutz,RU
+ Rattenschutz-gerät,RU
+ Viehschutz,RU
+ Ticket-Durchgang,RU
+"Objekt zum Erkennen einer menschlichen
+Handlung und Bereitstellung einer
+geeigneten Reaktion",S
+"Objekt zur menschlichen
+Interaktion",S
+"Objekt zur menschlichen Interaktion durch
+Fokussieren mit dem Auge",SF
+Gesichtsinteraktionsobjekt,SF
+Augenbetätigung für Positionierungsvorgänge,SF
+ Augenfokus-Lesegerät,SF
+"Objekt zur menschlichen Interaktion durch
+Handbetätigung",SG
+Handinteraktionsobjekt,SG
+Aktivierungsgerät mit 2 oder 3 Stellungen,SG
+ Notseilzug,SG
+ Notfall-knopf,SG
+ Handgriff,SG
+ Schlüssel,SG
+ Schlüsselschalter,SG
+ Hebelgriff,SG
+mechanischer Hebel,SG
+ Potentiometer,SG
+ Zughebel,SG
+ Druckhebel,SG
+Drehschalter,SG
+ Drehhebel,SG
+ Zweihandsteuerung,SG
+"Objekt zur menschlichen Interaktion durch
+Fußbetätigung",SH
+Fußinteraktionsobjekt,SH
+Aktivierungsgerät mit 2 oder 3 Stellungen,SH
+ Pedalschalter,SH
+"Objekt zur menschlichen Interaktion durch
+Fingerbetätigung",SJ
+Fingerinteraktionsobjekt,SJ
+Schalter mit zwei Stellungen,SJ
+ Kippschalter,SJ
+ Niederhalter,SJ
+ Tasta-tur,SJ
+ Druckknopf,SJ
+ Druckschalter,SJ
+ Druckbetätiger,SJ
+ Touchpad,SJ
+Drehrad,SJ
+"Objekt zur menschlichen Interaktion durch
+Bewegen oder Positionieren",SK
+Bewegungsinteraktionsobjekt,SK
+Joystick,SK
+ Maus,SK
+ Lichtstift,SK
+ Kugelmaus,SK
+"Objekt zur menschlichen Interaktion durch
+mehrere, verschiedenartige Interaktions-mittel",SZ
+Mehrfachinteraktionsgerät,SZ
+Gamepad,SZ
+ Gamecontroller,SZ
+ Joypad,SZ
+ Bedienfeld,SZ
+Objekt zum Transformieren,T
+Transformierobjekt,T
+"Transformierobjekt für elektrische Energie
+bei Beibehaltung von Wechsel- oder
+Gleichstrom",TA
+Stromtransformierendes Objekt,TA
+Gleichstrom/Gleichstrom-Wandler,TA
+ Frequenzwandler,TA
+ Trenn-transformator,TA
+ Phasenschieber,TA
+ Kraftantrieb,TA
+ Transformator,TA
+"Transformierobjekt für elektrische Energie
+mit Änderung zwischen Wechsel- und
+Gleichstrom",TB
+Stromkonvertierungsobjekt,TB
+Bidirektionaler Wandler,TB
+ Wandler,TB
+ Stromversorgung,TB
+ Strom-richter,TB
+"Transformierobjekt für elektrische Energie
+von Wechsel- und Gleichstrom zu Wechsel-oder Gleichstrom",TC
+Universelle Stromversorgung,TC
+Stromversorgung,TC
+ universelle Wechselstromversorgung,TC
+universelle Gleichstromversorgung,TC
+Transformierobjekt für Signale,TF
+Signalkonvertierungsobjekt,TF
+Antenne,TF
+ Verstärker,TF
+ Handy,TF
+ induktive Signalantenne,TF
+ IR-Diode,TF
+IR-Sender,TF
+ Mobiltelefon,TF
+ optischer Empfänger/Messwertgeber,TF
+Optokoppler,TF
+ Oszillator,TF
+ Telefon,TF
+ RF-Signalantenne,TF
+ Signal-antenne,TF
+ Signalwandler,TF
+ Umformer,TF
+Transformierobjekt für mechanische Energie,TL
+"Objekt zum Transformieren
+von mechanischer Energie",TL
+Automatikgetriebe,TL
+ Regelkupplung,TL
+ Schaltgetriebe,TL
+ Getriebe,TL
+Hebel,TL
+ Drehzahlwandler,TL
+ Drehmomentwandler,TL
+"Transformierobjekt für Materie durch
+Massereduktion",TM
+Massereduktionsobjekt,TM
+Bohrmaschine,TM
+ Bohrer,TM
+ Elektronenentladungs-Sägemaschine,TM
+Ätzmaschine,TM
+ Gasschneidemaschine,TM
+ Schleifmaschine,TM
+chemisches Eintauchgerät,TM
+ Plasmabogen-Schneidemaschine,TM
+Stanzmaschine,TM
+ Säge,TM
+ chemisches Sprühgerät,TM
+ thermischeTrennvorrichtung,TM
+ Drehmaschine,TM
+"Transformierobjekt für Materie durch
+Formänderung",TP
+Materieumformungsobjekt,TP
+Biegemaschine,TP
+ Kaltschmiedemaschine,TP
+ Rändelmaschine,TP
+elektrohydraulische Umformmaschine,TP
+ elektromagnetischeUmformmaschine,TP
+ Explosionsumformmaschine,TP
+ Extruder,TP
+Schmiedemaschine,TP
+ Heißschmiedemaschine,TP
+ Bördelmaschine,TP
+Walzmaschine,TP
+ Verschließmaschine,TP
+ Blechwalze,TP
+ Scherma-schine,TP
+ Gewindeerzeugungsmaschine,TP
+ Rohrziehmaschine,TP
+Drahtziehmaschine,TP
+"Transformierobjekt für Strahlung durch
+Photosynthese",TR
+Pflanze,TR
+Busch,TR
+ Ranker,TR
+ Blume,TR
+ Gras,TR
+ Kraut,TR
+ Strauch,TR
+ Baum,TR
+ Gemüse-pflanze,TR
+Objekt zur Verortung anderer Objekte,U
+Halteobjekt,U
+"Halteobjekt fixiert in einer bestimmten
+Position",UA
+Positionierobjekt,UA
+Latte,UA
+ Fahrradständer,UA
+ Kabelzugang,UA
+ Kabeleingang,UA
+ Kabel-führung,UA
+ Spannfutter,UA
+ Klemme,UA
+ Anschlag,UA
+ Spalier,UA
+ Flansch,UA
+Isolator,UA
+ Backe,UA
+ Drehfutter,UA
+ Gitter,UA
+ Leuchtkörper,UA
+ Leuchte,UA
+Schienenmessgerät,UA
+ Einsatz,UA
+ Treppenbalken,UA
+ Balken,UA
+ Spur-messgerät,UA
+ Fahrzeugständer,UA
+Halteobjekt trägt,UB
+Trageobjekt,UB
+Kabelkanal,UB
+ Kabelleiter,UB
+ Kabelgestell,UB
+ Kabeltrasse,UB
+ Laufsteg,UB
+Kabelführung,UB
+ Kabelrohr,UB
+ Leitungsmast,UB
+ Gerätestützstruktur,UB
+Bügel,UB
+ Aufhängevorrichtung,UB
+ Mast,UB
+ Operationstisch,UB
+ Plattform,UB
+Stange,UB
+ Portal,UB
+ Pfosten,UB
+ Sprosse,UB
+ Stufe,UB
+ Gurt,UB
+ Fernleitungsmast,UB
+Halteklammer,UB
+ Tisch,UB
+ Tritt,UB
+Halteobjekt formt eine Stützstruktur,UC
+Umschließobjekt,UC
+Schrank,UC
+ Abzugshaube,UC
+ Kabine,UC
+ Schaltschrank,UC
+ elektrischeSchalttafel,UC
+ Pflanzenerde,UC
+ Schlauchtrommelkasten,UC
+ Sensor-gehäuse,UC
+ Sicherheitsschrank,UC
+ Wartungskammer,UC
+ Server-Gestell,UC
+Untergestell,UC
+"Halteobjekt fixiert in einer bestimmten
+Position",UL
+Strukturstützobjekt,UL
+Stützpfeiler,UL
+ Aggregatunterplatte,UL
+ Bogen,UL
+ Baluster,UL
+ Basismaterial,UL
+Tragschicht,UL
+ Basisschicht,UL
+ Balken,UL
+ Trägerplatte,UL
+ Bilgenplatte,UL
+Verbindungsschicht,UL
+ Block,UL
+ Ziegelstein,UL
+ Brückendeck,UL
+ Brücken-pylon,UL
+ Gebäudefundament,UL
+ Stützpfeiler,UL
+ Stützmauer,UL
+ Säule,UL
+Druckelement,UL
+ Betonplatte,UL
+ Betonelement,UL
+ Konsole,UL
+ Kragstein,UL
+Widerlager,UL
+ Deck,UL
+ Dom,UL
+ Erdanker,UL
+ Gegenwand,UL
+ Bodenplatte,UL
+Fundamentbalken,UL
+ Fundamentblock,UL
+ Fundamentsäule,UL
+ Funda-mentplatte,UL
+ Fundamentwand,UL
+ Schwergewichtsmauer,UL
+ Boden-verankerung,UL
+ Lochdeck,UL
+ Rumpfplatte,UL
+ Lamelle,UL
+ tragende Wand,UL
+Maschinenfundament,UL
+ Pfahl,UL
+ Pfeiler,UL
+ Rohrbrücke,UL
+ Platte,UL
+ Sockel,UL
+Druckverteiler,UL
+ Wandhalteplatte,UL
+ Felsanker,UL
+ Seil,UL
+ Spundwand,UL
+Rohblock,UL
+ Rohplatte,UL
+ Stein,UL
+ tragende Schale,UL
+ Strebe,UL
+ Auflagekeil,UL
+Zugstrebe,UL
+ Zuganker,UL
+ Gewölbe,UL
+ Wand,UL
+ Wandplatte,UL
+Halteobjekt verstärkt,UM
+Verstärkungsobjekt,UM
+Betoneinspritzung,UM
+ Betonauskleidung,UM
+ Betonspritzen,UM
+ Diagonal-verbindung,UM
+ Erdeinbettung,UM
+ horizontale Schiene,UM
+ Kalksäule,UM
+ Bür-gersteigverstärkung,UM
+ Stahlverstärkungen,UM
+ Verstärkungsbalken,UM
+verstärkte Masseschicht,UM
+ Verstärkungsmaterial,UM
+ Verstärkungs-matte,UM
+ Verstärkungspfeiler,UM
+ Sicherheitsschließblech,UM
+ Vertikaldrän,UM
+Spleißung,UM
+ Spleißplatte,UM
+ Stabilisierkabel,UM
+ Versteifung,UM
+"Halteobjekt fixiert in einer bestimmten
+Position",UN
+Umrahmungsobjekt,UN
+Türrahmen,UN
+ fester Rahmen,UN
+ Fenstersprosse,UN
+ Fenstersprossen-rahmen,UN
+ beweglicher Rahmen,UN
+ Türschwelle,UN
+ Fensterrahmen,UN
+Fensterscheibenrahmen,UN
+Halteobjekt verbindet,UP
+Fugenobjekt,UP
+Kugellager,UP
+ Lager,UP
+ Zement,UP
+ chemische Verbindung,UP
+ Scharnier,UP
+Rollenlager,UP
+ Schiebeelement,UP
+ Strukturverbindung,UP
+Halteobjekt macht fest,UQ
+Befestigungsobjekt,UQ
+Ankerplatte,UQ
+ Bolzen,UQ
+ chemische Bindung,UQ
+ elastische Lagerung,UQ
+Dehnungsfuge,UQ
+ Bewegungsfuge,UQ
+ Befestigungsschelle,UQ
+ Nagel,UQ
+Mutter,UQ
+ Schienenbefestigung,UQ
+ Niete,UQ
+ Schraube,UQ
+"Halteobjekt trägt durch Angleichen, Auffüllen",UT
+Ausgleichungsobjekt,UT
+Baugrube,UT
+ Füllen,UT
+ Unterbau,UT
+"Halteobjekt trägt durch bestehenden Grund
+und Boden",UU
+Vorhandener Boden,UU
+Bindiger Boden,UU
+ Füllmaterial,UU
+ Reibboden,UU
+ organischer Boden,UU
+Stein,UU
+"Objekt zum Leiten von einem Ort zu einem
+anderen",W
+Leitobjekt,W
+"Leitobjekt für elektrische
+Hochspannungsenergie",WB
+Hochspannungsenergie-Leitobjekt,WB
+Hochspannungs-Sammelschiene,WB
+ Hochspannungsdurchführung,WB
+Hochspannungskabel,WB
+ Hochspannungsdraht,WB
+"Leitobjekt für elektrische
+Niederspannungsenergie",WD
+Niederspannungsenergie-Leitobjekt,WD
+Niederspannungs-Sammelschiene,WD
+ Niederspannungsdurch-führung,WD
+ Niederspannungskabel,WD
+ Niederspannungsdraht,WD
+Leitobjekt für ein Referenzpotential,WE
+Referenzpotential-Leitobjekt,WE
+Erdungskabel,WE
+ Erdungsschiene,WE
+ Potentialausgleichskabel,WE
+ Poten-tialausgleichsschiene,WE
+Leitobjekt für elektrische Signale,WG
+Elektrisches Signalleitobjekt,WG
+Steuerkabel,WG
+ Datenbus,WG
+ Datenkabel,WG
+ Durchführung für elektrischeSignale,WG
+Leitobjekt für Licht,WH
+Lichtleitobjekt,WH
+Glasfaserkabel,WH
+ Linse,WH
+ Lichtreflektor,WH
+ Spiegel,WH
+ optisches Licht-wellenleiterkabel,WH
+ optischer Lichtleiter,WH
+ optischer Wellenleiter,WH
+Leitobjekt für Schall,WJ
+Schallleitobjekt,WJ
+Schallreflektor,WJ
+"Leitobjekt von festen Stoffen in offener
+Umschließung",WL
+Feststoff-Leitobjekt,WL
+Rinne,WL
+ geneigte Ebene,WL
+ Rollentisch,WL
+ Rohrkettenförderer,WL
+"Leitobjekt für Flüssigkeitsdurchfluss in
+offener Umschließung",WM
+"Leitobjekt in offener
+Umschließung",WM
+Belüftungsschicht,WM
+ Belüftungsrohr,WM
+ Belüftungsschacht,WM
+ Ablass-schicht,WM
+ Ablassrohr,WM
+ Flüssigkeitsablassblech,WM
+ Wassernase,WM
+Regenrinne,WM
+ Regentraufe,WM
+ Rinne,WM
+ Tropfrinne,WM
+ Versickerungs-kammer,WM
+ Versickerungsebene,WM
+ Versickerungsrohr,WM
+Radonschacht,WM
+ Dachrinne,WM
+"Leitobjekt für Feststofffluss in geschlossener
+Umschließung",WP
+"Leitobjekt in geschlossener
+Umschließung",WP
+Schlot,WP
+ Kanal,WP
+ Schlauch,WP
+ Rohr,WP
+Leitobjekt für mechanische Energie,WQ
+"Objekt zum Leiten von
+mechanischer Energie",WQ
+Achse,WQ
+ Kette,WQ
+ Zahnrad,WQ
+ Antriebsachse,WQ
+ Antriebsriemen,WQ
+ Antriebs-kette,WQ
+ Antriebsverbindung,WQ
+ Getrieberad,WQ
+ Hydraulikschlauch,WQ
+Hydraulikrohr,WQ
+ bewegliche Leitung,WQ
+ Pneumatikschlauch,WQ
+Pneumatikrohr,WQ
+ Zahnstange,WQ
+ V-Riemen,WQ
+ Rad,WQ
+Leitobjekt für gleisgebundene Objekte,WR
+Gleisobjekt,WR
+Gleisbahn,WR
+ Schiene,WR
+ Gleisübergang,WR
+Leitobjekt für Wärmeenergie,WV
+"Objekt zum Leiten von
+Wärmeenergie",WV
+Wärmesenke,WV
+ Wärmeleiter,WV
+ Wärmepaste,WV
+Leitobjekt mit mehreren Flussarten,WZ
+Mehrfachfluss-Leitobjekt,WZ
+Versorgungsleitung,WZ
+ Versorgungsleitungskabel,WZ
+"Objekt zur Bereitstellung einer Schnittstelle
+zu einem anderen Objekt",X
+Schnittstellenobjekt,X
+"Schnittstellenobjekt für
+Hochspannungsstrom",XB
+Hochspannungs-Verbindungsobjekt,XB
+Klemme,XB
+ Kabelkopf,XB
+ Hochspannungskabelverbindung,XB
+ Hoch-spannungsstecker,XB
+ Hochspannungssteckdose,XB
+ Hochspannungs-klemme,XB
+ Hochspannungsanschlusskasten,XB
+ Anschlussverteiler,XB
+"Schnittstellenobjekt für
+Niederspannungsstrom",XD
+Niederspannungs-Verbindungsobjekt,XD
+Elektrischer Anschlusskasten,XD
+Niederspannungskabelverbindung,XD
+ Niederspannungsstecker,XD
+Niederspannungssteckdose,XD
+ Niederspannungsklemme,XD
+ Stecker,XD
+Stromverteiler,XD
+ Netzsteckdose,XD
+ Anschlussklemme,XD
+Anschlusskasten,XD
+"Schnittstellenobjekt für Erd- oder
+Bezugspotential",XE
+Potentialverbindungsobjekt,XE
+Stromabnehmer,XE
+ Erdungselektrode,XE
+ FB-Anschlusspunkt,XE
+ FE-An-schlusspunkt,XE
+ Funktionsverbindungsanschlusspunkt,XE
+ Funktions-erdungsanschlusspunkt,XE
+ PB-Anschlusspunkt,XE
+ PE-Anschlusspunkt,XE
+Schutzverbindungsanschlusspunkt,XE
+ Schutzleiteranschlusspunkt,XE
+Schutzerdungsleiteranschlusspunkt,XE
+Schnittstellenobjekt für elektrische Signale,XG
+"Elektrisches
+Signalverbindungsobjekt",XG
+Anschlussverteiler,XG
+ Rangierfeld,XG
+ Signalverteiler,XG
+ Signalsteckdose,XG
+Klemme,XG
+Schnittstellenobjekt für optische Fasern,XH
+Lichtverbindungsobjekt,XH
+Feste Lichtfasersteckdose,XH
+ optischer Stecker,XH
+ optische Steckdose,XH
+"Schnittstellenobjekt zum Ansammeln und
+Weiterleiten in einen Durchfluss",XK
+Sammelschnittstellenobjekt,XK
+Bidet,XK
+ Tropfbecher,XK
+ Bodenablauf,XK
+ Waschbecken,XK
+ Toilette,XK
+ Urinal,XK
+WC,XK
+"Schnittstellenobjekt für Materialfluss in
+versiegeltem Objekt",XM
+"Versiegeltes
+Durchflussverbindungsobjekt",XM
+Kammer,XM
+ Löschschlauchkupplung,XM
+ Klebverbindung,XM
+ Schlauch-kupplung,XM
+ Schlauchanschlussstück,XM
+ Schlauchflansch,XM
+ Rohrkupp-lung,XM
+ Rohranschlussstück,XM
+ Rohrflansch,XM
+ Druckverbindung,XM
+ Hülse,XM
+Lötanschlussstück,XM
+"Schnittstellenobjekt für kontinuierliche
+Übertragung von mechanischer Kraft",XN
+Fest angeschlossener Koppler,XN
+Schalenkupplung,XN
+ Puffer-und-Ketten-Kupplung,XN
+ Kardangelenk,XN
+Linien-und-Bolzenkupplung,XN
+ Flanschkoppler,XN
+ flexible Kupplung,XN
+Hardy-Spicer-Gelenk,XN
+ Hirth-Koppler,XN
+ Hirth-Kupplung,XN
+ Hirth-Gelenk,XN
+ Hooke-Gelenk,XN
+ Hülsenkupplung,XN
+ geteilte Muffenkupplung,XN
+U-Gelenk,XN
+ Universalkupplung,XN
+"Schnittstellenobjekt für ununterbrochene
+Übertragung von mechanischer Kraft",XP
+"Nicht fest angeschlossener
+Koppler",XP
+Fliehkraftkupplung,XP
+ Flüssigkeitskupplung,XP
+ Freilaufschaltung,XP
+Reibkupplung,XP
+ Hydraulikkupplung,XP
+ Magnetkopf-Hubvorrichtung,XP
+Magnethub,XP
+ Freilaufkupplung,XP
+"Schnittstellenobjekt zur Verbindung mehrerer
+Ebenen",XS
+Ebenenverbindungsobjekt,XS
+Feuerwehr-Rutschstange,XS
+ Treppenlauf,XS
+ Laufsteg,XS
+ Leiter,XS
+ Treppen-absatz,XS
+ Rampe,XS
+"Schnittstellenobjekt zum Verbinden von
+Räumen",XT
+Raumverbindungsobjekt,XT
+Schalung,XT
+ Hohlraum,XT
+ Loch,XT
+ Öffnung,XT
+Schnittstellenobjekt mit mehreren Flussarten,XZ
+Mehrfachfluss-Verbindungs-objekt,XZ
+Mehrfachverbinder,XZ
+Objekt zur Erfassung und Darstellung von Informationen,B
+Erkennungsobjekt,B
+Erkennungsobjekt für elektrisches Potential,BA
+"Objekt zur Erkennung von
+elektrischem Potential",BA
+"Objekt zur Erkennung von elektrischem Potential, mit
+Skalarausgang",BAA
+Spannungswandler,BAA
+Kopplungskondensator,BAA
+Spannungswandler fürMesszwecke,BAA
+"Objekt zur Erkennung von elektrischem Potential, mit
+Booleschem Ausgang",BAB
+Spannungsrelais,BAB
+Messspannungsrelais,BAB
+Erkennungsobjekt für Widerstand oder Leitfähigkeit,BB
+"Objekt zur Erkennung von
+Widerstand",BB
+"Widerstanderkennungsobjekt für elektrischen Stromfluss, mit
+Skalarausgang",BBA
+"Messgerät für elektrischen
+Widerstand",BBA
+"Widerstanderkennungsobjekt für elektrischen Stromfluss, mit
+Booleschem Ausgang",BBB
+Detektor für elektrischen Widerstand,BBB
+"Widerstanderkennungsobjekt für Wärmefluss, mit
+Skalarausgang",BBC
+"Messgerät für thermischen
+Widerstand",BBC
+"Widerstanderkennungsobjekt für Wärmefluss, mit Booleschem
+Ausgang",BBD
+"Detektor für thermischen
+Widerstand",BBD
+Erkennungsobjekt für elektrischen Strom,BC
+"Objekt zur Erkennung von
+elektrischem Strom",BC
+"Objekt zur Erkennung von elektrischem Strom, mit
+Skalarausgang",BCA
+Stromwandler,BCA
+Messstromwandler,BCA
+"Objekt zur Erkennung von elektrischem Strom, mit Booleschem
+Ausgang",BCB
+Stromrelais,BCB
+elektronisches Überlastrelais,BCB
+Messstromrelais,BCB
+ Überlastrelais,BCB
+Erkennungsobjekt für Dichte,BD
+Dichteerkennungsobjekt,BD
+"Dichteerkennungsobjekt, mit Skalarausgang",BDA
+Dichtemesswertgeber,BDA
+Senkwaage,BDA
+ Dichtesensor,BDA
+Hydrometer,BDA
+"Dichteerkennungsobjekt, mit Booleschem Ausgang",BDB
+Dichteschalter,BDB
+Dichtesensor,BDB
+Erkennungsobjekt für Spannungsfeld,BE
+Spannungsfelderkennungsobjekt,BE
+"Felderkennungsobjekt für elektrische Felder, mit Skalarausgang",BEA
+Elektrischer Feldsensor,BEA
+"Felderkennungsobjekt für elektrische Felder, mit Booleschem
+Ausgang",BEB
+Elektrischer Felddetektor,BEB
+"Felderkennungsobjekt für Magnetfelder, mit Skalarausgang",BEC
+Magnetfeldsensor,BEC
+"Felderkennungsobjekt für Magnetfelder, mit Booleschem
+Ausgang",BED
+Magnetfelddetektor,BED
+Reedrelais,BED
+ Reedschalter,BED
+Erkennungsobjekt für Durchfluss,BF
+Durchflusserkennungsobjekt,BF
+"Durchflusserkennungsobjekt, mit Skalarausgang",BFA
+Durchflussmesswertgeber,BFA
+Durchflusssensor,BFA
+ Gasflusssensor,BFA
+Flüssigkeitsflusssensor,BFA
+ Feststoff-flusssensor,BFA
+ Wasserflusssensor,BFA
+"Durchflusserkennungsobjekt, mit Booleschem Ausgang",BFB
+Durchflussschalter,BFB
+Gasflussschalter,BFB
+ Feststofffluss-schalter,BFB
+Erkennungsobjekt für räumliche Dimension und/oder Position,BG
+"Objekt zur Erkennung von
+physikalischen Dimensionen",BG
+"Objekt zur Erkennung physikalischer Dimensionen der Position,
+mit Skalarausgang",BGA
+Positionsmesswertgeber,BGA
+Positionssensor,BGA
+ Präsenzdetektor,BGA
+Radar,BGA
+ Windrichtungssensor,BGA
+"Objekt zur Erkennung physikalischer Dimensionen der Position,
+mit Booleschem Ausgang",BGB
+Positionsschalter,BGB
+Bewegungsdetektor,BGB
+ Bewegungs-sensor (PIR),BGB
+ Positionssensor,BGB
+Präsenzdetektor,BGB
+"Objekt zur Erkennung physikalischer Dimensionen für Längen,
+mit Skalarausgang",BGC
+Distanzmesswertgeber,BGC
+Laserdistanzsensor,BGC
+ Positions-sensor,BGC
+ Sichtbarkeitssensor,BGC
+"Objekt zur Erkennung physikalischer Dimensionen für Längen,
+mit Booleschem Ausgang",BGD
+Distanzschalter,BGD
+Laserdistanzsensor,BGD
+ Laserdistanz-Erkennungsschalter,BGD
+ Bewegungs-detektor,BGD
+ Bewegungssensor (PIR),BGD
+Positionssensor,BGD
+ Präsenzdetektor,BGD
+Sichtbarkeitsdetektor,BGD
+"Objekt zur Erkennung physikalischer Dimensionen für Winkel
+oder Richtungen, mit Skalarausgang",BGE
+Winkelmesswertgeber,BGE
+Ausrichtungssensor,BGE
+ Anschlag,BGE
+Positionssensor,BGE
+ Positions-messwertgeber,BGE
+ Drehgeber,BGE
+Anzeigeeinrichtung,BGE
+ Windrich-tungsanzeige,BGE
+"Objekt zur Erkennung physikalischer Dimensionen für Winkel
+oder Richtungen, mit Booleschem Ausgang",BGF
+Winkelschalter,BGF
+Ausrichtungsschwellendetektor,BGF
+Bewegungsdetektor,BGF
+ Bewegungs-sensor (PIR),BGF
+ Positionssensor,BGF
+Präsenzdetektor,BGF
+ Radar,BGF
+"Objekt zur Erkennung physikalischer Dimensionen für
+physikalische Objekte",BGG
+Objektscanner,BGG
+2D-Scanner,BGG
+ 3D-Scanner,BGG
+Koordinatenscanner,BGG
+ Laserscanner,BGG
+Erkennungsobjekt für Energie,BH
+Energieerkennungsobjekt,BH
+"Energieerkennungsobjekt für Durchflüsse mit einer definierten
+Energiedichte",BHA
+Durchflussenergiemessgerät,BHA
+Kühlungsengergie-Messgerät,BHA
+Energiezähler,BHA
+ Energiesensor,BHA
+Gasenergiezähler,BHA
+"Energieerkennungsobjekt für thermische Durchflüsse mit einer
+definierten Wärmekapazität",BHB
+Wärmeenergiemessgerät,BHB
+Kondensatsensor,BHB
+ Energieküh-lungsmessgerät,BHB
+ Energiezähler,BHB
+Energiesensor,BHB
+Energieerkennungsobjekt für Stromflüsse,BHC
+Stromflussmessgerät,BHC
+kWh-Sensor,BHC
+Erkennungsobjekt für Leistung,BJ
+Leistungserkennungsobjekt,BJ
+"Leistungserkennungsobjekt, mit Skalarausgang",BJA
+Leistungsmessgerät,BJA
+kW-Zähler,BJA
+"Leistungserkennungsobjekt, mit Booleschem Ausgang",BJB
+Leistungsbegrenzungsschalter,BJB
+Erkennungsobjekt für Zeit,BK
+Zeiterkennungsobjekt,BK
+"Zeiterkennungsobjekt, mit Skalarausgang",BKA
+Zeitmessgerät,BKA
+Uhr,BKA
+ Zeitinformationsgerät,BKA
+"Zeiterkennungsobjekt, mit Booleschem Ausgang",BKB
+Zeitschalter,BKB
+Zeitzähler,BKB
+Erkennungsobjekt für Füllstand,BL
+Füllstandserkennungsobjekt,BL
+"Füllstandserkennungsobjekt, mit Skalarausgang",BLA
+Füllstandsmesswertgeber,BLA
+Füllstandsensor,BLA
+Flüssigkeitsstandsensor,BLA
+"Füllstandserkennungsobjekt, mit Booleschem Ausgang",BLB
+Füllstandschalter,BLB
+Flüssigkeitsstandschalter,BLB
+Erkennungsobjekt für Feuchte,BM
+Feuchteerkennungsobjekt,BM
+"Feuchteerkennungsobjekt, mit Skalarausgang",BMA
+Feuchtemesswertgeber,BMA
+Feuchte-Messfühler,BMA
+"Feuchteerkennungsobjekt, mit Booleschem Ausgang",BMB
+Feuchteschalter,BMB
+Feuchte-Messfühler,BMB
+Erkennungsobjekt für Druck,BP
+Druckerkennungsobjekt,BP
+"Druckerkennungsobjekt, das einen Anschluss zur Erkennung
+des absoluten Drucks verwendet, mit Skalarausgang",BPA
+Absolutdruckmesswertgeber,BPA
+Absolutdrucksensor,BPA
+ Manometer,BPA
+Druckwächter,BPA
+ Drucksensor,BPA
+Druckaufnehmer,BPA
+"Druckerkennungsobjekt, das einen Anschluss zur Erkennung
+des absoluten Drucks verwendet, mit Booleschem Ausgang",BPB
+Absolutdruckschalter,BPB
+Druckschalter,BPB
+"Druckerkennungsobjekt, das zwei Anschlüsse zur Erkennung
+des Differenzdrucks verwendet, mit Skalarausgang",BPC
+Differenzdruckmesswertgeber,BPC
+Differentialdrucksensor,BPC
+ Druck-sensor,BPC
+ Relativdrucksensor,BPC
+"Druckerkennungsobjekt, das zwei Anschlüsse zur Erkennung
+des Differenzdrucks verwendet, mit Booleschem Ausgang",BPD
+Differenzdruckschalter,BPD
+Drucksensor,BPD
+ Druckschalter,BPD
+Relativdrucksensor,BPD
+ Relativdruck-schalter,BPD
+Erkennungsobjekt für Substanzkonzentration,BQ
+Konzentrationserkennungsobjekt,BQ
+"Konzentrationserkennungsobjekt für Gas, mit Skalarausgang",BQA
+Gaskonzentrationsmessgerät,BQA
+CO-Konzentrationssensor,BQA
+CO_{2} -Konzentrationssensor,BQA
+Konzentrationssensor,BQA
+NH_{3} -Konzentrationssensor,BQA
+"Konzentrationserkennungsobjekt für Gas, mit Booleschem
+Ausgang",BQB
+Gaskonzentrationsdetektor,BQB
+Konzentrationserkennungsschalter,BQB
+"Konzentrationserkennungsobjekt für Flüssigkeiten, mit
+Skalarausgang",BQC
+Flüssigkeitskonzentrationsmessgerät,BQC
+Konzentrationssensor,BQC
+Nebelsensor,BQC
+Benzinkonzentrationssensor,BQC
+Sichtbarkeitssensor,BQC
+"Konzentrationserkennungsobjekt für Flüssigkeiten, mit
+Booleschem Ausgang",BQD
+Flüssigkeitskonzentrationsdetektor,BQD
+Konzentrationserkennungsschalter,BQD
+Nebeldetektor,BQD
+Sichtbarkeitsdetektor,BQD
+"Konzentrationserkennungsobjekt für Feststoffe, mit
+Skalarausgang",BQE
+Feststoffkonzentrationsmessgerät,BQE
+Konzentrationssensor,BQE
+Rauchsensor,BQE
+ Trübungssensor,BQE
+Sichtbarkeitssensor,BQE
+"Konzentrationserkennungsobjekt für Feststoffe, mit Booleschem
+Ausgang",BQF
+Feststoffkonzentrationsdetektor,BQF
+Konzentrationserkennungsschalter,BQF
+Rauchmelder,BQF
+ Rauchschalter,BQF
+Trübungsdetektor,BQF
+Sichtbarkeitsdetektor,BQF
+Erkennungsobjekt für Strahlung,BR
+Strahlungserkennungsobjekt,BR
+"Strahlungserkennungsobjekt für sichtbare elektromagnetische
+Wellen, mit Skalarausgang",BRA
+Lichtmessgerät,BRA
+Lichtsender,BRA
+ Photozelle,BRA
+"Strahlungserkennungsobjekt für sichtbare elektromagnetische
+Wellen, mit Booleschem Ausgang",BRB
+Lichtdetektor,BRB
+Lichtschranke,BRB
+ linienförmigerDetektor,BRB
+ Dämmungsschalter,BRB
+ Lux-Sensor,BRB
+"Strahlungserkennungsobjekt für nicht sichtbare
+elektromagnetische Wellen, mit Skalarausgang",BRC
+"Messgerät für elektromagnetische
+Wellen",BRC
+IR-Sensor,BRC
+ Radarsensor,BRC
+ UV-Sensor,BRC
+"Strahlungserkennungsobjekt für nicht sichtbare
+elektromagnetische Wellen, mit Booleschem Ausgang",BRD
+Elektromagnetwellendetektor,BRD
+Gammastrahlendetektor,BRD
+"Strahlungserkennungsobjekt für nukleare Partikel, mit
+Skalarausgang",BRE
+Strahlungsmessgerät,BRE
+Geigermesser,BRE
+"Strahlungserkennungsobjekt für nukleare Partikel, mit
+Booleschem Ausgang",BRF
+Strahlungsdetektor,BRF
+Erkennungsobjekt für Zeitbereich,BS
+Zeitbereicherkennungsobjekt,BS
+"Zeitbereicherkennungsobjekt für nicht rotierende Takte, mit
+Skalarausgang",BSA
+Taktratenmesswertgeber,BSA
+Taktratensensor,BSA
+Frequenzmesswertgeber,BSA
+"Zeitbereicherkennungsobjekt für nicht rotierende Takte, mit
+Booleschem Ausgang",BSB
+Taktraten-Erkennungsschalter,BSB
+"Zeitbereicherkennungsobjekt für Abstände, mit Skalarausgang",BSC
+Geschwindigkeitsmesswertgeber,BSC
+Bewegungssender,BSC
+Geschwindigkeitssensor,BSC
+"Zeitbereicherkennungsobjekt für Abstände, mit Booleschem
+Ausgang",BSD
+Geschwindigkeitserkennungsschalter,BSD
+Bewegungsdetektor,BSD
+"Zeitbereicherkennungsobjekt für Rotationen, mit Skalarausgang",BSE
+Drehzahlmesswertgeber,BSE
+Rotationsgeschwindigkeitssensor,BSE
+"Zeitbereicherkennungsobjekt für Rotationen, mit Booleschem
+Ausgang",BSF
+Rotationsgeschwindigkeitsrelais,BSF
+"Zeitbereicherkennungsobjekt für Geschwindigkeiten, mit
+Skalarausgang",BSG
+Beschleunigungsmesswertgeber,BSG
+Seismischer Sensor,BSG
+"Zeitbereicherkennungsobjekt für Geschwindigkeiten, mit
+Booleschem Ausgang",BSH
+Stoßindikator,BSH
+Seismischer Schalter,BSH
+ Vibrations-schalter,BSH
+Erkennungsobjekt für Temperatur,BT
+Temperaturerkennungsobjekt,BT
+"Temperaturerkennungsobjekt, mit Skalarausgang",BTA
+Temperaturmesswertgeber,BTA
+Temperatursensor,BTA
+"Temperaturerkennungsobjekt, mit Booleschem Ausgang",BTB
+Temperaturschalter,BTB
+Temperaturdetektor,BTB
+Erkennungsobjekt für mehrere Mengen,BU
+Mehrfacherkennungsobjekt,BU
+"Mehrfacherkennungsobjekt, mit Skalarausgang",BUA
+Mehrfachmesssensor,BUA
+Multimeter,BUA
+"Mehrfacherkennungsobjekt, mit Booleschem Ausgang",BUB
+Mehrfachdetektor,BUB
+Buchholz-Relais,BUB
+ Distanzschutz-relais,BUB
+ Impedanzschutzrelais,BUB
+Gegenphasenfolgerelais,BUB
+"Erkennungsobjekt für Gewicht, Kraft oder Drehmoment",BW
+Krafterkennungsobjekt,BW
+"Krafterkennungsobjekt für Gewicht, mit Skalarausgang",BWA
+Gewichtmesswertgeber,BWA
+Wägezelle,BWA
+ Gewichtssensor,BWA
+"Krafterkennungsobjekt für Gewicht, mit Booleschem Ausgang",BWB
+Gewichterkennungsschalter,BWB
+"Krafterkennungsobjekt für Kraft, mit Skalarausgang",BWC
+Kraftmesswertgeber,BWC
+Kraftaufnehmer,BWC
+"Krafterkennungsobjekt für Kraft, mit Booleschem Ausgang",BWD
+Krafterkennungsschalter,BWD
+Kraftindikator,BWD
+"Krafterkennungsobjekt für Drehmoment, mit Skalarausgang",BWE
+Drehmomentmesswertgeber,BWE
+Drehmomentsensor,BWE
+"Krafterkennungsobjekt für Drehmoment, mit Booleschem
+Ausgang",BWF
+Drehmomentschalter,BWF
+Drehmomentindikator,BWF
+Erkennungsobjekt für Ton und/oder äußeres Erscheinen,BX
+Audiovisuelles Erkennungsobjekt,BX
+"Audiovisuelles Erkennungsobjekt für Schall, mit Skalarausgang",BXA
+Schallmesswertgeber,BXA
+Akustiküberwachungsgerät,BXA
+Mikrofon,BXA
+"Audiovisuelles Erkennungsobjekt für Schall, mit Booleschem
+Ausgang",BXB
+Akustikindikator,BXB
+Glasbruchsensor,BXB
+"Audiovisuelles Erkennungsobjekt für äußeres Erscheinen, mit
+Skalarausgang",BXC
+Bildgeber,BXC
+Kamera,BXC
+ CCTV,BXC
+ PTZ-Kamera,BXC
+Scanner,BXC
+ Videokamera,BXC
+"Audiovisuelles Erkennungsobjekt für visuelles Erscheinen, mit
+Booleschem Ausgang",BXD
+Bilderkennungsgerät,BXD
+Gesichtserkennungsgerät,BXD
+Fingerabdruckleser,BXD
+ Iris-Scanner,BXD
+Erkennungsobjekt für gespeicherte Informationen,BY
+Informationserkennungsobjekt,BY
+Informationserkennungsobjekt für elektrische Verbindungen,BYA
+Chiplesegerät,BYA
+Chipkartenlesegerät,BYA
+Informationserkennungsobjekt für elektrische Felder,BYB
+Elektromagnetisches Lesegerät,BYB
+Magnetstreifen-Lesegerät,BYB
+ RFC-Lesegerät,BYB
+ RFID-Lesegerät,BYB
+Lochstreifen-Lesegerät,BYB
+Informationserkennungsobjekt für Licht,BYC
+Optisches Lesegerät,BYC
+Barcode-Lesegerät,BYC
+ Lesegerät füroptische Platten,BYC
+ QR-Lesegerät,BYC
+Erkennungsobjekt für Ereignisse oder Mengen,BZ
+Ereigniserkennungsobjekt,BZ
+"Ereigniserkennungsobjekt zum Erkennen der Anzahl an
+Ereignissen, mit Skalarausgang",BZA
+Zähler,BZA
+"Ereigniserkennungsobjekt zum Erkennen eines Ereignisses, mit
+Booleschem Ausgang",BZB
+Schwellenwertdetektor,BZB
+"Ereigniserkennungsobjekt zum Erkennen des Vorhandenseins
+von Menschen, mit Booleschem Ausgang",BZC
+Personendetektor,BZC
+Präsenzdetektor,BZC
+"Ereigniserkennungsobjekt zum Erkennen des Vorhandenseins
+von Stoffen, mit Booleschem Ausgang",BZD
+Stoffdetektor,BZD
+Objekt zum Speichern für ein späteres Abrufen,C
+Speicherobjekt,C
+"Speicherobjekt für elektrische Energie innerhalb eines
+elektrostatischen Felds",CA
+Kapazitives Speicherobjekt,CA
+Kapazitives Speicherobjekt für elektrische Ladung,CAA
+Kondensator,CAA
+"Speicherobjekt für elektrische Energie innerhalb eines
+elektromagnetischen Felds",CB
+Induktives Speicherobjekt,CB
+Induktives Speicherobjekt für induktive Ladung,CBA
+Drosselspule,CBA
+"Speicherobjekt für elektrische Energie innerhalb eines
+elektrochemischen Stoffes",CC
+Elektrochemisches Speicherobjekt,CC
+Elektrochemisches Speicherobjekt für reversible Reaktionen,CCA
+Wiederaufladbare Batterie,CCA
+Speicherobjekt für Informationen,CF
+Informationsspeicherobjekt,CF
+Informationsspeicherobjekt auf einem Trägermedium,CFA
+Informationsspeichermedium,CFA
+"Speicherobjekt für Stoffe oder Personen innerhalb stationärer
+offener Umschließungen",CL
+Offenes stationäres Speicherobjekt,CL
+Offenes stationäres Speicherobjekt für Flüssigkeiten,CLA
+Becken,CLA
+Bunker,CLA
+ Zisterne,CLA
+ Schacht,CLA
+Offenes stationäres Speicherobjekt für feste Objekte,CLB
+Ablagefach,CLB
+Offenes stationäres Speicherobjekt für Personen,CLC
+Sitz,CLC
+Bett,CLC
+ Stuhl,CLC
+ Sofa,CLC
+"Speicherobjekt für Stoffe innerhalb einer stationären
+geschlossenen Umschließung",CM
+"Geschlossenes stationäres
+Speicherobjekt",CM
+Geschlossenes stationäres Speicherobjekt für Flüssigkeiten,CMA
+Tank,CMA
+Geschlossenes stationäres Speicherobjekt für Feststoffe,CMB
+Kasten,CMB
+Gehäuse,CMB
+ Schrank,CMB
+"Speicherobjekt für Stoffe oder Personen innerhalb beweglicher
+geschlossener Umschließungen",CN
+Bewegliches Speicherobjekt,CN
+Bewegliches Speicherobjekt für Feststoffe oder Personen,CNA
+Behälter,CNA
+Eimer,CNA
+ Becher-Hebeanlage,CNA
+ Bag-gerladeschaufel,CNA
+ Aufzugskabine,CNA
+Bewegliches Speicherobjekt für Gase,CNB
+Gaszylinder,CNB
+Bewegliches Speicherobjekt für Flüssigkeiten,CNC
+Trommel,CNC
+Speicherobjekt für Wärmeenergie,CP
+Wärmeenergie-Speicherobjekt,CP
+Wärmeenergie-Speicherobjekt Flüssigkeiten,CPA
+Flüssigkeitstank,CPA
+Wasserwärmer,CPA
+Wärmeenergie-Speicherobjekt Gase,CPB
+Gastank,CPB
+Wärmeenergie-Speicherobjekt Feststoffe,CPC
+Feststofftank,CPC
+Wärmeenergie-Speicherobjekt Phasenwechselmaterialien,CPD
+Kristalltank,CPD
+Speicherobjekt für mechanische Energie,CQ
+"Speicherobjekt für mechanische
+Energie",CQ
+"Objekt zum Speichern von mechanischer Energie in Form von
+kinetischer Energie",CQA
+Schwungrad,CQA
+"Objekt zum Speichern von mechanischer Energie in Form von
+elastischer Energie",CQB
+Feder,CQB
+Gummiband,CQB
+"Objekt zum Speichern von mechanischer Energie in Form von
+Gravitationsenergie",CQC
+Gegengewicht,CQC
+angehobene Masse,CQC
+Objekt zum Aussenden,E
+Aussendeobjekt,E
+Aussendeobjekt für Licht,EA
+Lichtobjekt,EA
+Lichtobjekt mit Elektrizität,EAA
+Elektrische Leuchte,EAA
+Argonlampe,EAA
+ Elektrolumineszenz-geräte,EAA
+ Leuchtstofflampe,EAA
+ Leucht-stoffröhre,EAA
+ Glühlampe,EAA
+ Lampe,EAA
+Lampenbirne,EAA
+ Laser,EAA
+ Neonlampe,EAA
+Lichtobjekt mit Gasverbrennung,EAB
+Gaslampe,EAB
+Lichtobjekt mit Flüssigkeitsverbrennung,EAC
+Flüssigkeitslampe,EAC
+Paraffinlampe,EAC
+"Aussendeobjekt für durch elektrische Energie abgegebene
+Wärme",EB
+Elektroheizobjekt,EB
+"Elektroheizobjekt, Wärmebereitstellung durch Flüssigkeit",EBA
+Elektrokessel,EBA
+"Elektroheizobjekt, Wärmebereitstellung durch eine Oberfläche",EBB
+Elektroheizfläche,EBB
+Bratplatte,EBB
+ Heizmatte,EBB
+ Sauna,EBB
+"Elektroheizobjekt, Wärmebereitstellung durch Kabel",EBC
+Heizkabel,EBC
+"Elektroheizobjekt, Wärmebereitstellung durch Luftgebläse",EBD
+Elektroheißluftgebläse,EBD
+"Elektroheizobjekt, Wärmebereitstellung durch elektrischen
+Lichtbogen",EBE
+Lichtbogenheizobjekt,EBE
+Lichtbogenofen,EBE
+"Elektroheizobjekt, Wärmebereitstellung durch mit Stromfluss",EBF
+Induktionserwärmer,EBF
+Induktionsofen,EBF
+"Elektroheizobjekt, Wärmebereitstellung durch Infrarotstrahlung",EBG
+Infrarot-Heizung,EBG
+"Elektroheizobjekt, Wärmebereitstellung durch beheizte
+Oberfläche",EBH
+Elektroofen,EBH
+"Aussendeobjekt für durch elektrische Energie abgegebene
+Kälte",EC
+Elektrokühlobjekt,EC
+Elektrokühlobjekt mit Kühloberfläche,ECA
+Elektrokühloberfläche,ECA
+Elektrokühlobjekt mit Luftgebläse,ECB
+Elektrokaltluftgebläse,ECB
+Elektrokühlobjekt mit Phasenänderung,ECC
+Kompressionskältemaschine,ECC
+Aussendeobjekt für drahtlose Energie,EE
+Drahtlosenergie-Objekt,EE
+"Kabelloses Stromübertragungsobjekt mit Verwendung von
+induktiver Kopplung",EEA
+Induktive Antenne,EEA
+"Kabelloses Stromübertragungsobjekt mit Verwendung von
+Mikrowellen",EEB
+Magnetron,EEB
+Maser,EEB
+ Mikrowellenofen,EEB
+"Kabelloses Stromübertragungsobjekt mit Verwendung von
+Röntgenstrahlen",EEC
+Röntgenstrahlenquelle,EEC
+"Kabelloses Stromübertragungsobjekt mit Verwendung von
+Gammastrahlen",EED
+Gammastrahlenquelle,EED
+"Kabelloses Stromübertragungsobjekt mit Verwendung von
+kapazitiver Kopplung",EEE
+Kapazitiver Koppler,EEE
+"Aussendeobjekt für durch Wärmeenergie übertragene Wärme
+und Kälte",EG
+Wärmeenergie-Übertragungsobjekt,EG
+Wärmeenergie-Übertragungsobjekt mit Phasenänderung,EGA
+Wärmepumpe,EGA
+Gefriergerät,EGA
+ temperaturgeführteLadeeinheit,EGA
+ Kühlschrank,EGA
+Kühlcontainer,EGA
+ Kühlregal,EGA
+reversible Wärmepumpe,EGA
+Wärmeenergie-Übertragungsobjekt mit Peltier-Effekt,EGB
+Peltier-Element,EGB
+"Wärmeenergie-Übertragungsobjekt zwischen Flüssen mit
+Zwischenmaterial",EGC
+Wärmeaustauscher,EGC
+Aussendeobjekt für durch Verbrennung erzeugte Wärme,EM
+Verbrennungsheizobjekt,EM
+Verbrennungsheizungsobjekt zum Beheizen von Räumen,EMA
+Heizofen,EMA
+Verbrennungsheizungsobjekt zum Beheizen von Flüssigkeiten,EMB
+Feuerungskessel,EMB
+Verbrennungsheizungsobjekt zum Erwärmen von Feststoffen,EMC
+Kochplatte,EMC
+Aussendeobjekt für durch Wärmeenergie erzeugte Wärme,EP
+Wärmeheizobjekt,EP
+"Heizwärmeobjekt, Wärmebereitstellung durch eine beheizte
+durchlässige Oberfläche",EPA
+Heizfläche,EPA
+"Heizwärmeobjekt, Wärmebereitstellung durch Flüssigkeit",EPB
+Heizröhre,EPB
+Heizspule,EPB
+ Heizrohr,EPB
+"Heizwärmeobjekt, Wärmebereitstellung durch eine beheizte
+nicht durchlässige Oberfläche",EPC
+Heizplatte,EPC
+Kondensator,EPC
+ Heizkörper,EPC
+"Heizwärmeobjekt, Wärmebereitstellung durch Luftgebläse",EPD
+Heißluftgebläse,EPD
+Aussendeobjekt für durch Wärmeenergie erzeugte Kälte,EQ
+Thermal-Kühlobjekt,EQ
+"Thermal-Kühlobjekt zum Bereitstellen einer durchlässigen
+Kühlfläche",EQA
+Kühloberfläche,EQA
+"Thermal-Kühlobjekt zum Bereitstellen einer nicht durchlässigen
+Kühlfläche",EQB
+Kühlplatte,EQB
+Kondensator,EQB
+ Kühlturm,EQB
+Verdampfer,EQB
+Thermal-Kühlobjekt mit Luftgebläse,EQC
+Gebläsekühleinrichtung,EQC
+Thermal-Kühlobjekt zum Kühlen von Flüssigkeiten,EQD
+Kühler,EQD
+"Thermal-Kühlobjekt zur Erzeugung kühler Flüssigkeiten in
+Röhren",EQE
+Kühlröhre,EQE
+Kühlspule,EQE
+ Kühlrohr,EQE
+Aussendeobjekt für durch Kernspaltung erzeugte Wärme,ET
+Nuklearenergie-Wärmeobjekt,ET
+"Nuklearbetriebenes Heizobjekt zur Erzeugung von warmem
+Wasser",ETA
+Siedewasserreaktor,ETA
+"Nuklearbetriebenes Heizobjekt zur Erzeugung von
+Flüssigkeitsdampf",ETB
+Druckwasserreaktor,ETB
+"Nuklearbetriebenes Heizobjekt zur Erzeugung von warmem
+Gas",ETC
+Gasgekühlter Hochtemperaturreaktor,ETC
+Kugelhaufenreaktor,ETC
+Aussendeobjekt für subatomare Partikel,EU
+Partikelaussendeobjekt,EU
+Partikelaussendeobjekt mit Ionisierung,EUA
+Plasmagenerator,EUA
+Partikelaussendeobjekt ohne Ionisierung,EUB
+Partikelgenerator,EUB
+Alphastrahlengerät,EUB
+ Betastrahlen-gerät,EUB
+ Neutronenstrahlengerät,EUB
+Aussendeobjekt für Schallwellen,EV
+Schallwellenaussendeobjekt,EV
+"Schallwellenaussendendes Objekt mit Verwendung von
+Ultraschallfrequenzen",EVA
+Sonar,EVA
+"Schallwellenaussendendes Objekt mit Verwendung hörbarer
+Frequenzen zur Geräuschreduzierung",EVB
+"Lautsprecher zur
+Geräuschunterdrückung",EVB
+"Objekt zum Schutz vor den Auswirkungen gefährlicher oder
+unerwünschter Bedingungen",F
+Schutzobjekt,F
+Schutzobjekt für Überspannung,FA
+Überspannungsschutzobjekt,FA
+Überspannungsschutzobjekt mit Funkenstrecke,FAA
+Funkenstrecken-Überspannungsableiter,FAA
+Begrenzer,FAA
+Überspannungsschutzobjekt mit Varistor,FAB
+Varistor-Überspannungsableiter,FAB
+Begrenzer,FAB
+Überspannungsschutzobjekt mit Zener-Diode,FAC
+Zener-Diode,FAC
+Begrenzer,FAC
+Überspannungsschutzobjekt mit Überspannungsableitung,FAD
+Überspannungsableiter,FAD
+Schutzobjekt für Erdschlussströme,FB
+Erdschlussstrom-Schutzobjekt,FB
+"Erdschlussstrom-Schutzobjekt, mit dem ein elektrisches
+Netzwerk überwacht wird und das im Falle von
+Erdfehlerströmen abgeschaltet wird",FBA
+Fehlerstromschutzschalter,FBA
+Geräteableitstromunterbrecher,FBA
+Erdschlussschutzschalter,FBA
+ Erd-fehlerstromschutzschalter (ELCB),FBA
+FI-Schutzschalter,FBA
+ Fehlerstrom-schutzschalter,FBA
+ Fehlerstromtrenn-schalter (RCCB),FBA
+"Erdschlussstrom-Schutzobjekt, mit dem der Wert eines
+Erdfehlerstroms beschränkt wird",FBB
+Erdschlussstrom-Begrenzer,FBB
+Neutraler Erdungsreaktor,FBB
+ neutraleErdungsimpedanz,FBB
+ Petersen-Spule,FBB
+Schutzobjekt für Überströme,FC
+Überstromschutzobjekt,FC
+"Überstromschutzobjekt, das den Kreis, in dem es sich befindet,
+durch Unterbrechen des Stroms öffnet, wenn dieser für eine
+bestimmte Zeit einen bestimmten Wert überschreitet",FCA
+Sicherung,FCA
+"Überstromschutzobjekt, das über die Fähigkeit verfügt, Ströme
+unter normalen Stromkreisbedingungen zu erzeugen, zu leiten
+und zu unterbrechen und Ströme unter bestimmten
+ungewöhnlichen Stromkreisbedingungen zu leiten und
+automatisch zu unterbrechen
+ANMERKUNG Diese Klasse ist für Schutzschalter nach der
+Normenreihe IEC 60898 vorgesehen.",FCB
+Leistungsschutzschalter,FCB
+"Überstromschutzobjekt, das den Kreis, in dem es sich befindet,
+durch Unterbrechen des Stroms öffnet, wenn dieser für eine
+bestimmte Zeit einen bestimmten Wert überschreitet",FCC
+Bimetall,FCC
+Bimetall-Schutzschalter,FCC
+thermische Überlastauslösung,FCC
+thermisches Überlastrelais,FCC
+Schutzobjekt für elektrische und/oder magnetische Felder,FE
+Feldschutzobjekt,FE
+Feldschutzobjekt für elektrische Felder,FEA
+Elektrische Feldabschirmung,FEA
+Faradayscher Käfig,FEA
+Feldschutzobjekt für Magnetfelder,FEB
+Magnetfeldabschirmung,FEB
+Mu-metallische Abschirmung(gegen statische oder Niedrig-frequenz-Magnetfelder),FEB
+Feldschutzobjekt für elektromagnetische Felder,FEC
+"Elektromagnetische
+Feldabschirmung",FEC
+Betonwand,FEC
+ Faradayscher Käfig,FEC
+Bleiblock,FEC
+ Metallbleche,FEC
+Schutzobjekt für Drücke,FL
+Druckschutzobjekt,FL
+"Druckschutzobjekt, das Dampf oder Flüssigkeit abgibt, wenn
+der Druck einen festgelegten Grenzwert überschreitet",FLA
+Sicherheitsventil,FLA
+"Druckschutzobjekt, bei dem ein Luftstrom geöffnet wird, wenn
+sich der Druck über oder unter einem festgelegten Grenzwert
+befindet",FLB
+Sicherheitsklappe,FLB
+"Druckschutzobjekt, mit dem ein Vakuum verhindert wird",FLC
+Rückschlagventil gegen Vakuum,FLC
+"Druckschutzobjekt, das im Falle eines übermäßigen
+Differenzdrucks irreversibel aufgebrochen wird",FLD
+Berstplatte,FLD
+"Druckschutzobjekt, das über eine Volumenausdehnung verfügt",FLE
+Expansionstank,FLE
+Expansionsgefäß,FLE
+Schutzobjekt für Feuer,FM
+Brandschutzobjekt,FM
+"Brandschutzobjekt, das bei Erkennen eines Brandes den
+Luftstrom unterbricht",FMA
+Brandschutzklappe,FMA
+"Brandschutzobjekt, das bei Erkennen von Rauch den Luftstrom
+öffnet oder unterbricht",FMB
+Rauchschutzklappe,FMB
+"Brandschutzobjekt, das bei Erkennen eines Brandes und/oder
+bei Erkennen von Rauch den Luftstrom unterbricht",FMC
+Brand- und Rauchschutzklappe,FMC
+Brandschutzobjekt zur manuellen Bedienung,FMD
+Feuerlöscher,FMD
+"Brandschutzobjekt, das bei Erkennen eines Brandes und/oder
+bei Erkennen von Rauch einen Durchgang versperrt",FME
+Brandschutzblende,FME
+"Brandschutzobjekt, das einen Bereich in Rauchzonen unterteilt",FMF
+Rauchschutzvorhang,FMF
+"Brandschutzobjekt, das ein Loch schließt, mit dem ein
+Ausbreiten eines Brandes verhindert wird",FMG
+Rauchabschottung,FMG
+Brandschutzobjekt zur Oberflächenabdeckung,FMH
+Brandisolierung,FMH
+Brandschutzobjekt zur Oberflächenbeschichtung,FMJ
+Feuerschutzmittel,FMJ
+Brandschutzmittel,FMJ
+Brandschutzobjekt zur Imprägnierung,FMK
+Brandschutzimprägnierung,FMK
+Schutzobjekt für mechanische Kraft,FN
+"Objekt zum Schutz vor mechanischer
+Kraft",FN
+"Objekt zum Schutz vor mechanischer Kraft, das für eine
+Trennung sorgt, wenn das Drehmoment zu hoch ist",FNA
+Sicherheitskupplung,FNA
+"Objekt zum Schutz vor mechanischer Kraft, zur Stoßdämpfung",FNB
+Stoßschutz,FNB
+Kabelschutz,FNB
+Schutzobjekt durch Barriere oder Hindernis,FQ
+Vorbeugendes Schutzobjekt,FQ
+Vorbeugendes Schutzobjekt für sich bewegende Objekte,FQA
+Schutznetz,FQA
+Schutzgitter,FQA
+"Vorbeugendes Schutzobjekt für gleitende oder schwebende
+Stoffe",FQB
+Gleitschutz,FQB
+Schneefang,FQB
+"Vorbeugendes Schutzobjekt zum Verhindern eines
+Herunterfallens",FQC
+Schutzgeländer,FQC
+Handlauf,FQC
+ Aufhängungsschutz,FQC
+"Vorbeugendes Schutzobjekt zum Schutz vor Herausfallen oder
+Zusammenprallen",FQD
+Schutzschiene,FQD
+Schutzgeländer,FQD
+ Schutzdach,FQD
+Vorbeugendes Schutzobjekt für physikalisches Durchdringen,FQE
+Schutzstoff,FQE
+Vorbeugendes Schutzobjekt zum Verhindern von Blendeffekten,FQF
+Blendschutz,FQF
+Vorbeugendes Schutzobjekt zum Verhindern von Spritzern,FQG
+Spritzschutz,FQG
+"Vorbeugendes Schutzobjekt zum Verhindern von manueller
+Beschädigung",FQH
+Bruchschutz,FQH
+"Vorbeugendes Schutzobjekt zum Verhindern von manuellem
+Entsperren",FQJ
+Lukenschloss,FQJ
+Schutzobjekt für Materialerosion,FR
+Verschleißschutzobjekt,FR
+"Verschleißschutzobjekt zur Anwendung von flüssigen Stoffen
+zwischen Objekten",FRA
+Schmierobjekt,FRA
+Schmieröl,FRA
+"Verschleißschutzobjekt zur Anwendung eines festen
+Trennstoffs zwischen Objekten",FRB
+Verschleißschutz,FRB
+Schutzobjekt in Bezug auf die lokale Umgebung,FS
+Umgebungsschutzobjekt,FS
+"Umweltschutzobjekt in Form einer festen Pastenschicht auf
+einem anderen Objekt",FSA
+Gips,FSA
+Zement,FSA
+ Mörtel,FSA
+"Umweltschutzobjekt in Form eines verhärteten Flüssigkeitsfilms
+auf der Oberfläche eines anderen Objekts",FSB
+Lack,FSB
+"Umweltschutzobjekt in Form einer angewendeten oder induzier-ten Flüssigkeit, durch die das Objekt gegenüber extern indu-ziertem Verfall oder Zerstörung widerstandsfähig gemacht wird",FSC
+Imprägnierung,FSC
+Imprägnierungsplatte,FSC
+"Umweltschutzobjekt, das Schutz vor Umwelteinflüssen bietet",FSD
+Unterstand,FSD
+Lawinenschutzkonstruktion,FSD
+Gebäude,FSD
+ Schuppen,FSD
+ Schneefang,FSD
+Umweltschutzobjekt in Form einer Schwingungssteuerung,FSE
+Seismisches Schwingungs-steuerungsgerät,FSE
+Umweltschutzobjekt in Form von Metalloxidation,FSF
+Korrosionsschutz,FSF
+Kathodischer Schutz,FSF
+ Opferanode,FSF
+"Umweltschutzobjekt in Form einer Versiegelung auf der
+Oberfläche eines anderen Objekts",FSG
+Schutzversiegelung,FSG
+Umweltschutzobjekt in Form einer Kapillareffekt-Schutzschicht,FSH
+Materialtrennschicht,FSH
+Objekt zur Bereitstellung eines steuerbaren Durchflusses,G
+Erzeugungsobjekt,G
+"Erzeugungsobjekt für durch mechanische Energie erzeugte
+elektrische Energie",GA
+"Erzeugungsobjekt für elektrische
+Energie durch mechanische Energie",GA
+"Erzeugungsobjekt für durch mechanische Energie erzeugte
+elektrische Energie für Wechselstrom",GAA
+Wechselstromgenerator,GAA
+Generator,GAA
+"Erzeugungsobjekt für durch mechanische Energie erzeugte
+elektrische Energie für Gleichstrom",GAB
+Gleichstromgenerator,GAB
+Dynamo,GAB
+ Generator,GAB
+"Erzeugungsobjekt für durch chemische Reaktion erzeugte
+elektrische Energie",GB
+"Erzeugungsobjekt für elektrische
+Energie durch chemische Energie",GB
+"Erzeugungsobjekt für durch chemische Energie erzeugte
+elektrische Energie aus einer nicht erneuerbaren Quelle",GBA
+Elektrische Batterie,GBA
+Batterie,GBA
+"Erzeugungsobjekt für durch chemische Energie erzeugte
+elektrische Energie, das kontinuierlich durch Kraftstoff oder
+Oxidationsmittel angetrieben wird",GBB
+Brennstoffzelle,GBB
+"Erzeugungsobjekt für durch Solarenergie erzeugte elektrische
+Energie",GC
+"Erzeugungsobjekt für elektrische
+Energie durch Sonnenenergie",GC
+"Erzeugungsobjekt für durch Sonnenenergie erzeugte elektrische
+Energie, das wasserbasiertes Halbleitermaterial verwendet",GCA
+Kristallines Photovoltaik-Modul,GCA
+Solarzelle,GCA
+"Erzeugungsobjekt für durch Sonnenenergie erzeugte elektrische
+Energie, das dünnes Folienmaterial verwendet",GCB
+Dünnschicht-Photovoltaik-Modul,GCB
+Solarzelle,GCB
+Erzeugungsobjekt von Signalen für Informationsträger,GF
+Signalerzeugungsobjekt,GF
+"Signalerzeugungsobjekt mit Verwendung elektromagnetischer
+Wellen",GFA
+Elektromagnetwellensender,GFA
+Lasersender,GFA
+ Radiowellensender,GFA
+Fernsehstation,GFA
+Signalerzeugungsobjekt mit Drähten,GFB
+Signalgenerator,GFB
+Erzeugungsobjekt für kontinuierlich laufende Geräte,GL
+Kontinuierliches Beförderungsobjekt,GL
+Kontinuierliches Beförderungsobjekt mit Transportband,GLA
+Gurtförderer,GLA
+Förderband,GLA
+Kontinuierliches Beförderungsobjekt mit Kette,GLB
+Kettenförderer,GLB
+Kontinuierliches Beförderungsobjekt mit Rollen,GLC
+Rollenförderer,GLC
+Kontinuierliches Beförderungsobjekt mit Antriebsschnecke,GLD
+Schneckenförderer,GLD
+"Kontinuierliches Beförderungsobjekt, bestehend aus
+aneinandergereihten Stufen",GLE
+Rolltreppe,GLE
+"Kontinuierliches Beförderungsobjekt, bestehend aus
+aneinandergereihten Behältern",GLF
+Paternoster,GLF
+"Kontinuierliches Beförderungsobjekt mit einer vibrierenden
+Oberfläche",GLG
+Vibrationsförderer,GLG
+Erzeugungsobjekt für nicht kontinuierlich laufende Geräte,GM
+"Nicht kontinuierliches
+Beförderungsobjekt",GM
+"Nicht kontinuierliches Beförderungsobjekt für horizontale
+Bewegungen",GMA
+Wagen,GMA
+"Nicht kontinuierliches Beförderungsobjekt für vertikale
+Bewegungen",GMB
+Aufzug,GMB
+Hubgerät,GMB
+"Nicht kontinuierliches Beförderungsobjekt, mit dem Objekte
+vertikal und/oder horizontal bewegt werden",GMC
+Kran,GMC
+"Nicht kontinuierliches Beförderungsobjekt, mit dem Objekte
+aneinandergereiht werden",GMD
+Palletierer,GMD
+Stapler,GMD
+Nicht kontinuierliches Beförderungsobjekt mit Förderfluss,GME
+Drehscheibe,GME
+"Nicht kontinuierliches Beförderungsobjekt, das Objekte durch
+Vibration in einem linearen Durchfluss bewegt",GMF
+Vibrationsförderer,GMF
+Erzeugungsobjekt für Flüssigkeiten,GP
+Flüssigkeitsstrom-Erzeugungsobjekt,GP
+"Flüssigkeitsstrom-Erzeugungsobjekt zum Verdrängen
+eingeschlossener Flüssigkeiten zur Auslassseite",GPA
+Verdrängerpumpe,GPA
+Peristaltikpumpe,GPA
+ Kolbenpumpe,GPA
+Rotationspumpe,GPA
+ Schraubpumpe,GPA
+Vakuumpumpe,GPA
+"Flüssigkeitsstrom-Erzeugungsobjekt zum Steigern der
+Flussgeschwindigkeit durch mechanische Bewegung",GPB
+Spumpe,GPB
+Axiale Strömungspumpe,GPB
+ Zentrifu-galpumpe,GPB
+ Laufrad,GPB
+ radiale Strö-mungspumpe,GPB
+ Vakuumpumpe,GPB
+"Flüssigkeitsstrom-Erzeugungsobjekt zum Übertragen der
+kinetischen Energie eines Eingansstroms an einen
+Ausgangsstrom",GPC
+Strahlpumpe,GPC
+"Flüssigkeitsstrom-Erzeugungsobjekt zum Konvertieren
+potentieller Energie zu kinetische Energie durch Schwerkraft",GPD
+Schmiervorrichtung,GPD
+Öler,GPD
+Erzeugungsobjekt für Gas,GQ
+Gasstrom-Erzeugungsobjekt,GQ
+"Gasstrom-Erzeugungsobjekt zum Verdrängen
+eingeschlossener Gase zur Auslassseite",GQA
+Gaskompressor,GQA
+"Gasstrom-Erzeugungsobjekt zum Steigern der
+Flussgeschwindigkeit durch mechanische Bewegung",GQB
+Mechanischer Ventilator,GQB
+Luftvorhang,GQB
+ geschlossener Pro-pellerlüfter,GQB
+ offener Propellerlüfter,GQB
+Propeller,GQB
+ Käfigläuferlüfter,GQB
+Ventilator,GQB
+"Gasstrom-Erzeugungsobjekt zum Übertragen der kinetischen
+Energie eines Eingansstroms an einen Ausgangsstrom",GQC
+Gasstrahler,GQC
+"Erzeugungsobjekt für durch Solarenergie erzeugte
+Wärmeenergie",GR
+"Erzeugungsobjekt für durch
+Solarenergie erzeugte
+Wärmeenergie",GR
+"Erzeugungsobjekt für durch Solarenergie erzeugte
+Wärmeenergie in einem thermischen Flüssigkeitsdurchfluss",GRA
+Solarpanel,GRA
+Flachsolarpanel,GRA
+"Erzeugungsobjekt für durch Solarenergie erzeugte
+Wärmeenergie, das einen Flüssigkeitsdurchfluss erzeugt",GRB
+Solarturm,GRB
+Objekt zur Behandlung von Stoffen,H
+Stoffbearbeitungsobjekt,H
+Stoffbearbeitungsobjekt durch Urformen,HJ
+Urformobjekt,HJ
+Urformobjekt aus flüssigem Anfangsmaterialzustand,HJA
+Gießwerkzeug,HJA
+3D-Drucker,HJA
+Urformobjekt aus festem Anfangsmaterialzustand,HJB
+Presse,HJB
+3D-Drucker,HJB
+ Spanplattenpresse,HJB
+Sinterpresse,HJB
+Stoffbearbeitungsobjekt für Oberflächenbehandlung,HK
+Oberflächenbehandlungsobjekt,HK
+Oberflächenbehandlungsobjekt durch Vorbereitung,HKA
+Oberflächenvorbereitungsmaschine,HKA
+Geschirrspüler,HKA
+ Staubsauger,HKA
+Dusche,HKA
+ Ultraschall-Entfetter,HKA
+Dampf-Entfetter,HKA
+ Fensterwischer,HKA
+Oberflächenbehandlungsobjekt durch Modifikation,HKB
+Oberflächenmodifkationsmaschine,HKB
+Poliermaschine,HKB
+Hämmermaschine,HKB
+ Polierer,HKB
+Sandpapier,HKB
+ Drahtbürste,HKB
+Oberflächenbehandlungsobjekt durch Beschichtung,HKC
+Oberflächenbeschichtungmaschine,HKC
+Luftpistole,HKC
+ Eloxierer,HKC
+elektrostatischeBeschichtungsmaschine,HKC
+Ölbeschichtungsmaschine,HKC
+Stoffbearbeitungsobjekt durch Fügen oder Montieren,HL
+Montierobjekt,HL
+Montierobjekt zur physikalischen Montage,HLA
+Montageroboter,HLA
+Montierobjekt zum mechanischen Fügen,HLB
+Mechanische Fügemaschine,HLB
+Crimpmaschine,HLB
+Reibschweißmaschine,HLB
+ Druck-/Kalt-schweißer,HLB
+Ultraschallschweißmaschine,HLB
+"Montierobjekt zum t
+hermischen Fügen",HLC
+Thermalschweißmaschine,HLC
+Lichtbogenschweißgerät,HLC
+Induktionslötmaschine,HLC
+Lötmaschine,HLC
+Montierobjekt zum chemischen Fügen,HLD
+Chemische Fügemaschine,HLD
+Klebmaschine,HLD
+"Stoffbearbeitungsobjekt zum erzwungenen Trennen vermischter
+Substanzen",HM
+Krafttrennobjekt,HM
+Krafttrennobjekt zum Trennen von Partikeln durch Gravitation,HMA
+Absetzbecken,HMA
+"Krafttrennobjekt zum Rotieren von Substanzen in einer
+Rotationskammer",HMB
+Zentrifuge,HMB
+"Krafttrennobjekt zum Rotieren von Substanzen in einer festen
+Kammer",HMC
+Zyklon,HMC
+Hydrozyklon,HMC
+"Stoffbearbeitungsobjekt zum thermischen Trennen vermischter
+Substanzen",HP
+Thermisches Trennobjekt,HP
+Thermisches Trennobjekt zum Entfernen von Feuchtigkeit,HPA
+Trockner,HPA
+"Thermisches Trennobjekt zur Erzeugung der Dampfform einer
+Flüssigkeit",HPB
+Destilliersäule,HPB
+Destilliergerät,HPB
+ Verdampfer,HPB
+"Stoffbearbeitungsobjekt zum mechanischen Trennen von
+vermischten Substanzen",HQ
+Mechanisches Trennobjekt,HQ
+"Mechanisches Trennobjekt zum Entfernen von Substanzen von
+der Oberfläche von Flüssigkeiten",HQA
+Abstreifer,HQA
+"Mechanisches Trennobjekt für Partikel basierend auf deren
+Größe und/oder Form",HQB
+Trenngitter,HQB
+Beutelfilter,HQB
+ Filter,HQB
+ Rechen,HQB
+ Sack,HQB
+"Stoffbearbeitungsobjekt zum elektromagnetischen Trennen von
+vermischten Substanzen",HR
+"Elektrisches oder magnetisches
+Trennobjekt",HR
+"Elektrisches oder magnetisches Trennobjekt mit einem
+elektrischen Feld",HRA
+Elektrostatischer Separator,HRA
+elektrostatischer Filter,HRA
+"Elektrisches oder magnetisches Trennobjekt mit einem
+magnetischen Feld",HRB
+Magnetabscheider,HRB
+"Stoffbearbeitungsobjekt zum chemischen Trennen von
+vermischten Substanzen",HS
+Chemisches Trennobjekt,HS
+Chemisches Trennobjekt zum Ionenaustausch,HSA
+Ionenaustauscher,HSA
+Elektrolysator,HSA
+Chemisches Trennobjekt zur Absorption,HSB
+Absorber,HSB
+Absorptionswäscher,HSB
+Chemisches Trennobjekt zur Adsorption,HSC
+Adsorber,HSC
+"Stoffbearbeitungsobjekt, mit dem festes Material zerkleinert
+wird",HU
+Schleif- und Zerkleinerungsobjekt,HU
+"Schleif- und Zerkleinerungsobjekt für weiche, mittelharte,
+fasrige und feste Stoffe",HUA
+Schneidmaschine,HUA
+Abfallzerkleinerer,HUA
+"Schleif- und Zerkleinerungsobjekt zum Verarbeiten von Teilen
+in präzise Größen und Formen",HUB
+Mühle,HUB
+Getreidemühle,HUB
+ Wassermühle,HUB
+Schleif- und Zerkleinerungsobjekt für Steine,HUC
+Brechwerk,HUC
+Steinbrecher,HUC
+"Stoffbearbeitungsobjekt, mit dem größere Formen von Material
+erzeugt werden",HV
+Anhäufungsobjekt,HV
+"Anhäufungsobjekt zum Komprimieren oder Formen eines
+Materials in Pelletform",HVA
+Pelletiergerät,HVA
+"Anhäufungsobjekt zum Ermöglichen eines Prozesses, bei dem
+Kolloide in Flockenform gebracht werden",HVB
+Flokkuliergerät,HVB
+Flokkulierapparat,HVB
+"Stoffbearbeitungsobjekt, mit dem verschiedene Substanzen
+gemischt werden",HW
+Mischobjekt,HW
+"Mischobjekt, mit dem aus einer Substanz eine andere Substanz
+mit neuen Eigenschaften erzeugt wird",HWA
+Mischer,HWA
+Knetmaschine,HWA
+"Mischobjekt zur Erzeugung einer feuchten gasförmigen
+Substanz",HWB
+Befeuchter,HWB
+"Stoffbearbeitungsobjekt, mit dem durch chemische oder
+biologische Reaktion neues Material erzeugt wird",HX
+Reaktionsobjekt,HX
+"Reaktionsobjekt zum Erzeugen und Kontrollieren einer
+chemischen Reaktion",HXA
+Chemiereaktor,HXA
+Vergaser,HXA
+"Reaktionsobjekt zum Erzeugen und Kontrollieren einer
+biologischen Reaktion",HXB
+Fermentierer,HXB
+"Objekt zur Verarbeitung von Eingangssignalen und
+Bereitstellung eines geeigneten Ausgangs",K
+Informationsverarbeitungsobjekt,K
+"Informationsverarbeitendes Objekt zur Verarbeitung
+elektrischer Signale",KE
+"Elektrische Signale verarbeitendes
+Objekt",KE
+"Elektrisches Signalverarbeitungsobjekt zur Bedienung durch
+Menschen",KEA
+Computer,KEA
+PC,KEA
+ Personal-Computer,KEA
+ Tablet-Computer,KEA
+"Elektrisches Signalverarbeitungsobjekt zur Eingabe/Ausgabe in
+Geräten ohne Bedienung durch Menschen",KEC
+Kommunikationsgerät,KEC
+Ethernet-Karte,KEC
+ FireWire-Karte,KEC
+I/O-Gerät,KEC
+ I/O-Modul,KEC
+ USB-Karte,KEC
+"Elektrisches Signalverarbeitungsobjekt zur Steuerung von
+Geräten ohne Bedienung durch Menschen",KEB
+Steuerungseinheit,KEB
+Zentrale Verarbeitungseinheit(CPU),KEB
+ Distanzschutz- und –steuer-einheit,KEB
+ speicherprogrammierbareSteuerung (SPS),KEB
+Fernbedienungsmodul (RTU),KEB
+Synchronisierungsgerät,KEB
+Synchronisierungsrelais,KEB
+"Elektrisches Signalverarbeitungsobjekt zur Eingabe/Ausgabe in
+Geräten ohne Bedienung durch Menschen",KEC
+Kommunikationsgerät,KEC
+Ethernet-Karte,KEC
+ FireWire-Karte,KEC
+I/O-Gerät,KEC
+ I/O-Modul,KEC
+ USB-Karte,KEC
+"Elektrisches Signalverarbeitungsobjekt zur Weiterleitung von
+Signalen zwischen Datennetzen ohne Bedienung durch
+Menschen",KED
+Router,KED
+Datennetz-Gateway,KED
+ Firewall,KED
+Sicherheitsgerät,KED
+"Elektrisches Signalverarbeitungsobjekt zum Speichern der
+Informationen, die durch die Eingabe eines Speichergeräts
+bereitgestellt wurden, ohne Bedienung durch Menschen",KEE
+Kartenschreibgerät,KEE
+CD-Brenner,KEE
+ Schreibgerät füroptische Platten,KEE
+ Tonbandgerät,KEE
+"Informationsverarbeitendes Objekt zur Weiterleitung
+elektrischer Signale",KF
+"Elektrische Signale weiterleitendes
+Objekt",KF
+"Elektrische Signale weiterleitendes Objekt zur
+verzögerungsfreien Weiterleitung",KFA
+Relais,KFA
+Koppler,KFA
+"Elektrische Signale weiterleitendes Objekt zur verzögerten
+Weiterleitung",KFB
+Zeitrelais,KFB
+"Elektrische Signale weiterleitendes Objekt zur Umwandlung des
+Eingangssignals in ein verstärktes Ausgangssignal",KFC
+Repeater,KFC
+"Elektrische Signale weiterleitendes Objekt zur Überbrückung
+mehrerer Datennetzwerksegmente",KFD
+Elektrische Netzwerkbrücke,KFD
+"Elektrische Signale weiterleitendes Objekt zum Weiterleiten der
+Eingabe an bestimmte Geräte innerhalb eines Datennetzwerks",KFE
+Elektrischer Netzwerkschalter,KFE
+Informationsverarbeitendes Objekt für optische Signale,KG
+Optisches Signalobjekt,KG
+"Optisches Signalobjekt zum Weiterleiten der Eingabe an
+bestimmte Geräte innerhalb eines optischen Netzwerks",KGA
+Optischer Netzwerkschalter,KGA
+"Optisches Signalobjekt zum Weiterleiten von Datenpaketen
+zwischen Computernetzwerken",KGB
+Optischer Router,KGB
+"Optisches Signalobjekt zur Umwandlung des Eingangssignals
+in ein verstärktes Ausgangssignal",KGC
+Optischer Repeater,KGC
+Informationsverarbeitendes Objekt für fluidische Signale,KH
+Fluidisches Signalobjekt,KH
+Flüssigkeitssignalobjekt zur Rückkopplungskontrolle,KHA
+Flüssigkeitsregler,KHA
+Flüssigkeitssignalobjekt zur Weiterleitung von Signalen,KHB
+Steuerventil,KHB
+Informationsverarbeitendes Objekt für mechanische Signale,KJ
+Mechanisches Signalobjekt,KJ
+"Mechanisches Signalobjekt zur Anpassung eines Luft- oder
+Flüssigkeitsflusses",KJA
+Mechanischer Regler,KJA
+"Mechanisches Signalobjekt zum Sperren/Entsperren eines
+Verriegelungsmechanismus",KJB
+Schließzylinder,KJB
+"Mechanisches Signalobjekt zur Erzeugung eines binären
+Zustands eines mechanischen Geräts",KJC
+Schlüsselcode-Gerät,KJC
+Informationsverarbeitendes Objekt für mehrere Signale,KZ
+Mehrfach-Signalobjekt,KZ
+"Mehrfach-Signalobjekt zum Weiterleiten des Eingangs in
+spezifische Geräte",KZA
+Mehrfachschalter,KZA
+Objekt zur Erzeugung mechanischer Bewegungen oder Kraft,M
+Antriebsobjekt,M
+"Antriebsobjekt in Form von Drehmoment, angetrieben durch
+elektromagnetische Kraft",MA
+"Elektromagnetisches
+Rotationsantriebsobjekt",MA
+"Elektromagnetisches Rotationsantriebsobjekt zur Erzeugung
+einer kontinuierlichen Rotation",MAA
+Elektromotor,MAA
+Wechselstrommotor,MAA
+ Asynchron-Motor,MAA
+ Gleichstrommotor,MAA
+Induktionsmotor,MAA
+ PM-Motor,MAA
+Servomotor,MAA
+ Synchronmotor,MAA
+"Elektromagnetisches Rotationsantriebsobjekt zur Erzeugung
+diskreter Rotationsschritte",MAB
+Schrittmotor,MAB
+"Antriebsobjekt in Form von linearer Kraft, angetrieben durch
+elektromagnetische Kraft",MB
+"Elektromagnetisches
+Linearantriebsobjekt",MB
+"Elektromagnetisches Linearantriebsobjekt zur Erzeugung einer
+kontinuierlichen Bewegung",MBA
+Linearmotor,MBA
+"Elektromagnetisches Linearantriebsobjekt zur Erzeugung
+diskreter Schritte",MBB
+Elektromagnet,MBB
+Stellantrieb,MBB
+ Magnetventil,MBB
+"Antriebsobjekt, angetrieben durch magnetische Kraft",MC
+Magnetkraft-Antriebsobjekt,MC
+Magnetkraft-Antriebsobjekt mit Permanentmagnet,MCA
+Permanentmagnet,MCA
+"Antriebsobjekt, angetrieben durch piezoelektrische Kraft",MD
+Piezoelektrisches Antriebsobjekt,MD
+Piezoelektrisches Antriebsobjekt mit piezoelektrischem Kristall,MDA
+Piezoelektrischer Motor,MDA
+piezoelektrischer Aktor,MDA
+"Antriebsobjekt, angetrieben durch mechanische Energie",ML
+"Durch mechanische Energie
+angetriebenes Objekt",ML
+"Durch mechanische Energie angetriebenes Objekt zur
+Freisetzung von Gravitationsenergie",MLA
+Gravitationsenergieantrieb,MLA
+Achterbahn,MLA
+"Durch mechanische Energie angetriebenes Objekt zur
+Freisetzung von elastischer Energie",MLB
+Elastischer Energieantrieb,MLB
+federbetriebenes Gerät,MLB
+"Durch mechanische Energie angetriebenes Objekt in Form von
+kinetischer Energie in Luftgebläsen",MLC
+Windturbine,MLC
+"Durch mechanische Energie angetriebenes Objekt in Form von
+kinetischer Energie in fließendem Wasser",MLD
+Wasserturbine,MLD
+"Durch mechanische Energie angetriebenes Objekt in Form von
+kinetischer Energie und Reaktionskraft in strömenden und/oder
+sich ausdehnenden Gasen",MLE
+Gasturbine,MLE
+"Antriebsobjekt, angetrieben durch Flüssigkeitsverdrängung
+oder Druck",MM
+Flüssigkeitsbetriebenes Objekt,MM
+"Flüssigkeitsbetriebenes Objekt, dessen Bewegung einem
+flüssigen Volumen entspricht",MMA
+Hydraulikzylinder,MMA
+"Flüssigkeitsbetriebenes Objekt: Bewegung zu Endpositionen
+abhängig vom Gasdruck",MMB
+Pneumatikzylinder,MMB
+"Flüssigkeitsbetriebenes Objekt: Rotation durch eine fließende
+Flüssigkeit",MMC
+Hydraulikmotor,MMC
+"Flüssigkeitsbetriebenes Objekt zur Erzeugung von Rotation
+durch komprimiertes Gas",MMD
+Pneumatikmotor,MMD
+"Antriebsobjekt, angetrieben durch Verbrennung von
+Brennstoffen",MS
+Verbrennungsmotor,MS
+"Verbrennungsmotor mit Zylindern und Kolben, die durch
+Funkenzündung angetrieben werden",MSA
+Ottomotor,MSA
+"Verbrennungsmotor mit Zylindern und Kolben, die durch
+Verdichtung angetrieben werden",MSB
+Dieselmotor,MSB
+"Verbrennungsmotor in einem kreisförmigen Gehäuse mit
+exzentrischem Rotationskolben, der durch Funkenzündung
+angetrieben werden",MSC
+Wankelmotor,MSC
+"Antriebsobjekt, angetrieben durch eine externe Wärmequelle",MT
+Wärmemaschine,MT
+"Wärmemaschine, die ausgedehnten Dampf verwendet, der auf
+einen Kolben wirkt",MTA
+Dampfmotor,MTA
+"Wärmemaschine mit zwei Kolben innerhalb eines erwärmten
+und eines gekühlten Zylinders oder Zylinderteils",MTB
+Stirling-Motor,MTB
+"Objekt zum teilweisen oder vollständigen Abdecken eines
+anderen Objekts",N
+Abdeckobjekt,N
+"Füllobjekt, das Lichtdurchlass ermöglicht",NAA
+Scheibe,NAA
+"Füllobjekt, das den Durchlass von Licht und Feststoffen
+verhindert",NAB
+Panel,NAB
+"Füllobjekt, das Flüssigkeitsdurchlass ermöglicht",NAC
+Gitter,NAC
+"Füllobjekt, das Flüssigkeitsdurchlass verhindert",NAD
+Abdichtungsmittel,NAD
+Dichtung,NAD
+ Buchse,NAD
+ Mörtel,NAD
+Abdeckungsobjekt durch Schließen einer Öffnung,NB
+Schließungsobjekt,NB
+Schließungsobjekt für eine Tür,NBA
+Türflügel,NBA
+Schließungsobjekt für eine große Tür,NBB
+Flügel einer großen Tür,NBB
+Schließungsobjekt in einer Umschließung,NBC
+Gehäuseklappe,NBC
+Kabinentür,NBC
+ Schranktür,NBC
+Wartungsklappe,NBC
+ Tankdeckel,NBC
+Schließungsobjekt für ein Tor,NBD
+Torflügel,NBD
+Schließungsobjekt für eine Luke,NBE
+Lukenabdeckung,NBE
+Blende,NBE
+ Gehäusedeckel,NBE
+Abdeckungsobjekt durch Abschlussstrukturen,NC
+Abschlussobjekt,NC
+Endabschlussobjekt für einen Bürgersteig,NCA
+Pflaster,NCA
+Endabschlussobjekt für eine Wand,NCB
+Wandabdeckung,NCB
+Endabschlussobjekt für einen Boden,NCC
+Bodenbelag,NCC
+Endabschlussobjekt für eine Decke,NCD
+Deckenschicht,NCD
+Endabschlussobjekt für ein Dach,NCE
+Bedachung,NCE
+Endabschlussobjekt für eine Öffnung,NCF
+Fenstersims,NCF
+Fensterbrett,NCF
+Endabschlussobjekt für eine bewachsene Fläche,NCG
+Pflanzenmatte,NCG
+Rasenboden,NCG
+"Endabschlussobjekt zur Bildung der äußeren Form eines
+Objekts",NCH
+Oberflächenformobjekt,NCH
+Luftfahrzeugverkleidung,NCH
+Luftfahrzeugbeplankung,NCH
+Rumpfverkleidung,NCH
+Kraftfahrzeugkarosserieteile,NCH
+Cockpitverkleidung,NCH
+Motorradverkleidung,NCH
+ unbelasteteRumpfplatte,NCH
+Abdeckungsobjekt zum Abschließen eines anderen Objekts,ND
+Abschließungsobjekt,ND
+"Abschließungsobjekt zur Begrenzung der Bürgersteigkante
+oder eines bewachsenen Bereichs",NDA
+Bordsteinkante,NDA
+Rasenkante,NDA
+ Pflanzenbeetkante,NDA
+Abschließungsobjekt zur Begrenzung der Kante einer Wand,NDB
+Krone,NDB
+Umbördelung,NDB
+ Wandoberseite,NDB
+Abschließungsobjekt zur Begrenzung der Kante eines Bodens,NDC
+Zwischenbodenkante,NDC
+Abschließungsobjekt zur Begrenzung der Kante einer Decke,NDD
+Deckenkante,NDD
+Abschließungsobjekt zur Begrenzung der Kante eines Dachs,NDE
+Stirnbrett,NDE
+Ortgang,NDE
+Abdeckungsobjekt zum Verdecken von Fugen und Übergängen,NE
+Verdeckungsobjekt,NE
+Verdeckungsobjekt zwischen einer Wand und Decke,NEA
+Deckenverkleidung,NEA
+Verdeckungsobjekt zwischen einer Wand und einem Boden,NEB
+Fußleiste,NEB
+Sockelleiste,NEB
+Verdeckungsobjekt zwischen zwei Wänden,NEC
+Wandeckenverkleidung,NEC
+Verdeckungsobjekt auf einem Dach,NED
+Abdeckblech,NED
+Traufe,NED
+ Firstabdeckung,NED
+Dachabdeckblech,NED
+Verdeckungsobjekt um eine Öffnung herum,NEE
+Auskleidung,NEE
+Architrav,NEE
+ Muffe,NEE
+Objekt zur Bereitstellung wahrnehmbarer Informationen,P
+Präsentierobjekt,P
+Präsentierobjekt in sichtbarer Form diskreter Zustände,PF
+Sichtbare Zustandsanzeige,PF
+Sichtbare Zustandsanzeige unter Verwendung von Licht,PFA
+Signallampe,PFA
+Verkehrslichtzeichen,PFA
+"Sichtbare Zustandsanzeige unter Verwendung mechanischer
+Positionen",PFB
+Stellungsanzeiger,PFB
+"Präsentierobjekt in sichtbarer Form einer einzelnen
+Skalarvariablen",PG
+Skalaranzeige,PG
+Skalaranzeige zur Anzeige elektrischer Spannung,PGA
+Spannungsmessinstrument,PGA
+Skalaranzeige zur Anzeige von Widerstand oder Leitfähigkeit,PGB
+Widerstandsanzeige,PGB
+Skalaranzeige zur Anzeige von Strom,PGC
+Amperemeter,PGC
+Skalaranzeige zur Anzeige von Dichte,PGD
+Dichteanzeige,PGD
+Skalaranzeige zur Anzeige eines Felds,PGE
+Feldanzeige,PGE
+Skalaranzeige zur Anzeige von Durchfluss,PGF
+Durchflussmesser,PGF
+"Skalaranzeige zur Anzeige einer räumlichen Dimension
+und/oder Position",PGG
+Dimensionsanzeige,PGG
+Winkelanzeige,PGG
+ Positionsanzeige,PGG
+Skalaranzeige zur Anzeige von Energie,PGH
+Energiezähler,PGH
+Blindverbrauchszähler,PGH
+Wattstundenzähler,PGH
+Skalaranzeige zur Anzeige elektrischer Energie,PGJ
+Leistungsmessinstrument,PGJ
+Blindleistungsmessgerät,PGJ
+Skalaranzeige zur Anzeige von Zeit,PGK
+Uhr,PGK
+Skalaranzeige zur Anzeige von Füllständen,PGL
+Füllstandsanzeige,PGL
+Sichtglas,PGL
+Skalaranzeige zur Anzeige von Feuchte,PGM
+Feuchteanzeige,PGM
+Hygrometer,PGM
+Skalaranzeige zur Anzeige von Druck,PGP
+Druckanzeige,PGP
+Barometer,PGP
+ Manometer,PGP
+Skalaranzeige zur Anzeige von Substanzkonzentration,PGQ
+Konzentrationsanzeige,PGQ
+Skalaranzeige zur Anzeige von Strahlung,PGR
+Elektromagnetwellenanzeige,PGR
+Skalaranzeige zur Anzeige eines Zeitbereichs,PGS
+Frequenzmessgerät,PGS
+Skalaranzeige zur Anzeige von Temperatur,PGT
+Temperaturanzeige,PGT
+"Skalaranzeige zur Anzeige des Unterschieds zwischen
+Wirkleistung und Blindleistung",PGV
+Cos-phi-Meter,PGV
+"Skalaranzeige zur Anzeige von Gewicht, Kraft oder
+Drehmoment",PGW
+Kraftanzeige,PGW
+Skalaranzeige zur Anzeige von Schall,PGX
+Audiospektrometer,PGX
+Skalaranzeige zur Anzeige der Anzahl an Ereignissen,PGZ
+Mengenmessgerät,PGZ
+"Präsentierobjekt in sichtbarer Form durch Bilder, Symbole, Text
+oder physikalische Eigenschaften",PH
+Grafische Anzeige,PH
+Grafische Anzeige mit dynamischer Oberfläche,PHA
+Display,PHA
+Tafel,PHA
+ Whiteboard,PHA
+ Bildschirm,PHA
+"Grafische Anzeige mit an einem anderen Ort dargestellter
+dynamischer Oberfläche",PHB
+Projektor,PHB
+Grafische Anzeige auf gedruckten Medien,PHC
+Drucker,PHC
+"Grafische Anzeige in statischer Form auf seiner eigenen
+Oberfläche",PHD
+Schild,PHD
+Verkehrszeichen,PHD
+"Grafische Anzeige in statischer Form auf der Oberfläche eines
+anderen Objekts",PHE
+Kennzeichnung,PHE
+"Grafische Anzeige in statischer Form aufgrund seiner
+physikalischen Eigenschaften",PHF
+Markierungspfosten,PHF
+Referenzpunkt,PHF
+Präsentationsobjekt in hörbarer Form,PJ
+Akustisches Gerät,PJ
+"Akustisches Gerät unter Verwendung der Bewegung einer
+Membran",PJA
+Lautsprecher,PJA
+Akustisches Gerät unter Verwendung eines Luftstroms,PJB
+Hupe,PJB
+"Akustisches Gerät unter Verwendung von mechanischer
+Anregung des Objekts",PJC
+Klingel,PJC
+Präsentationsobjekt in taktiler Form,PK
+Taktiles Gerät,PK
+Taktiles Gerät für diskrete Zustände durch Vibration,PKA
+Vibrator,PKA
+Taktiles Gerät für statische Informationen,PKB
+Braille-Zeichen,PKB
+Straßenrillen,PKB
+Taktiles Gerät für überlagernde Hindernisse,PKC
+Warnung vor lichter Höhe,PKC
+Präsentationsobjekt in Ornamentform,PL
+Ornamentobjekt,PL
+Ornamentobjekt als Trennung zwischen zwei Bereichen,PLA
+Sims,PLA
+Ornamentobjekt als räumliche Darstellung von etwas,PLB
+Figur,PLB
+"Ornamentobjekt als herausragende Gebilde und/oder
+dekorative Elemente an einer Wand",PLC
+Fries,PLC
+Pilaster,PLC
+ Stuck,PLC
+"Ornamentobjekt zur Darstellung, Illustrierung oder
+Reproduktion eines sichtbaren Objekts auf einer Oberfläche",PLD
+Bild,PLD
+"Ornamentobjekt in Form eines Stoffs, mit dem ein Teil eines
+anderen Objekts abgedeckt wird",PLE
+Teppich,PLE
+Präsentationsobjekt in mehreren Formen,PZ
+Mehrfachpräsentierobjekt,PZ
+Mehrfachpräsentierobjekt für diskrete Zustände,PZA
+Audiovisueller Alarm,PZA
+Mehrfachpräsentierobjekt für mehrere Informatonen,PZB
+Fernsehgerät,PZB
+Objekt zur Steuerung von Zugang oder Durchfluss,Q
+Steuerungsobjekt,Q
+Steuerobjekt für elektrischen Strom in einem Schaltkreis,QA
+Stromsteuerungsobjekt,QA
+"Stromsteuerungsobjekt in mechanischer Form nur unter
+normalen Betriebsbedingungen",QAA
+Schütz,QAA
+Motoranlasser,QAA
+"Stromsteuerungsobjekt in mechanischer Form unter normalen
+und unnormalen Betriebsbedingungen",QAB
+Schutzschalter,QAB
+Motoranlasser,QAB
+Stromsteuerungsobjekt in elektronischer Form,QAC
+Elektronischer Leistungsschalter,QAC
+Defibrillator,QAC
+ Motoranlasser,QAC
+ Solid-State-Leistungstransistor,QAC
+ Thyristor,QAC
+Röhrenleistungstransistor,QAC
+Steuerobjekt durch Trennen elektrischer Stromkreise,QB
+Elektrisches Trennobjekt,QB
+"Elektrisches Trennobjekt nur zur mechanischen Isolation des
+nachgeschalteten Kreises vom vorgeschalteten Kreis",QBA
+Sicherungsloser Trennschalter,QBA
+Trennschalter,QBA
+ Lasttrennschalter,QBA
+"Elektrisches Trennobjekt zur mechanischen Isolation des
+nachgeschalteten Kreises vom vorgeschalteten Kreis und mit
+einer integrierten Sicherung",QBB
+Gesicherter Trennschalter,QBB
+Sicherungstrennschalter,QBB
+ Trenn-sicherung,QBB
+Steuerobjekt durch Erdung elektrischer Stromkreise,QC
+Elektrisches Erdungsobjekt,QC
+"Elektrisches Erdungsobjekt zum Anschluss von elektrischen
+Kreisen an Masse",QCA
+Erdungsschalter,QCA
+"Steuerobjekt zum Aktivieren/Deaktivieren von Flüssigkeiten in
+verschlossenen Umschließungen",QM
+"Schaltobjekt für eingeschlossene
+Flüssigkeiten",QM
+"Schaltobjekt für eingeschlossene Flüssigkeiten in
+Flüssigkeitsströmen",QMA
+Flüssigkeitsabsperrventil,QMA
+Absperrhahn,QMA
+ Hahn,QMA
+ Stopfen,QMA
+Schaltobjekt für eingeschlossene Flüssigkeiten in Gasströmen,QMB
+Gasabsperrventil,QMB
+Ein-Aus-Klappe,QMB
+ Stopfen,QMB
+"Steuerobjekt zum Variieren des Flüssigkeitsstroms in
+verschlossenen Umschließungen",QN
+"Variierobjekt für eingeschlossene
+Flüssigkeiten",QN
+"Variierobjekt für eingeschlossene Flüssigkeiten in
+Flüssigkeitsströmen",QNA
+Flüssigkeitssteuerventil,QNA
+Variierobjekt für eingeschlossene Flüssigkeiten in Gasströmen,QNB
+Gassteuerventil,QNB
+Steuerklappe,QNB
+Steuerobjekt für Flüssigkeiten in einer offenen Umgebung,QP
+Steuerobjekt für offenen Fluss,QP
+Steuerobjekt für offenen Fluss zum Variieren oder An-/Aus-schalten,QPA
+Schleusentor,QPA
+Dammplatte,QPA
+ Flüssigkeits-durchgang,QPA
+"Steuerobjekt für offenen Fluss zum Leiten eines Flusses durch
+ein festes Mittel",QPB
+Vortexgenerator,QPB
+Stringer,QPB
+ Grenzschichtzaun Trag-flügel,QPB
+ Turbulator,QPB
+ Wirbelerzeuger,QPB
+"Steuerobjekt für offenen Fluss zum Leiten eines Flusses durch
+ein veränderliches Mittel",QPC
+Ruder,QPC
+Steuerobjekt für einen Raum,QQ
+Raumzugangsobjekt,QQ
+Raumzugangsobjekt nur für Lichteintritt,QQA
+Fenster,QQA
+Raumzugangsobjekt für Eintritt von Licht und Personen,QQB
+Fenstereinheit,QQB
+"Raumzugangsobjekt zur Durchquerung durch Personen in
+aufrechter Position",QQC
+Tür,QQC
+"Raumzugangsobjekt von eingeschränkter Größe zur
+Durchquerung durch Personen und Güter",QQD
+Luke,QQD
+Notluke,QQD
+"Raumzugangsobjekt von erweiterter Größe zur Übertragung
+von Objekten",QQE
+Große Tür,QQE
+"Raumzugangsobjekt, teilweise",QQF
+Tor,QQF
+Riegel zum Öffnen,QQF
+"Raumzugangsobjekt zum Blockieren des Zugangs zu einem
+Gleis",QQG
+Vorlegerblock,QQG
+Steuerobjekt für feste Substanzen,QR
+Variierobjekt für feste Substanzen,QR
+Variierobjekt für feste Substanzen mit rotierenden Kammern,QRA
+Luftschleusen-Drehventil,QRA
+Dosierer,QRA
+Variierobjekt für feste Substanzen mit Iris-Öffnung,QRB
+Irisventil,QRB
+Dosierer,QRB
+"Variierobjekt für feste Substanzen mit Scharnierklappe oder
+Scheibe",QRC
+Klappenventil,QRC
+Dosierer,QRC
+Steuerobjekt für mechanische Bewegung,QS
+"Objekt zur Steuerung mechanischer
+Bewegungen",QS
+"Objekt zur Steuerung mechanischer Bewegungen zum
+Blockieren",QSA
+Schloss,QSA
+Verriegelungsgerät,QSA
+"Objekt zur Steuerung mechanischer Bewegungen zum
+Umschalten zwischen unterschiedlichen Gleisen",QSB
+Gleisschalter,QSB
+Eisenbahnweiche,QSB
+"Steuerobjekt in Stromkreisen unter Verwendung verschiedener
+Maßnahmen",QZ
+"Steuerobjekt mit mehreren
+Maßnahmen",QZ
+"Steuerobjekt mit mehreren Maßnahmen zum Erden oder
+Trennen von elektrischen Stromkreisen",QZA
+Erdungs- und Trennschalter,QZA
+Objekt zur Begrenzung oder Stabilisierung,R
+Begrenzungsobjekt,R
+"Begrenzungsobjekt durch Einschränken des elektrischen
+Energieflusses",RA
+Elektrizitätsbegrenzungsobjekt,RA
+"Elektrizitätsbegrenzungsobjekt zum Blockieren des
+Stromflusses in eine Richtung",RAA
+Diode,RAA
+"Elektrizitätsbegrenzungsobjekt zum Erzeugen von Induktivität in
+einem Stromkreis",RAB
+Reaktor,RAB
+Begrenzer,RAB
+ Reihendrosselspule,RAB
+"Elektrizitätsbegrenzungsobjekt zum Erzeugen von Widerstand
+in einem Stromkreis",RAC
+Widerstand,RAC
+"Begrenzungsobjekt durch Stabilisation eines elektrischen
+Energieflusses",RB
+Elektrizitätsstabilisierungsobjekt,RB
+"Elektrizitätsstabilisierungsobjekt zum Sicherstellen einer
+kontinuierlichen Stromversorgung",RBA
+"Unterbrechungsfreie
+Stromversorgung",RBA
+USV,RBA
+"Elektrizitätsstabilisierungsobjekt zum Unterdrücken eines
+definierten Frequenzbereichs innerhalb eines Stromflusses",RBB
+Leistungsfilter,RBB
+"Elektrizitätsstabilisierungsobjekt zum Bereitstellen von reaktiver
+Leistung",RBC
+Phasenkompensator,RBC
+Leistungsfaktorkorrektursystem,RBC
+Leistungsfaktorkorrektureinheit,RBC
+Spannungskompensator,RBC
+"Elektrizitätsstabilisierungsobjekt zum Unterdrücken oder
+Verstärken mehrerer Frequenzbereiche innerhalb eines
+Stromflusses",RBD
+Leistungsausgleicher,RBD
+Begrenzungsobjekt zur Stabilisierung eines Signals,RF
+Signalstabilisierungsobjekt,RF
+"Signalstabilisierungsobjekt zum Unterdrücken oder Verstärken
+mehrerer Frequenzbereiche des Signals",RFA
+Signalausgleicher,RFA
+"Signalstabilisierungsobjekt zum Unterdrücken eines definierten
+Frequenzbereichs des Signals",RFB
+Signalfilter,RFB
+Ferrit,RFB
+Begrenzungsobjekt zur Begrenzung von Bewegung,RL
+Bewegungsbegrenzungsobjekt,RL
+"Bewegungsbegrenzungsobjekt zum Einschränken der
+Bewegung eines Objekts",RLA
+Sicherheitskette,RLA
+Türkette,RLA
+ Ankerschiene,RLA
+"Bewegungsbegrenzungsobjekt zum Verringern und Dämpfen
+von Bewegungen eines Objekts",RLB
+Stoßdämpfer,RLB
+Gummitülle,RLB
+"Bewegungsbegrenzungsobjekt zum Reduzieren der
+Geschwindigkeit oder zum Stoppen eines anderen Objekts",RLC
+Bremse,RLC
+"Bewegungsbegrenzungsobjekt zum Verhindern von hohen
+Geschwindigkeiten eines anderen Objekts",RLD
+Bodenschwelle,RLD
+"Begrenzungsobjekt zur Begrenzung des Rückflusses von
+Stoffen",RM
+Rückflussbegrenzungsobjekt,RM
+Rückflussbegrenzungsobjekt für Flüssigkeiten,RMA
+Rückschlagventil,RMA
+Rückflussbegrenzungsobjekt für Gase,RMB
+Klappe,RMB
+Rückflussbegrenzungsobjekt für Feststoffe,RMC
+Klappe,RMC
+Rückflussbegrenzungsobjekt für Gerüche,RMD
+Geruchsverschluss,RMD
+"Begrenzungsobjekt zur Begrenzung des geführten Rückflusses
+von Stoffen",RN
+Durchflussbegrenzer,RN
+Durchflussbegrenzer für Flüssigkeiten durch einstellbare Mittel,RNA
+Regelventil,RNA
+Absperrhahn,RNA
+ Dusche,RNA
+ Duschkopf,RNA
+Durchflussbegrenzer für Gase durch einstellbare Mittel,RNB
+Regelklappe,RNB
+einstellbare Düse,RNB
+ Lufteinlass,RNB
+Luftauslass,RNB
+ Lüftereinlass,RNB
+Lüfterauslass,RNB
+Durchflussbegrenzer für Feststoffe durch einstellbare Mittel,RNC
+Regelventil für Feststoffe,RNC
+Durchflussbegrenzer durch feste Mittel,RND
+Diffusor,RND
+feste Düse,RND
+ Messblende,RND
+ Dusche,RND
+Duschkopf,RND
+Beschränkungsobjekt für die lokale Umgebung,RQ
+Lokales Klimastabilisierungsobjekt,RQ
+"Lokales Klimastabilisierungsobjekt zum Beschränken einer
+thermischen oder akustischen Übertragung",RQA
+Isolierung,RQA
+Ausmauerung,RQA
+"Lokales Klimastabilisierungsobjekt zum Stabilisieren eines
+Flüssigkeits-, Feuchtigkeits-, Wind- oder Materialstroms",RQB
+Membran,RQB
+Klimamembran,RQB
+"Lokales Klimastabilisierungsobjekt zum Stabilisieren und
+Abschirmen von Schall",RQC
+Lärmschutzwand,RQC
+Lärmschutz,RQC
+ Schallwand,RQC
+"Lokales Klimastabilisierungsobjekt zum Beschränken von Wind,
+Niederschlag oder Strahlung",RQD
+Blende,RQD
+"Lokales Klimastabilisierungsobjekt durch Beschränken der
+Übertragung von Licht mithilfe von Textilien",RQE
+Vorhang,RQE
+"Lokales Klimastabilisierungsobjekt durch Beschränken der
+Übertragung von Licht mithilfe von eng aneinanderliegenden,
+einstellbaren Jalousien",RQF
+Jalousie,RQF
+"Lokales Klimastabilisierungsobjekt durch Beschränken der
+Übertragung von Licht mithilfe einer externen Abdeckung",RQG
+Fensterläden,RQG
+"Lokales Klimastabilisierungsobjekt zum Verhindern von
+Unkrautwuchs",RQH
+Unkrautbekämpfungsvlies,RQH
+"Lokales Klimastabilisierungsobjekt zum Beschränken von Sicht
+und Schall",RQJ
+Sichtschutzwand,RQJ
+Begrenzungsobjekt zur Zutrittsbegrenzung,RU
+Zutrittsbegrenzungsobjekt,RU
+"Zutrittsbegrenzungsobjekt mit horizontaler, länglichen Barriere
+mit vertikaler Ausdehnung",RUA
+Zaun,RUA
+"Zutrittsbegrenzungsobjekt mit beweglichem horizontalem
+Balken",RUB
+Beweglicher Balken,RUB
+Schranke,RUB
+Zutrittsbegrenzungsobjekt mit drehender Barriere,RUC
+Drehkreuz,RUC
+Zutrittsverwaltungsgerät,RUC
+ Einwege-Tür,RUC
+ Torvorrichtung,RUC
+ Ticket-Durchgang,RUC
+"Zutrittsbegrenzungsobjekt mit Barriere mit beschränkter
+horizontaler und vertikaler Ausdehnung",RUD
+Absperrpfosten,RUD
+Zutrittsbegrenzungsobjekt zum Formen eines Pfads,RUE
+Nagerschutz,RUE
+Rattenschutzgerät,RUE
+ Viehschutz,RUE
+Zutrittsbegrenzungsobjekt in Form eines Netzes,RUF
+Vogelnetz,RUF
+"Objekt zum Erkennen einer menschlichen Handlung und
+Bereitstellung einer geeigneten Reaktion",S
+Objekt zur menschlichen Interaktion,S
+"Objekt zur menschlichen Interaktion zur Interaktion mit dem
+Gesicht",SF
+Gesichtinteraktionsgerät,SF
+Gesichtinteraktionsgerät zur Erkennung von Gesichtsaktivität,SFA
+Augenfokus-Lesegerät,SFA
+Augenbetätigung fürPositionierungsvorgänge,SFA
+Gesichtinteraktionsgerät zur Gesichtserkennung,SFB
+Gesichtserkennungsgerät,SFB
+Objekt zur menschlichen Interaktion zur Handbetätigung,SG
+Handinteraktionsgerät,SG
+Handinteraktionsgerät zum Drehen,SGA
+Drehgriff,SGA
+Potentiometer,SGA
+ Drehschalter,SGA
+Handinteraktionsgerät zum Greifen,SGB
+Griffhebel,SGB
+Aktivierungsgerät mit 2 oder3 Stellungen,SGB
+ Zweihandsteuerung,SGB
+Handinteraktionsgerät zum Drücken,SGC
+Schiebegriff,SGC
+Notfallknopf,SGC
+ Zweihandsteuerung,SGC
+Handinteraktionsgerät zur Hebelbetätigung,SGD
+Hebelstange,SGD
+Handinteraktionsgerät zum Ziehen,SGE
+Zughebel,SGE
+Notseilzug,SGE
+ mechanischer Hebel,SGE
+"Handbetätigungsgerät zum Drehen eines passenden
+Schließzylinders oder Schließmechanismus",SGF
+Schlüssel,SGF
+Schlüsselschalter,SGF
+Objekt zur menschlichen Interaktion zur Fußbedienung,SH
+Fußinteraktionsgerät,SH
+Fußinteraktionsgerät zum Drücken mit dem Fuß,SHA
+Pedalschalter,SHA
+Aktivierungsgerät mit 2 oder3 Stellungen,SHA
+Objekt zur menschlichen Interaktion zur Fingerbetätigung,SJ
+Fingerinteraktionsgerät,SJ
+Fingerinteraktionsgerät zur Hebelbetätigung,SJA
+Kippschalter,SJA
+Schalter mit zwei Stellungen,SJA
+Fingerinteraktionsgerät zum Drücken,SJB
+Druckknopf,SJB
+Niederhalter,SJB
+ Tastatur,SJB
+Druckschalter,SJB
+Fingerinteraktionsgerät zum Berühren,SJC
+Druckbetätiger,SJC
+Schalter mit zwei Stellungen,SJC
+Touchpad,SJC
+"Fingerinteraktionsgerät mit Drehrad zum Drehen nach vorn
+oder hinten",SJD
+Drehrad,SJD
+Manuelles Interaktionsobjekt zum Bewegen bzw. Positionieren,SK
+Bewegungsinteraktionsgerät,SK
+Bewegungsinteraktionsgerät mit beschränkten Positionierungs-und Auswahlvorgängen,SKA
+Joystick,SKA
+Kugelmaus,SKA
+"Bewegungsinteraktionsgerät mit unbeschränkten
+Positionierungs- und Auswahlvorgängen",SKB
+Maus,SKB
+Lichtstift,SKB
+"Objekt zur menschlichen Interaktion mit mehreren
+Interaktionsmitteln",SZ
+Mehrfachinteraktionsgerät,SZ
+"Mehrfachinteraktionsgerät, das manuelle Mittel einbezieht",SZA
+Bedienfeld,SZA
+Gamepad,SZA
+ Gamecontroller,SZA
+ Joypad,SZA
+Objekt zum Transformieren,T
+Transformierobjekt,T
+"Transformierobjekt für elektrische Energie bei Beibehaltung von
+Wechsel- oder Gleichstrom",TA
+Stromtransformierendes Objekt,TA
+"Stromtransformierendes Objekt zum Wechsel von
+Wechselstrom zu Wechselstrom ohne Veränderung der
+Frequenz",TAA
+Transformator,TAA
+Trenntransformator,TAA
+"Stromtransformierendes Objekt zum Wechsel von Gleichstrom
+zu Gleichstrom",TAB
+Gleichspannungswandler,TAB
+"Stromtransformierendes Objekt zum Wechsel von
+Wechselstrom zu Wechselstrom mit Veränderung der Frequenz",TAC
+Frequenzumrichter,TAC
+Kraftantrieb,TAC
+"Stromtransformierendes Objekt zum Wechsel von
+Wechselstrom zu Wechselstrom mit Veränderung des Winkels
+zwischen Spannungen und Strömen",TAD
+Phasenschieber,TAD
+"Transformierobjekt für elektrische Energie mit Änderung
+zwischen Wechsel- und Gleichstrom",TB
+Stromkonvertierungsobjekt,TB
+"Stromkonvertierungsobjekt zum Konvertieren von
+Wechselstrom zu Gleichstrom",TBA
+Stromrichter,TBA
+Stromversorgung,TBA
+"Stromkonvertierungsobjekt zum Konvertieren von Gleichstrom
+zu Wechselstrom",TBB
+Wechselrichter,TBB
+Stromversorgung,TBB
+"Stromkonvertierungsobjekt zum Konvertieren von Wechsel- zu
+Gleichstrom oder von Gleichstrom zu Wechselstrom",TBC
+Doppeltgerichteter Konverter,TBC
+"Transformierobjekt für elektrische Energie von Wechsel- und
+Gleichstrom zu Wechselstrom oder Gleichstrom",TC
+Universelle Stromversorgung,TC
+Universelle Stromversorgung für Wechselstrom,TCA
+"Universelle
+Wechselsstromversorgung",TCA
+Stromversorgung,TCA
+Universelle Stromversorgung für Gleichstrom,TCB
+Universelle Gleichstromversorgung,TCB
+Stromversorgung,TCB
+Transformierobjekt für Signale,TF
+Signalkonvertierungsobjekt,TF
+Signalkonvertierungsobjekt zum Beibehalten der Signalform,TFA
+Verstärker,TFA
+"Signalkonvertierungsobjekt zwischen verdrahteter und
+unverdrahteter Form",TFB
+Signalantenne,TFB
+Antenne,TFB
+ Funkantenne,TFB
+ induktiveSignalantenne,TFB
+ IR-Diode,TFB
+ IR-Sender,TFB
+ Oszillator,TFB
+ RF-Signal-antenne,TFB
+Signalkonvertierungsobjekt zwischen zwei verdrahteten Formen,TFC
+Signalumformer,TFC
+Optokoppler,TFC
+ Umformer,TFC
+"Signalkonvertierungsobjekt zwischen einer elektrischen und
+optischen Form",TFD
+"Optischer
+Empfänger/Messwertgeber",TFD
+"Signalkonvertierungsobjekt zwischen Schallwellen und
+elektrischen Signalen",TFE
+Telefon,TFE
+Handy,TFE
+ Mobiltelefon,TFE
+ Telefon,TFE
+Transformierobjekt für mechanische Energie,TL
+"Objekt zum Transformieren von
+mechanischer Energie",TL
+"Objekt zum Transformieren von mechanischer Energie zur
+Veränderung der Geschwindigkeit",TLA
+Getriebe,TLA
+Automatikgetriebe,TLA
+ Regelkupplung,TLA
+Schaltgetriebe,TLA
+ Drehzahlwandler,TLA
+"Objekt zum Transformieren von mechanischer Energie zur
+Veränderung des Drehmoments",TLB
+Drehmomentwandler,TLB
+"Objekt zum Transformieren von mechanischer Energie zur
+Veränderung der Kraft",TLC
+Hebel,TLC
+Transformierobjekt für Materie durch Massereduktion,TM
+Massereduktionsobjekt,TM
+Massereduktionsobjekt für mechanische Prozesse,TMA
+Bohrmaschine,TMA
+Bohrer,TMA
+ Schleifmaschine,TMA
+Stanzmaschine,TMA
+ Säge,TMA
+Drehmaschine,TMA
+Massereduktionsobjekt für thermische Prozesse,TMB
+Thermische Trennvorrichtung,TMB
+Elektronenentladungs-Sägemaschine,TMB
+Gasschneidemaschine,TMB
+Plasmabogen-Schneidemaschine,TMB
+Massereduktionsobjekt für chemische Prozesse,TMC
+Ätzmaschine,TMC
+chemisches Eintauchgerät,TMC
+chemisches Sprühgerät,TMC
+Transformierobjekt für Materie durch Formänderung,TP
+Materieumformungsobjekt,TP
+Materieumformungsobjekt zum Schmieden,TPA
+Schmiedemaschine,TPA
+Kalteschmiedemaschine,TPA
+Warmschmiedemaschine,TPA
+Materieumformungsobjekt zum Extrudieren,TPB
+Strangpresse,TPB
+Materieumformungsobjekt zum Ziehen,TPC
+Drahtziehmaschine,TPC
+Rohrziehmaschine,TPC
+Materieumformungsobjekt durch Rollen oder Walzen,TPD
+Walzmaschine,TPD
+Rändelmaschine,TPD
+ Blechwalze,TPD
+Schermaschine,TPD
+Gewindeerzeugungsmaschine,TPD
+Materieumformungsobjekt zum Biegen,TPE
+Biegemaschine,TPE
+Bördelmaschine,TPE
+Verschließmaschine,TPE
+"Materieumformungsobjekt zum Erzeugen einer hohen
+Energierate",TPF
+"Elektromagnetische
+Umformmaschine",TPF
+elektrohydraulischeUmformmaschine,TPF
+Explosionsumformmaschine,TPF
+Transformierobjekt für Strahlung durch Photosynthese,TR
+Pflanze,TR
+Pflanze mit einem einzelnen hölzernen Stamm,TRA
+Baum,TRA
+Pflanze mit mehreren hölzernen Stämmen,TRB
+Strauch,TRB
+Busch,TRB
+Pflanze mit langen Trieben und Kletterorganen,TRC
+Ranker,TRC
+"Pflanze, die nicht hölzern oder nur geringfügig hölzern ist",TRD
+Kraut,TRD
+Blume,TRD
+ Gras,TRD
+ Gemüsepflanze,TRD
+Objekt zur Verortung anderer Objekte,U
+Halteobjekt,U
+Halteobjekt zur Fixierung in einer bestimmten Position,UA
+Positionierobjekt,UA
+Positionierobjekt für Leiter,UAA
+Isolator,UAA
+Positionierobjekt für Kabel,UAB
+Kabelverschraubung,UAB
+Kabelzugang,UAB
+ Kabeleingang,UAB
+Positionierobjekt für Lichtquellen,UAC
+Beleuchtungskörper,UAC
+Leuchte,UAC
+Positionierobjekt für Tritte,UAD
+Treppenwange,UAD
+Flansch,UAD
+Positionierobjekt für Abdeckungen,UAE
+Latte,UAE
+Positionierobjekt für Pflanzen,UAF
+Pflock,UAF
+Spalier,UAF
+ Gitter,UAF
+Positionierobjekt für Gleisabstände,UAG
+Gleismessgerät,UAG
+Spurmessgerät,UAG
+Positionierobjekt für Werkzeug oder Werkstück,UAH
+Klemme,UAH
+Spannfutter,UAH
+ Anschlag,UAH
+ Backe,UAH
+Drehfutter,UAH
+Positionierobjekt für Fahrzeuge,UAJ
+Fahrzeugständer,UAJ
+Fahrradständer,UAJ
+Halteobjekt zum Tragen,UB
+Trageobjekt,UB
+Trageobjekt zwischen zwei diskreten Positionen,UBA
+Kabelgerüst,UBA
+Kabelkanal,UBA
+ Kabelleiter,UBA
+Kabelpritsche,UBA
+ Kabelführung,UBA
+Kabelrohr,UBA
+ Gerätestützstruktur,UBA
+Kabeltrasse,UBA
+Trageobjekt an einer diskreten Position mit vertikalem Zug,UBB
+Bügel,UBB
+Aufhängebügel,UBB
+ Gurt,UBB
+ Seil,UBB
+Trageobjekt an einer diskreten Position mit Stufen,UBC
+Trittstufe,UBC
+Sprosse,UBC
+ Stufe,UBC
+Trageobjekt an einer diskreten Position mit vertikalem Schub,UBD
+Mast,UBD
+Leitungsmast,UBD
+ Stange,UBD
+ Pfosten,UBD
+Halteklammer,UBD
+ Fernleitungsmast,UBD
+Trageobjekt an einer diskreten Ebene mit Schub,UBE
+Tabelle,UBE
+Laufsteg,UBE
+ Operationstisch,UBE
+Plattform,UBE
+"Trageobjekt zwischen diskreten Positionen auf einer
+festgelegten Ebene",UBF
+Portal,UBF
+Halteobjekt zum Umschließen,UC
+Umschließobjekt,UC
+Umschließobjekt für Geräte,UCA
+Schaltschrank,UCA
+Schrank,UCA
+ elektrische Umhüllung,UCA
+elektrische Schalttafel,UCA
+Wartungskammer,UCA
+ Server-Gestell,UCA
+Schlauchtrommelkasten,UCA
+Sicherheitsschrank,UCA
+Sensorgehäuse,UCA
+ Untergestell,UCA
+Umschließobjekt für Pflanzenwurzeln,UCB
+Pflanzenerde,UCB
+Umschließobjekt für Bereichslüftung,UCC
+Abzugshaube,UCC
+Sicherheitsschrank,UCC
+Halteobjekt zur Bildung einer Strukturstütze,UL
+Strukturstützobjekt,UL
+Strukturstützobjekt in Form einer aggregierten Materialschicht,ULA
+Tragschicht,ULA
+Aggregatunterplatte,ULA
+ Basisschicht,ULA
+Verbindungsschicht,ULA
+"Strukturstützobjekt in Form einer Schutzvorrichtung, mit der
+eine darüberliegenden Struktur gestützt wird",ULB
+Konsole,ULB
+Kragstein,ULB
+"Strukturstützobjekt in einer gebogenen oder geraden linearen
+Form zum Übertragen von Druckkräften auf umgebende
+Medien",ULC
+Pfahl,ULC
+Gebäudefundament,ULC
+ Brückendeck,ULC
+Sockel,ULC
+"Strukturstützobjekt in einer gebogenen oder geraden linearen
+Form zum Übertragen von Druckkräften auf andere
+Strukturobjekte",ULD
+Säule,ULD
+Baluster,ULD
+ Druckelement,ULD
+ Pfeiler,ULD
+Fundamentsäule,ULD
+ Strebe,ULD
+"Strukturstützobjekt in einer geraden linearen Form, die
+Biegemomenten standhält",ULE
+Balken,ULE
+Schwellbalken,ULE
+"Strukturstützobjekt in einer geraden linearen Form, die
+Zugkräften standhält",ULF
+Zugstrebe,ULF
+Erdanker,ULF
+ Bodenanker,ULF
+ Seil,ULF
+Zuganker,ULF
+Strukturstützobjekt in Form eines Blocks,ULG
+Block,ULG
+Ziegelstein,ULG
+ Fundamentblock,ULG
+Maschinenfundament,ULG
+ Stein,ULG
+"Strukturstützobjekt in einer gebogenen linearen Form, die
+Biegemomenten standhält",ULH
+Bogen,ULH
+"Strukturstützobjekt mit einer ebenen oder gebogenen
+Oberfläche, die Druckkräften und Biegemomenten standhält",ULJ
+Stützpfeiler,ULJ
+"Strukturstützobjekt zum Verlegen einer ebenen Oberfläche, die
+Biegemomenten standhält",ULK
+Rohplatte,ULK
+Basismaterial,ULK
+ Brückendeck,ULK
+Betonplatte,ULK
+ Platte,ULK
+ Bodenplatte,ULK
+Grundplatte,ULK
+ Lochdeck,ULK
+ Brett,ULK
+"Strukturstützobjekt mit einer stehenden ebenen oder
+gebogenen Oberfläche, die Biegemomenten standhält",ULL
+Haltemauer,ULL
+Stützmauer,ULL
+ Gravitationsmauer,ULL
+Spundwand,ULL
+"Strukturstützobjekt mit einer ebenen oder gebogenen
+Abtastebene Form zum Halten von Biegemomenten",ULM
+Wandplatte,ULM
+Betonelement,ULM
+ Gegenwand,ULM
+Fundamentwand,ULM
+ tragende Wand,ULM
+Wand,ULM
+"Strukturstützobjekt mit einer ebenen oder gebogenen
+Oberfläche, die Zugkräften standhält",ULN
+Mantel,ULN
+Bilgenplatte,ULN
+ Rumpfplatte,ULN
+ Schiffs-rumpfplatte,ULN
+ tragende Schale,ULN
+"Strukturstützobjekt mit einer gebogenen Oberflächenform, die
+Biegemomenten standhält",ULP
+Durchgehender Bogen,ULP
+Dom,ULP
+ Lamelle,ULP
+ Rohrtunnel,ULP
+Gewölbe,ULP
+"Strukturstützobjekt mit einer flachen Oberflächenform, die
+Lasten in Verbindungen verteilt",ULQ
+Trageplatte,ULQ
+Platte,ULQ
+ Druckverteiler,ULQ
+ Auflagekeil,ULQ
+"Strukturstützobjekt mit einer gebogenen linearen Form, die
+Zugkräften standhält",ULR
+Tragseil,ULR
+Halteobjekt zur Verstärkung,UM
+Verstärkungsobjekt,UM
+Verstärkungsobjekt in Form einer eingelassenen Stange,UMA
+Verstärkte Stange,UMA
+Verstärkungsbalken,UMA
+ Felsanker,UMA
+"Verstärkungsobjekt in Form eines eingelassenen Netzes oder
+Stoffes",UMB
+Verstärktes Netz,UMB
+Betonstahlnetz,UMB
+Verstärkungsobjekt in Form einer Masseschicht,UMC
+Verstärkte Masseschicht,UMC
+Pflasterverstärkung,UMC
+Verstärkungsobjekt in Form einer eingelassenen Masse,UMD
+Verstärkte Masse,UMD
+Betoneinspritzung,UMD
+ Kalksäule,UMD
+Verstärkungsobjekt in Form einer Verschlussklappe,UME
+Sicherheitsschließblech,UME
+Verstärkungsobjekt in Form einer Zwischenfüllung,UMF
+Spleißung,UMF
+Spleißplatte,UMF
+Verstärkungsobjekt zur vertikalen Dränage,UMG
+Vertikaldrän,UMG
+Verstärkungsobjekt in Form von Betonspritzen,UMH
+Betonspritzen,UMH
+Verstärkungsobjekt in Form von Betonauskleidung,UMJ
+Betonauskleidung,UMJ
+Verstärkungsobjekt in Form einer Versteifung,UMK
+Versteifung,UMK
+Stützpfeiler,UMK
+ Widerlager,UMK
+Strebebogen,UMK
+ Rippe,UMK
+Verstärkungsobjekt in Form einer Diagonalverbindung,UML
+Diagonalverbindung,UML
+Verstärkungsobjekt in Form von Kabeln,UMM
+Stabilisierungskabel,UMM
+Verstärkungsobjekt in Form einer horizontalen Schiene,UMN
+Horizontalschiene,UMN
+"Verstärkungsobjekt, mit dem aufgrund seines Gegengewichts
+Boden stabilisiert wird",UMP
+Erddruckwall,UMP
+Halteobjekt zur Umrahmung anderer Objekte,UN
+Umrahmungsobjekt,UN
+Umrahmungsobjekt mit festem Rahmen,UNA
+Fester Rahmen,UNA
+Türrahmen,UNA
+ Fensterrahmen,UNA
+Umrahmungsobjekt mit unterstem Teil der Türfläche,UNB
+Türschwelle,UNB
+Umrahmungsobjekt mit beweglichem Rahmen,UNC
+Beweglicher Rahmen,UNC
+Fensterscheibenrahmen,UNC
+"Umrahmungsobjekt zum Separieren eines Rahmens oder einer
+Tür",UND
+Fenstersprossenrahmen,UND
+Fenstersprosse,UND
+Halteobjekt mit nicht statischer Montage,UP
+Fugenobjekt,UP
+Fugenobjekt mit Lager,UPA
+Lager,UPA
+Kugellager,UPA
+ Rollenlager,UPA
+ Gleitlager,UPA
+Fugenobjekt mit mechanischem Gelenk,UPB
+Scharnier,UPB
+elastische Lagerung,UPB
+Dehnungsfuge,UPB
+ Bewegungsfuge,UPB
+Fugenobjekt mit chemischer Verbindung,UPC
+Chemische Verbindung,UPC
+Zement,UPC
+ Strukturverbindung,UPC
+Halteobjekt mit statischer Montage,UQ
+Befestigungsobjekt,UQ
+"Befestigungsobjekt mit steifen und permanenten mechanischen
+Mitteln",UQA
+Ankerplatte,UQA
+Befestigungsschelle,UQA
+ Nagel,UQA
+ Niete,UQA
+"Befestigungsobjekt mit steifen und reversiblen mechanischen
+Mitteln",UQB
+Bolzen,UQB
+Befestigungsschelle,UQB
+ Mutter,UQB
+Schienenbefestigung,UQB
+ Schraube,UQB
+Befestigungsobjekt mit chemischer Verbindung,UQC
+Chemische Verbindung,UQC
+Schweißnaht,UQC
+Halteobjekt zum Ausgleichen,UT
+Ausgleichungsobjekt,UT
+"Ausgleichungsobjekt zum Erzeugen einer profilierten
+Oberfläche durch Hinzufügen von Material",UTA
+Füllung,UTA
+"Ausgleichungsobjekt zum Erzeugen einer profilierten
+Oberfläche durch Entfernen von Material",UTB
+Ausgrabung,UTB
+Unterbau,UTB
+Halteobjekt mit vorhandenem Boden,UU
+Vorhandener Boden,UU
+Bestehender Boden aus Fels,UUA
+Fels,UUA
+Bestehender Boden aus Reiberde,UUB
+Reiberde,UUB
+Bestehender Boden aus bindiger Erde,UUC
+Bindige Erde,UUC
+Bestehender Boden aus organischer Erde,UUD
+Organische Erde,UUD
+Bestehender Boden aus eingefülltem Material,UUE
+Eingefülltes Material,UUE
+Objekt zum Leiten von einem Ort zu einem anderen,W
+Leitobjekt,W
+Leitobjekt für elektrische Hochspannungsenergie,WB
+Hochspannungsenergie-Leitobjekt,WB
+Hochspannungsenergieleitobjekt mit Sammelschiene,WBA
+Hochspannungssammelschiene,WBA
+Hochspannungsenergieleitobjekt mit Kabel,WBB
+Hochspannungskabel,WBB
+Hochspannungsenergieleitobjekt mit Draht,WBC
+Hochspannungsdraht,WBC
+"Hochspannungsenergieleitobjekt durch ein Gehäuse, eine
+Wand oder eine Barriere",WBD
+Hochspannungsbuchse,WBD
+Leitobjekt für elektrische Niederspannungsenergie,WD
+Niederspannungsenergie-Leitobjekt,WD
+Niederspannungsenergieleitobjekt mit Sammelschiene,WDA
+Niederspannungssammelschiene,WDA
+Niederspannungsenergieleitobjekt mit Kabel,WDB
+Niederspannungskabel,WDB
+Niederspannungsenergieleitobjekt mit Draht,WDC
+Niederspannungsdraht,WDC
+"Niederspannungsenergieleitobjekt durch ein Gehäuse, eine
+Wand oder eine Barriere",WDD
+Niederspannungsdurchführung,WDD
+Leitobjekt für ein Referenzpotential,WE
+Referenzpotential-Leitobjekt,WE
+Referenzpotential-Leitobjekt für Erde mit Sammelschiene,WEA
+Erdungsschiene,WEA
+Referenzpotential-Leitobjekt für Erde mit Kabel,WEB
+Erdungskabel,WEB
+Referenzpotential-Leitobjekt mit Sammelschiene,WEC
+Potentialausgleichsschiene,WEC
+Referenzpotential-Leitobjekt mit Kabel,WED
+Potentialausgleichskabel,WED
+Leitobjekt für elektrische Signale,WG
+Elektrisches Signalleitobjekt,WG
+Elektrisches Signalleitobjekt zum Steuern und Messen,WGA
+Steuerkabel,WGA
+Elektrisches Signalleitobjekt zur Datenübertragung,WGB
+Datenkabel,WGB
+Datenbus,WGB
+"Elektrisches Signalleitobjekt durch ein Gehäuse oder eine
+Wand",WGC
+Durchführung für elektrische Signale,WGC
+Leitobjekt für Licht,WH
+Lichtleitobjekt,WH
+Lichtleitobjekt zur Signalübertragung,WHA
+Faseroptisches Kabel,WHA
+Lichtleitobjekt zur Lichtübertragung,WHB
+Optische Lichtfaser,WHB
+optischer Lichtleiter,WHB
+ optischerWellenleiter,WHB
+Lichtleitobjekt zur definierten Lichtbrechung,WHC
+Linse,WHC
+Lichtleitobjekt zur definierten Lichtreflexion,WHD
+Spiegel,WHD
+Lichtreflektor,WHD
+Leitobjekt für Schall,WJ
+Schallleitobjekt,WJ
+Schallleitobjekt zur Reflexion,WJA
+Schallreflektor,WJA
+Leitobjekt von festen Stoffen in offener Umschließung,WL
+Feststoff-Leitobjekt,WL
+Feststoff-Leitobjekt zum Rollen,WLA
+Rollentisch,WLA
+Feststoff-Leitobjekt zum Rutschen,WLB
+Rinne,WLB
+geneigte Ebene,WLB
+Rohrkettenförderer,WLB
+Leitobjekt für Flüssigkeitsdurchfluss in offener Umschließung,WM
+Leitobjekt in offener Umschließung,WM
+Leitobjekt in offener Umschließung in einer Schicht,WMA
+Drainageschicht,WMA
+Versickerungsschicht,WMA
+Belüftungsschicht,WMA
+"Leitobjekt in offener Umschließung für Flüssigkeiten in einem
+offenen Kanal",WMB
+Abflussrinne,WMB
+Regenrinne,WMB
+ Regentraufe,WMB
+Dachrinne,WMB
+"Leitobjekt in offener Umschließung für Flüssigkeiten und mit
+offener Oberfläche",WMC
+Flüssigkeitsablassblech,WMC
+"Leitobjekt in offener Umschließung für Flüssigkeiten zum
+Schutz",WMD
+Wassernase,WMD
+"Leitobjekt in offener Umschließung für Flüssigkeiten und mit
+Flüssigkeitsablassprofil",WME
+Tropfrinne,WME
+Leitobjekt in offener Umschließung mit perforierter Röhre,WMF
+Ablassrohr,WMF
+Versickerungsrohr,WMF
+ Belüftungsrohr,WMF
+Leitobjekt in offener Umschließung in einer Kammer,WMG
+Versickerungskammer,WMG
+Belüftungsschacht,WMG
+ Radonschacht,WMG
+Leitobjekt für Feststofffluss in geschlossener Umschließung,WP
+"Leitobjekt in geschlossener
+Umschließung",WP
+"Leitobjekt in geschlossener Umschließung in runder, starrer
+Form",WPA
+Rohr,WPA
+"Leitobjekt in geschlossener Umschließung in nicht runder,
+starrer Form",WPB
+Kanal,WPB
+Schlot,WPB
+Leitobjekt in geschlossener Umschließung in flexibler Form,WPC
+Schlauch,WPC
+Leitobjekt für mechanische Energie,WQ
+"Objekt zum Leiten von mechanischer
+Energie",WQ
+Objekt zum Leiten von mechanischer Energie mit Rad,WQA
+Antriebsachse,WQA
+Achse,WQA
+Objekt zum Leiten von mechanischer Energie mit Riemen,WQB
+Antriebsriemen,WQB
+bewegliche Leitung,WQB
+ V-Riemen,WQB
+Objekt zum Leiten von mechanischer Energie mit Kette,WQC
+Antriebskette,WQC
+Kette,WQC
+Objekt zum Leiten von mechanischer Energie mit Gestänge,WQD
+Antriebsgestänge,WQD
+Objekt zum Leiten von mechanischer Energie mit Rad,WQE
+Rad,WQE
+Zahnrad,WQE
+ Getrieberad,WQE
+Objekt zum Leiten von mechanischer Energie mit Zahnstange,WQF
+Zahnstange,WQF
+"Objekt zum Leiten von mechanischer Energie mit
+Flüssigkeitsverbindung",WQG
+Hydraulikschlauch,WQG
+Hydraulikrohr,WQG
+ Pneumatikschlauch,WQG
+Pneumatikrohr,WQG
+Leitobjekt für gleisgebundene Objekte,WR
+Gleisobjekt,WR
+Gleisobjekt zur Erzeugung eines direkten Pfads,WRA
+Schiene,WRA
+Gleisbahn,WRA
+Gleisobjekt zur Erzeugung einer Kreuzung,WRB
+Gleisübergang,WRB
+Leitobjekt für Wärmeenergie,WV
+"Objekt zum Leiten von
+Wärmeenergie",WV
+Objekt zum Leiten von Wärmeenergie mit fester Masse,WVA
+Wärmeleiter,WVA
+Wärmesenke,WVA
+"Objekt zum Leiten von Wärmeenergie mit statischer flüssiger
+Masse",WVB
+Wärmepaste,WVB
+Leitobjekt mit mehreren Flussarten,WZ
+Mehrfachfluss-Leitobjekt,WZ
+"Mehrfachfluss-Leitobjekt für elektrische Energie, mechanische
+Energie, elektrische Signale, optische Signale und/oder
+Flüssigkeiten",WZA
+Versorgungsleitungskabel,WZA
+"Objekt zur Bereitstellung einer Schnittstelle zu einem anderen
+Objekt",X
+Schnittstellenobjekt,X
+Schnittstellenobjekt für Hochspannungsstrom,XB
+Hochspannungs-Verbindungsobjekt,XB
+"Hochspannungs-Verbindungsobjekt für eine einzelne
+Verbindung",XBA
+Hochspannungsanschlusspunkt,XBA
+Klemme,XBA
+ Kabelkopf,XBA
+Hochspannungskabelverbindung,XBA
+Anschlussverteiler,XBA
+Hochspannungs-Verbindungsobjekt für Steckverbindungen,XBB
+Hochspannungsdose,XBB
+Hochspannungsstecker,XBB
+"Hochspannungs-Verbindungsobjekt für mehrere feste
+Verbindungen",XBC
+Hochspannungsklemmkasten,XBC
+Schnittstellenobjekt für Niederspannungsstrom,XD
+Niederspannungs-Verbindungsobjekt,XD
+"Niederspannungs-Verbindungsobjekt für eine einzelne
+Verbindung",XDA
+Elektrische Anschlussklemme,XDA
+Niederspannungskabelverbindung,XDA
+Niederspannungsanschlusspunkt,XDA
+Niederspannungs-Verbindungsobjekt für Steckverbindungen,XDB
+Niederspannungssteckdose,XDB
+Niederspannungsstecker,XDB
+ Stecker,XDB
+Dose,XDB
+"Niederspannungs-Verbindungsobjekt für mehrere feste
+Verbindungen",XDC
+Anschlusskasten,XDC
+"Niederspannungs-Verbindungsobjekt zur festen Verbindung
+eines flexiblen Kabels für elektrische Geräte",XDD
+Anschlussklemme,XDD
+"Niederspannungs-Verbindungsobjekt für mehrere steckbare
+elektrische Geräte",XDE
+Stromverteiler,XDE
+Schnittstellenobjekt für Erd- oder Bezugspotential,XE
+Potentialverbindungsobjekt,XE
+Potentialverbindungsobjekt zum Anschluss an PE-Leiter,XEA
+PE-Klemme,XEA
+Schutzleiteranschluss,XEA
+Schutzerdungsleiteranschluss,XEA
+Potentialverbindungsobjekt zum Anschluss an PB-Leiter,XEB
+PB-Klemme,XEB
+Schutzverbindungsklemme,XEB
+Potentialverbindungsobjekt zum Anschluss an FE-Leiter,XEC
+FE-Klemme,XEC
+Funktionserdungsklemme,XEC
+Potentialverbindungsobjekt zum Anschluss an FB-Leiter,XED
+FB-Klemme,XED
+Funktionspotentialklemme,XED
+"Potentialverbindungsobjekt zur Erzeugung einer elektrischen
+Masseverbindung",XEE
+Masseelektrode,XEE
+"Potentialverbindungsobjekt zum Verbinden von Blitzschlag mit
+einen elektrischen Stromkreis",XEF
+Kollektor,XEF
+Schnittstellenobjekt für elektrische Signale,XG
+Elektrisches Signalverbindungsobjekt,XG
+"Elektrisches Signalverbindungsobjekt für einzelne
+Steckverbindungen",XGA
+Signaldose,XGA
+"Elektrisches Signalverbindungsobjekt für eine einzelne
+Verbindung",XGB
+Klemme,XGB
+"Elektrisches Signalverbindungsobjekt innerhalb von mehreren
+Leitungen",XGC
+Verbindungstafel,XGC
+Schnittstellenobjekt für optische Fasern,XH
+Lichtverbindungsobjekt,XH
+Lichtverbindungsobjekt für Steckverbindungen,XHA
+Feste Lichtfasersteckdose,XHA
+optischer Stecker,XHA
+ optischeSteckdose,XHA
+"Schnittstellenobjekt zum Ansammeln und Weiterleiten in einen
+Durchfluss",XK
+Sammelschnittstellenobjekt,XK
+Sammelschnittstellenobjekt für Abwasser,XKA
+Waschbecken,XKA
+Bidet,XKA
+Sammelschnittstellenobjekt für Fäkalien und Urin,XKB
+Toilette,XKB
+WC,XKB
+Sammelschnittstellenobjekt für ausschließlich Urin,XKC
+Urinal,XKC
+"Sammelschnittstellenobjekt für überschüssige Flüssigkeit aus
+technischen Systemen",XKD
+Tropfbecher,XKD
+Sammelschnittstellenobjekt für überschüssiges Wasser,XKE
+Bodenablauf,XKE
+Schnittstellenobjekt für Materialfluss in versiegeltem Objekt,XM
+"Versiegeltes
+Durchflussverbindungsobjekt",XM
+Versiegeltes Durchflussverbindungsobjekt in reversibler Form,XMA
+Rohrflansch,XMA
+Kammer,XMA
+ Löschschlauchkupplung,XMA
+Schlauchkupplung,XMA
+Schlauchflansch,XMA
+Schlauchanschlussstück,XMA
+Rohrflansch,XMA
+Versiegeltes Durchflussverbindungsobjekt in irreversibler Form,XMB
+Rohranschlussstück,XMB
+Klebeverbindung,XMB
+Schlauchanschlussstück,XMB
+Druckverbindung,XMB
+Lötanschlussstück,XMB
+"Schnittstellenobjekt für kontinuierliche Übertragung von
+mechanischer Kraft",XN
+Fest angeschlossener Koppler,XN
+"Fest angeschlossener Koppler von Schäften mit zwei
+Flanschen",XNA
+Flanschverbindung,XNA
+Fest angeschlossener Koppler von Schäften mit geteilter Hülse,XNB
+Geteilte Muffenkupplung,XNB
+Schalenkupplung,XNB
+ Hülsenkupplung,XNB
+"Fest angeschlossener Koppler zwischen parallelen Schäften mit
+Zähnen und Nuten, die ineinandergreifen",XNC
+Hirth-Koppler,XNC
+Hirth-Kupplung,XNC
+ Hirth-Gelenk,XNC
+"Fest angeschlossener Koppler zum Übertragen von Leistung
+von falsch ausgerichteten Schäften",XND
+Kardangelenk,XND
+flexible Kupplung,XND
+ Hardy-Spicer-Gelenk,XND
+ Hooke-Gelenk,XND
+ U-Gelenk,XND
+Universalkupplung,XND
+"Fest angeschlossener Koppler zum Befestigen und Verbinden
+von zwei beweglichen Objekten",XNE
+Puffer-und-Ketten-Kupplung,XNE
+"Fest angeschlossener Koppler zum Fixieren von zwei
+beweglichen Objekten",XNF
+Linien-und-Bolzenkupplung,XNF
+"Schnittstellenobjekt für ununterbrochene Übertragung von
+mechanischer Kraft",XP
+Nicht fest angeschlossener Koppler,XP
+"Nicht fest angeschlossener Koppler zur Leistungsübertragung
+durch Reibungskräfte",XPA
+Reibungskupplung,XPA
+Fliehkraftkupplung,XPA
+ hydraulischeKupplung,XPA
+"Nicht fest angeschlossener Koppler zur Leistungsübertragung
+durch Hydrodynamikeffekt",XPB
+Flüssigkeitskupplung,XPB
+"Nicht fest angeschlossener Koppler zur Leistungsübertragung
+durch Verriegelungsmittel",XPC
+Freilaufkupplung,XPC
+Freilaufschaltung,XPC
+"Nicht fest angeschlossener Koppler für Lasten unter
+Verwendung von Magnetkraft",XPD
+Magnethub,XPD
+Magnetkopf-Hubvorrichtung,XPD
+Schnittstellenobjekt zur Verbindung mehrerer Ebenen,XS
+Ebenenverbindungsobjekt,XS
+"Ebenenverbindungsobjekt in Form einer horizontalen Ebene,
+die mit einem Treppenlauf verbunden ist",XSA
+Treppenabsatz,XSA
+Laufsteg,XSA
+"Ebenenverbindungsobjekt in Form von aufeinanderfolgenden
+Stufen",XSB
+Treppenlauf,XSB
+"Ebenenverbindungsobjekt in Form von aufeinanderfolgenden
+Sprossen oder Balken",XSC
+Leiter,XSC
+Ebenenverbindungsobjekt in Form einer geneigten Ebene,XSD
+Rampe,XSD
+Ebenenverbindungsobjekt in Form einer vertikalen Stange,XSE
+Feuerwehr-Rutschstange,XSE
+Schnittstellenobjekt zum Verbinden von Räumen,XT
+Raumverbindungsobjekt,XT
+Raumverbindungsobjekt in Form einer Vertiefung,XTA
+Loch,XTA
+Öffnung,XTA
+Raumverbindungsobjekt in Form eines Hohlraums,XTB
+Schalung,XTB
+Hohlraum,XTB
+Schnittstellenobjekt mit mehreren Flussarten,XZ
+Mehrfachfluss-Verbindungsobjekt,XZ
+"Mehrfachfluss-Verbindungsobjekt für elektrische Energie,
+elektrische Signale, optische Signale und/oder Flüssigkeiten",XZA
+Mehrfachverbinder,XZA
+"Raum zur Behausung von Menschen zum Ruhen, Entspannen, zur
+Freizeitgestaltung und zum Warten",AA
+Bewohnbarer Raum,AA
+Bewohnbarer Raum zur persönlichen Nutzung,AAA
+Raum,AAA
+Schlafzimmer,AAA
+ Kinderzimmer,AAA
+ Hotelzimmer,AAA
+ Lounge,AAA
+Suite,AAA
+Bewohnbarer Raum zur gemeinsamen Nutzung,AAB
+Wohnraum,AAB
+Balkon,AAB
+ Pausenraum,AAB
+ Klubraum,AAB
+ Kaffeeraum,AAB
+Esszimmer,AAB
+ Wohnheim,AAB
+ Wohnzimmer,AAB
+ Spielzimmer,AAB
+Wohnstube,AAB
+ Raucherraum,AAB
+ Terrasse,AAB
+ Abteil,AAB
+Bewohnbarer Raum zum Warten,AAC
+Warteraum,AAC
+Salon,AAC
+ Sammelplatz,AAC
+ Flugsteig,AAC
+ Lounge,AAC
+Empfangsraum,AAC
+ Rückzugsraum,AAC
+"Bewohnbarer Raum,vollständig oder teilweise in Außenbereichen und von
+Gebäuden umschlossen",AAD
+Hof,AAD
+Vorhof,AAD
+ Garten,AAD
+ Veranda,AAD
+ Innenhof,AAD
+Raum zur Behausung von Menschen für persönliche Hygiene,AB
+Persönlicher Hygieneraum,AB
+Persönlicher Hygieneraum zum Waschen und Erleichtern,ABA
+Badezimmer,ABA
+Sanitärraum für körperlich behinderte Menschen,ABA
+Damentoilette,ABA
+ Sanitärraum,ABA
+ Klo,ABA
+ Herrentoilette,ABA
+Toilette,ABA
+ Urinal,ABA
+ WC,ABA
+Persönlicher Hygieneraum zum Erleichtern,ABB
+Toilette,ABB
+Bad,ABB
+ Sanitärraum für körperliche behinderteMenschen,ABB
+ Damentoilette,ABB
+ Herrentoilette,ABB
+ Sanitärraum,ABB
+Klo,ABB
+ Toilette,ABB
+ Urinal,ABB
+ Waschzimmer,ABB
+ WC,ABB
+Persönlicher Hygieneraum für die Körperpflege von Babys,ABC
+Babywickelraum,ABC
+Babywickelbereich,ABC
+ Babyankleidebereich,ABC
+Windelwechselraum,ABC
+Persönlicher Hygieneraum zum Wechseln von Kleidung,ABD
+Umkleideraum,ABD
+Herrenumkleideraum,ABD
+ Krankenhaus,ABD
+Damenumkleideraum,ABD
+ Umkleidekabine,ABD
+ Arbeitsbereich,ABD
+"Persönlicher Hygieneraum, in dem sich Menschen waschen können",ABE
+Dusche,ABE
+Umkleideraum,ABE
+ Bad,ABE
+ Umkleidekabine,ABE
+ Duschnische,ABE
+Persönlicher Hygieneraum zum Schwitzen,ABF
+Sauna,ABF
+Saunaraum,ABF
+ Dampfraum,ABF
+ Türkisches Bad,ABF
+Raum zur Behausung von Menschen zur Isolation von Personen,AC
+Isolationsraum,AC
+"Isolationsraum zum Schützen von Personen vor gefährlichen oder riskanten
+Situationen",ACA
+Unterstand,ACA
+Luftschutzbunker,ACA
+ Schutzhütte,ACA
+ Bunker,ACA
+Dekompressionskammer,ACA
+ Erdbebenschutzraum,ACA
+Isolierstation,ACA
+ medizinische Isolationseinheit,ACA
+Panikraum,ACA
+ Sicherheitszimmer,ACA
+ Wetterhütte,ACA
+Isolationsraum zum Auseinanderhalten mehrerer Personen,ACB
+Zelle,ACB
+Isolationszelle,ACB
+ Gummizelle,ACB
+ Gefängniszelle,ACB
+Hochsicherheitszelle,ACB
+"Raum für Aktivitäten von Menschen zum Erzeugen eines nicht materiellen
+Ergebnisses",BA
+Arbeitsraum,BA
+"Arbeitsraum zum Erstellen, Verarbeiten und Interpretieren von Informationen",BAA
+Büro,BAA
+Ticketkasse,BAA
+ Call-Center,BAA
+ Zellenbüro,BAA
+ Wachraum,BAA
+Informationsstand,BAA
+ Geschäftsführerbüro,BAA
+Großraumbüro,BAA
+ Verkaufsbüro,BAA
+ Einzelbüro,BAA
+Ticketschalter,BAA
+Arbeitsraum für Zusammenkünfte,BAB
+Meetingraum,BAB
+Sitzungssaal,BAB
+ Konferenzraum,BAB
+ Wahlkreisbüro,BAB
+Beratungszimmer,BAB
+ Ratssaal,BAB
+ Gerichtssaal,BAB
+Verhörzimmer,BAB
+ Befragungszimmer,BAB
+ Konferenzzimmer,BAB
+Stadtprojektzimmer,BAB
+ Gewerkschaftszimmer,BAB
+Zeugenraum,BAB
+Arbeitsraum zum Empfang von Gästen und Gütern,BAC
+Rezeption,BAC
+Schalter,BAC
+ Informationsschalter,BAC
+ Kundenservicebereich,BAC
+Hotelrezeption,BAC
+Arbeitsraum zum Verkauf von Gütern und Dienstleistungen,BAD
+Verkaufsbereich,BAD
+Auktionsgalerie,BAD
+ Bar,BAD
+ Schönheitssalon,BAD
+ Ticketschalter,BAD
+Zweigstelle,BAD
+ Hundestylingraum,BAD
+ Ladentheke,BAD
+Friseursalon,BAD
+ Kiosk,BAD
+ Verkaufsbereich,BAD
+ Salon,BAD
+ Laden,BAD
+Solarium,BAD
+ Ticketverkaufsraum,BAD
+Arbeitsraum zum Übermitteln von Wissen und Kompetenzen,BAE
+Lehrraum,BAE
+Auditorium,BAE
+ Klassenzimmer,BAE
+ Kreativwerkstatt,BAE
+Sprachlabor,BAE
+ Vorlesungssaal,BAE
+ Vorlesungsraum,BAE
+Musikraum,BAE
+ Mediathek,BAE
+ Wissenschaftsraum,BAE
+ Simulator,BAE
+Sporthalle,BAE
+ Studio,BAE
+ Übungslabor,BAE
+Arbeitsraum zum Lesen,BAF
+Lernzimmer,BAF
+Bibliothek,BAF
+ Ruheraum,BAF
+ Lesezimmer,BAF
+ Lernzimmer,BAF
+Referenzraum,BAF
+Arbeitsplatz zum Waschen von Kleidung und Leinen,BAG
+Waschraum,BAG
+Waschsalon,BAG
+ Wäscherei,BAG
+ Waschküche,BAG
+Hauswirtschaftsraum,BAG
+ Waschhaus,BAG
+"Arbeitsraum zur medizinischen Versorgung und anderen Behandlung und Pflege
+von Personen",BAH
+Behandlungsraum,BAH
+Aphereseraum,BAH
+ Chemotherapieraum,BAH
+ Dialyseraum,BAH
+Elektrokardiogrammzimmer (EKG-Zimmer),BAH
+Elektrokonvulsionszimmer,BAH
+ Erste-Hilfe-Zimmer,BAH
+Inkubatorraum,BAH
+ Ergotherapieraum,BAH
+ Operationsraum,BAH
+Massageraum,BAH
+ Kreißsaal,BAH
+ Physiotherapieraum,BAH
+Nachbehandlungsraum,BAH
+ vorstationärerBehandlungsraum,BAH
+ Druckkammer,BAH
+Vorbehandlungsraum,BAH
+ Behandlungsraum,BAH
+ Testraum,BAH
+Therapieraum,BAH
+ Schockraum,BAH
+Arbeitsraum für Diagnosen,BAJ
+Untersuchungsraum,BAJ
+Elektrokardiogrammzimmer (EKG-Zimmer),BAJ
+Elektrokonvulsionszimmer,BAJ
+ Erste-Hilfe-Zimmer,BAJ
+Kreißsaal,BAJ
+ Operationsraum,BAJ
+ vorstationärerBehandlungsraum,BAJ
+ Behandlungsraum,BAJ
+ Testraum,BAJ
+Schockraum,BAJ
+ Triageraum,BAJ
+Arbeitsraum zur Überwachung von Personen,BAK
+Überwachungsraum,BAK
+Intensivstation,BAK
+ Inkubationsraum,BAK
+ Quarantänezimmer,BAK
+Druckkammer,BAK
+ Erholungszimmer,BAK
+"Arbeitsraum zur Beobachtung von Prozessen und Personen in angrenzenden
+Räumen",BAL
+Beobachtungsraum,BAL
+Durchführungsraum,BAL
+ Experimentierraum,BAL
+ Galerie,BAL
+Verhörzimmer,BAL
+ Pförtnerhaus,BAL
+ Marktforschungszimmer,BAL
+Bedienpult,BAL
+ Sicherheitsüberwachungsplattform inöffentlichen Bereichen,BAL
+ technische Galerie,BAL
+Arbeitsraum zum Aufnehmen und Bearbeiten von Medien,BAM
+Medienwerkstatt,BAM
+Schnittraum,BAM
+ Dunkelkammer,BAM
+ Zeichenbüro,BAM
+Bearbeitungsraum,BAM
+ Filmstudio,BAM
+ Druckraum,BAM
+Aufnahmestudio,BAM
+ Tonstudio,BAM
+Raum für Aktivitäten von Menschen zum Erzeugen eines materiellen Ergebnisses,BB
+Produktionsraum,BB
+Produktionsraum zum Arbeiten mit Lebensmitteln,BBA
+Küche,BBA
+Bäckerei,BBA
+ Kantine,BBA
+ Lebensmittelvorbereitungsbereich,BBA
+Küchenzeile,BBA
+ Gebäckküche,BBA
+ professionelle Küche,BBA
+Spülküche,BBA
+ Teeküche,BBA
+Produktionsraum zum Arbeiten mit Materialien,BBB
+Materialwerkstatt,BBB
+Schneidwerkstatt,BBB
+ Schmiedewerkstatt,BBB
+Lackierwerkstatt,BBB
+ Metallwerkstatt,BBB
+ Studio,BBB
+Holzbearbeitungsraum,BBB
+ Werkstatt,BBB
+Produktionsraum zum Arbeiten mit Maschinen und Geräten,BBC
+Maschinenwerkstatt,BBC
+Autowerkstatt,BBC
+ IT-Werkstatt,BBC
+ Mechanikerwerkstatt,BBC
+Prägewerkstatt,BBC
+ Werkstatt,BBC
+Produktionsraum zum Arbeiten an Kunst und Handwerk,BBD
+Studio,BBD
+Keramikwerkstatt,BBD
+ Schneiderarbeitszimmer,BBD
+Glaswerkstatt,BBD
+ Töpferei,BBD
+ Produktionshalle,BBD
+Produktionsraum zum Sortieren und Verpacken von Objekten,BBE
+Verpackungsraum,BBE
+Postraum,BBE
+ Medizinraum,BBE
+ Verpackungszimmer,BBE
+Sortierbüro,BBE
+ Lagerhaus,BBE
+ Abstellraum,BBE
+ Lagerhalle,BBE
+Raum für Aktivitäten von Menschen zum Durchführen von Analysen und Tests,BC
+Labor,BC
+Labor zur technischen Analyse,BCA
+Technisches Labor,BCA
+Akustiktestlabor,BCA
+ chemisches Labor,BCA
+ Optiklabor,BCA
+Radiographielabor,BCA
+ wissenschaftlicher Testraum,BCA
+Klanglabor,BCA
+ Wiegeraum,BCA
+Labor zum Untersuchen von Materialien,BCB
+Materiallabor,BCB
+Bauphysiklabor,BCB
+ Crashtestbereich,BCB
+Brandprüfungsbereich,BCB
+ Polymerlabor,BCB
+Wellensimulationstankraum,BCB
+ Windtunnel,BCB
+Labor zur biologischen Analyse,BCC
+Biologielabor,BCC
+Fermentationslabor,BCC
+ Lebensmittellabor,BCC
+ medizinischesLabor,BCC
+ Viruslabor,BCC
+Raum für Aktivitäten von Menschen für z. B. sportliche oder kulturelle Aktivitäten,BD
+Übungsraum,BD
+Übungsraum für sportliche Aktivitäten,BDA
+Turnhalle,BDA
+Sporteinrichtung,BDA
+ Ballspielhalle,BDA
+ Eislaufhalle,BDA
+ Eishalle,BDA
+Eissporthalle,BDA
+ Schwimmbad,BDA
+ Pool (innen),BDA
+"Übungsraum zum Trainieren von Kraft, Kondition und Balance",BDB
+Trainingsraum,BDB
+Fitnesszentrum,BDB
+ Fitnessraum,BDB
+ Fitnessstudio,BDB
+Gewichtsraum,BDB
+Übungsraum zum Üben von künstlerischen Fähigkeiten,BDC
+Proberaum,BDC
+Ballettproberaum,BDC
+ Musikproberaum,BDC
+ Probebühne,BDC
+Übungsraum zum Ausüben künstlerischer Aktivitäten,BDD
+Bühne,BDD
+Orchestergraben,BDD
+ Probebühne,BDD
+ Studio,BDD
+Übungsraum für Kinder,BDE
+Spielzimmer,BDE
+Kinderspielzimmer,BDE
+ Spielwiese,BDE
+"Raum für Aktivitäten von Menschen für die Zusammenkunft von vielen
+Menschen/Personen",BE
+Zusammenkunftsraum,BE
+Zusammenkunftsraum zum Konsum von Lebensmitteln,BEA
+Speiseraum,BEA
+Café,BEA
+ Kantine,BEA
+ Gemeinschaftsraum,BEA
+ Speiselokal,BEA
+Speisezimmer,BEA
+ Langar,BEA
+ Messe,BEA
+ Restaurant,BEA
+Zusammenkunftsraum für gesellschaftliche Ereignisse,BEB
+Halle,BEB
+Ballsaal,BEB
+ Städtekammer,BEB
+ Klubhaus,BEB
+Gemeinschaftszentrum,BEB
+ Versammlungszimmer,BEB
+ Loge,BEB
+Lounge,BEB
+ Freimaurerloge,BEB
+ Veranstaltungssaal,BEB
+Konzerthalle,BEB
+ Dorfhalle,BEB
+Zusammenkunftsraum zum Ausstellen von Objekten,BEC
+Galerie,BEC
+Kunstgalerie,BEC
+ Präsentierraum,BEC
+Zusammenkunftsraum für religiöse Aktivitäten,BED
+Religionsausübungsraum,BED
+buddhistischer Schreinraum,BED
+ Kapelle,BED
+ Kirchenraum,BED
+Darbar Sahib,BED
+ Musalla,BED
+ Gebetsraum,BED
+Religionsausübungsraum,BED
+Lagerraum für Ressourcen,CA
+Materiallagerraum,CA
+Materiallagerraum für weggeworfene und zurückgeführte Materialien oder Objekte,CAA
+Abfalllagerraum,CAA
+Abfallbehälterraum,CAA
+ Behälterlagerung,CAA
+ Abfallbereich,CAA
+Recyclingbereich,CAA
+ Müllraum,CAA
+ Abfallraum,CAA
+Abfallentsorgungsraum,CAA
+Materiallagerungsraum für Chemikalien,CAB
+Chemikalienlagerraum,CAB
+Chemikalienentsorgungsbereich,CAB
+Explosivmateriallagerungsraum,CAB
+Materiallagerungsraum für Medizin,CAC
+Medizinlagerraum,CAC
+Blutlager,CAC
+ Apotheke,CAC
+ Medizinschrank,CAC
+ Drogerie,CAC
+Materiallagerraum für physikalische Dokumente und Medien,CAD
+Archivbereich,CAD
+Dokumentenarchiv,CAD
+ Zeichnungsarchiv,CAD
+ Journalarchiv,CAD
+Bibliothek,CAD
+ Aufzeichnungsarchiv,CAD
+Materiallagerungsraum für Flüssigkeiten,CAE
+Flüssigkeitslagerbereich,CAE
+Ölreservoir,CAE
+ Fettreservoir,CAE
+ Kraftstofftank,CAE
+Flüssigkeitenschrank,CAE
+ Sicherheitskanister,CAE
+Wasserwanne,CAE
+ Wasserbecken,CAE
+ Wasserreservoir,CAE
+Materiallagerraum für Gebrauchsgegenstände in Produktionsprozessen,CAF
+Rohstofflagerraum,CAF
+Erdlager,CAF
+ Schrank zur Lagerung brennbarer Stoffe,CAF
+Papierdepot,CAF
+ Salzlager,CAF
+ Sandlager,CAF
+Materiallagerraum für Lebensmittel und Getränke,CAG
+Lebensmittellagerraum,CAG
+Bierkeller,CAG
+ Kaltlager,CAG
+ Trockenwarenlager,CAG
+Getreidelager,CAG
+ Warmlager,CAG
+ Speisekammer,CAG
+ Spülküche,CAG
+Silo,CAG
+ Weinkeller,CAG
+Materiallagerungsraum für wertvolle Objekte,CAH
+Sicherheitslagerraum,CAH
+Bank,CAH
+ Nachttresor,CAH
+ Tresor,CAH
+ Safe,CAH
+ Vitrine,CAH
+ Tresorraum,CAH
+Materiallagerraum für Materialien zur Verpackung,CAJ
+Verpackungslagerraum,CAJ
+Abstellraum,CAJ
+ Verpackungsdepot,CAJ
+"Materiallagerraum für Bekleidung, Schuhe und Leinen",CAK
+Bekleidungslagerraum,CAK
+automatischer Kleiderschrank,CAK
+ Schrank,CAK
+Trockenboden,CAK
+ Trockenraum,CAK
+ Waschraum,CAK
+Leinenlager,CAK
+ Leinenlagerraum,CAK
+ Theatergarderobe,CAK
+begehbarer Kleiderschrank,CAK
+ Kleiderschrank,CAK
+Materiallagerungsraum für Baumaterialien,CAL
+Baumaterialienlagerraum,CAL
+Elektrolager,CAL
+ Heizungs-,CAL
+ Wasser- und Sanitärlager,CAL
+Holzlager,CAL
+ Steinlager,CAL
+ Bauholzlager,CAL
+Materiallagerraum für explosive Materialien,CAM
+Explosivmateriallager,CAM
+Munitionsbunker,CAM
+ Munitionskammer,CAM
+ Munitionsdepot,CAM
+Dynamitraum,CAM
+ Feuerwerkskörperraum,CAM
+"Materiallagerraum für Produkte, Güter und Fracht",CAN
+Lagerraum,CAN
+Frachtspeicher,CAN
+ Güterspeicher,CAN
+Lagerraum für bewegliche technische Ausrüstung,CB
+Ausrüstungslagerraum,CB
+Ausrüstungslagerraum für Objekte zum Einrichten (von Räumen),CBA
+Möbellagerraum,CBA
+Hinterbühne,CBA
+ Kellerraum,CBA
+ Verwahrungsort,CBA
+ Dachboden,CBA
+Dachlagerraum,CBA
+ Seitenbühne,CBA
+ Lagerschranklagerhalle,CBA
+Materiallagerungsraum für Werkzeuge,CBB
+Werkzeuglagerraum,CBB
+Reinigungsschrank,CBB
+ Geräteraum,CBB
+ Autowerkstatt,CBB
+Gartenhütte,CBB
+ Hobbyschuppen,CBB
+ Geräteschuppen,CBB
+Waffenlager,CBB
+ Werkstätte,CBB
+Materiallagerungsraum für technische Instrumente,CBC
+Instrumentenlagerraum,CBC
+Flugzeuggerätelager,CBC
+ Gerätelager,CBC
+ medizintechnischesLager,CBC
+Ausrüstungslagerraum für Transportmittel,CBD
+Fahrzeuglagerraum,CBD
+Vorfeld,CBD
+ Fahrradlager,CBD
+ Bootshalle,CBD
+ Busdepot,CBD
+Autoparkplatz,CBD
+ Containerbasis,CBD
+ Fahrradschuppen,CBD
+Depot,CBD
+ Dock,CBD
+ Trockendock,CBD
+ E-Fahrzeug-Ladestation,CBD
+Garage,CBD
+ Hangar,CBD
+ LKW-Parkplatz,CBD
+ Stellfläche,CBD
+Parkplatz,CBD
+ Zugdepot,CBD
+ Truck-Dock,CBD
+Lagerraum zum Einschließen von Tieren,CC
+Tiergehege,CC
+Tiergehege zum Einsperren von Tieren,CCA
+Käfig,CCA
+Vogelhaus,CCA
+ Vogelkäfig,CCA
+ Umzäunung,CCA
+ Reservat,CCA
+Terrarium,CCA
+"Tiergehege, um Tiere eingezäunt zu halten",CCB
+Stall,CCB
+Vogelhaus,CCB
+ Box,CCB
+ Käfig,CCB
+ Umzäunung,CCB
+ Pferch,CCB
+ Reservat,CCB
+Vivarium,CCB
+Tiergehege zum Schutz von Tieren,CCC
+Stall,CCC
+Kuhstall,CCC
+ Hobbyschuppen,CCC
+ Schweinestall,CCC
+Produktionsstall,CCC
+ Schafstall,CCC
+Tiergehege für Wassertiere,CCD
+Wasserumschließung,CCD
+Aquarium,CCD
+ Aquakulturanlage,CCD
+ Fischtank,CCD
+ Teich,CCD
+ Becken,CCD
+Lagerraum für Pflanzen,CD
+Pflanzenraum,CD
+Pflanzenraum zum Züchten von Pflanzen in Innenräumen,CDA
+Innenpflanzenraum,CDA
+botanischer Garten,CDA
+ Treibhaus,CDA
+ Gewächshaus,CDA
+Orangerie,CDA
+ Palmengarten,CDA
+ Wintergarten,CDA
+ Glasveranda,CDA
+tropischer Garten,CDA
+Pflanzenraum zum Züchten von Pflanzen in Außenbereichen,CDB
+Außenpflanzenraum,CDB
+Apfelgarten,CDB
+ Kräutergarten,CDB
+ Rosengarten,CDB
+Lagerraum für Leichen,CE
+Leichenaufbewahrungsraum,CE
+Leichenaufbewahrungsraum zur Zwischenverwahrung,CEA
+Totenkapelle,CEA
+Kühlkammer,CEA
+ Leichenkammer,CEA
+ Leichenhalle,CEA
+Leichenaufbewahrungsraum zur Dauerverwahrung,CEB
+Gruft,CEB
+Columbarium,CEB
+ Mausoleum,CEB
+"Raum für technische Systeme, die die Funktion von Konstruktionseinheiten
+unterstützen",DA
+Installationsraum,DA
+Installationsraum für elektrische Betriebsmittel,DAA
+Elektroinstallationsraum,DAA
+Akkumulatorraum,DAA
+ Batterieraum,DAA
+ Konverterhalle,DAA
+Sicherungsraum,DAA
+ Generatorraum,DAA
+Hochspannungsraum,DAA
+ Messraum,DAA
+ unterbrechungsfreierRaum,DAA
+ Reaktorhalle,DAA
+ Schaltraum,DAA
+ Schaltanlagenraum,DAA
+Transformatorbereich,DAA
+ Transformatorraum,DAA
+Installationsraum für elektronische Geräte,DAB
+IT-Geräteraum,DAB
+Backup-Raum,DAB
+ Computerraum,DAB
+ Datenzentrum,DAB
+Verteilersystemraum,DAB
+ Hauptverteilerraum,DAB
+ Serverfarm,DAB
+Serverraum,DAB
+ Schaltraum,DAB
+Installationsraum für mechanische Geräte,DAC
+Mechanischer Installationsraum,DAC
+Aufzug,DAC
+ Maschinenraum,DAC
+ Hubraum,DAC
+ Aufzuggeräteraum,DAC
+Druckzylinderraum,DAC
+ Motorhalle,DAC
+ Motorraum,DAC
+ Kühlraum,DAC
+Installationsraum für verschiedene Arten von technischen Geräten,DAD
+Gemeinsamer Installationsraum,DAD
+Verstärkerraum,DAD
+ Klimaraum,DAD
+ Kompressorraum,DAD
+Fernwärmeanlage,DAD
+ Filterraum,DAD
+ Heizanlage,DAD
+Installationsraum,DAD
+ Fahrwerksschacht,DAD
+ Betriebsraum,DAD
+Anlagenraum,DAD
+ Instandhaltungsraum,DAD
+ technischerRaum,DAD
+ Thermalenergieraum,DAD
+ Belüftungsraum,DAD
+Raum für technische Systeme zur Unterstützung menschlicher Aktivitäten,DB
+Ausrüstungsraum,DB
+"Ausrüstungsraum zur Steuerung, Regulierung und Überwachung",DBA
+Steuerausrüstungsraum,DBA
+Kommandozentrum,DBA
+ Steuerzentrum,DBA
+ Schnittraum,DBA
+Bearbeitungsraum,DBA
+ Lichtsteuerungsraum,DBA
+ Mischraum,DBA
+Operationszentrale,DBA
+ Produzentenraum,DBA
+ Radarraum,DBA
+Ausrüstungsraum zur Herstellung und Vorbereitung von Produkten,DBB
+Produktionswerk,DBB
+Maschinenraum,DBB
+ Druckwerkstatt,DBB
+ Schlachtraum,DBB
+Sortieranlagenhalle,DBB
+ Turbinenhalle,DBB
+Ausrüstungsraum für Dienstleistungsfunktionen,DBC
+Dienstleistungsausrüstungsraum,DBC
+Kopierzentrum,DBC
+ Kopierraum,DBC
+ Faxraum,DBC
+ Druckraum,DBC
+Projektorraum,DBC
+Ausrüstungsraum für Analysen,DBD
+Analysenausrüstungsraum,DBD
+CT-Scannerraum,DBD
+ Labor,DBD
+ MR-Scannerraum,DBD
+Observatorium,DBD
+ Röntgenraum,DBD
+"Raum für technische Systeme, der Platz für technische Operationen vorsieht",DC
+Raum für technische Operationen,DC
+"Raum für technische Operationen, der Platz für Ausrüstungsbewegung vorsieht",DCA
+Arbeitsbereich,DCA
+Roboterarbeitsbereich,DCA
+"Raum für technische Operationen, der Abstand um Ausrüstung herum vorsieht",DCB
+Freiraum,DCB
+Sicherheitsbereich,DCB
+Raum für Infrastruktur zum Ermöglichen von Zugang,EA
+Durchgangsraum,EA
+Durchgangsraum zwischen Außen- und Innenräumen,EAA
+Vorraum,EAA
+Vorzimmer,EAA
+ Doppeltür,EAA
+ Eingang,EAA
+ Foyer,EAA
+ Flur,EAA
+ Lobby,EAA
+Vorhalle,EAA
+ Sicherheitstür,EAA
+ Sturmtür,EAA
+ Vestibul,EAA
+Außenveranda,EAA
+ Flügelausgänge,EAA
+Durchgangsraum zum Regulieren des Übergangs in andere Räume,EAB
+Luftschleuse,EAB
+Drehtür,EAB
+ Foyer,EAB
+ Lobby,EAB
+ Veranda,EAB
+ Sturmtür,EAB
+ Schwenktür,EAB
+Vestibul,EAB
+"Durchgangsraum, horizontal zwischen zwei oder mehr Räumen",EAC
+Korridor,EAC
+Vorkammer,EAC
+ Vorzimmer,EAC
+ externe Galerie,EAC
+ Foyer,EAC
+ Flur,EAC
+Laufsteg,EAC
+"Durchgangsraum, vertikal und nicht automatisiert zwischen zwei oder mehr
+Stockwerken oder Ebenen",EAD
+Treppenhaus,EAD
+Treppen,EAD
+ Treppenaufgang,EAD
+ Treppenflur,EAD
+"Durchgangsraum, vertikal und automatisiert zwischen zwei oder mehr Ebenen",EAE
+Aufzugsraum,EAE
+Speiseaufzug,EAE
+ Aufzugskabine,EAE
+ Lastaufzug,EAE
+Aufzugskorb,EAE
+ Seilzugkorb,EAE
+ Treppenlift,EAE
+Fensterreinigungshängebühne,EAE
+Durchgangsraum in Gebäuden,EAF
+Vorhalle,EAF
+Bustor,EAF
+ Durchgang,EAF
+ Durchfahrt,EAF
+Raum für Infrastruktur zur Verteilung technischer Dienste oder Medien,EB
+Dienstraum,EB
+Dienstraum mit horizontalem Zugang für Personen,EBA
+Servicetunnel,EBA
+Zugangsbrücke,EBA
+ Dachboden,EBA
+ Kriechraum,EBA
+ Laufsteg,EBA
+Beleuchtungssteg,EBA
+ Beleuchtungspassage,EBA
+Wartungskorridor,EBA
+ Serviceschacht,EBA
+ technischePassage,EBA
+ technischer Tunnel,EBA
+ Belüftungsschacht,EBA
+Dienstraum mit vertikalem Zugang für Personen,EBB
+Schacht,EBB
+Entsorgungsschacht,EBB
+ Aufzugsschacht,EBB
+Wartungsschacht,EBB
+ technischer Schacht,EBB
+Belüftungsschacht,EBB
+ Abfallanlagenschacht,EBB
+Dienstraum ohne Zugang für Personen,EBC
+Kanal,EBC
+Lufteinlass,EBC
+ Luftauslass,EBC
+ Luftschacht,EBC
+ Schlot,EBC
+Mischkammer,EBC
+ Belüftungsschacht,EBC
+Verkehrsraum für Fahrzeuge,FA
+Fahrzeugverkehrsraum,FA
+Autobahn,FA
+ Schnellstraße,FA
+ Fahrstraße,FA
+ Straßentunnel,FA
+Straße,FA
+ Tunnel,FA
+Fahrzeugverkehrsraum für Fahrzeuge,FAA
+Fahrbahn,FAA
+Fahrzeugverkehrsraum für eine Verkehrsspur,FAB
+Fahrspur,FAB
+Fahrstreifen,FAB
+Fahrzeugverkehrsraum entlang einer Fahrbahn für Notfälle und Zwischennutzung,FAC
+Standspur,FAC
+Rand,FAC
+ Straßenrand,FAC
+Fahrzeugverkehrsraum zum Anhalten von Fahrzeugen,FAD
+Haltebucht,FAD
+Bushaltestelle,FAD
+ Buswendeplatz,FAD
+ Ausweichstelle,FAD
+Fahrzeugverkehrsraum für das Aufeinandertreffen von Fahrzeugen,FAE
+Ausweichstelle,FAE
+Fahrzeugverkehrsraum zum Wenden von Fahrzeugen,FAF
+Wendeplatz,FAF
+"Verkehrsraum für Personen, Tiere oder Fahrräder",FB
+Aktiver Transportraum,FB
+aktiver Verkehrsraum,FB
+Aktiver Transportraum für Fußgänger,FBA
+Gehweg,FBA
+Fußgängerweg,FBA
+ Bürgersteig,FBA
+ Trottoir,FBA
+ Fußgängertunnel,FBA
+Aktiver Transportraum für Fahrräder,FBB
+Fahrradweg,FBB
+Fahrradspur,FBB
+ Radspur,FBB
+Aktiver Transportraum für Fahrräder und Fußgänger,FBC
+Gemeinsamer Rad- und Fußweg,FBC
+Aktiver Transportraum für Tiere,FBD
+Tierweg,FBD
+Reitweg,FBD
+ Saumpfad,FBD
+Verkehrsraum für Luftfahrzeuge,FC
+Luftfahrzeugverkehrsraum,FC
+Luftfahrzeugverkehrsraum für Abflug und Landung,FCA
+Start- und Landebahn,FCA
+Luftfahrzeugverkehrsraum zum Rangieren,FCB
+Rollbahn,FCB
+Rollbahn,FCB
+Verkehrsraum für gleisgebundene Objekte,FD
+Gleisraum,FD
+"Gleisraum, der nicht zur Überquerung vorgesehen ist",FDA
+Gleisbahn,FDA
+"Gleisraum, der zur Überquerung vorgesehen ist",FDB
+Gleisübergang,FDB
+Verkehrsraum für Seefahrzeuge,FE
+Seefahrzeugverkehrsraum,FE
+Seefahrzeugverkehrsraum für horizontalen Verkehr,FEA
+Fahrrinne,FEA
+Kanal,FEA
+Seefahrzeugverkehrsraum für vertikalen Verkehr,FEB
+Schleuse,FEB
+Verkehrsraum zum Trennen und Leiten,FF
+Verkehrsleitraum,FF
+Verkehrsleitraum zum Trennen von Verkehrsräumen,FFA
+Trennstreifen,FFA
+Verkehrsleitraum zum Wechseln des Verkehrsmittels,FFB
+Aus- und Zustiegsplattformraum,FFB
+Verkehrsleitraum zur Informationsweitergabe,FFC
+Verkehrsinformationsraum,FFC
+Verkehrsleitraum für Abstand zu anderen Objekten,FFD
+Abstandsprofil,FFD
+Gebäudeweite,FFD
+ Abstand,FFD
+ Abstandszone,FFD
+"Verkehrsleitraum, der Teil einer nicht für den Verkehr vorgesehenen Straße ist",FFE
+Sperrgebiet,FFE
+Raum für physikalische Phänomene für Materiefluss oder -auftreten,PA
+Materieflussraum,PA
+Materieflussraum für Objekte,PAA
+Müllraum,PAA
+Müllbereich,PAA
+ Motorverbrennbereich,PAA
+Materieflussraum für Feststoffe,PAB
+Feststoffflussraum,PAB
+Materieflussraum für Gase,PAC
+Gasflussraum,PAC
+Motorabgasbereich,PAC
+ Motoransaugbereich,PAC
+Materieflussraum für Flüssigkeiten,PAD
+Flüssigkeitsflussraum,PAD
+Kondensatauffangraum,PAD
+Materieflussraum für Plasma,PAE
+Plasmaflussraum,PAE
+Materieflussraum für mehrere Stoffarten,PAF
+Rauchentwicklungsraum,PAF
+Rauchausbreitung,PAF
+Raum für physikalische Phänomene für Energiefluss,PB
+Energieflussraum,PB
+Energieflussraum für elektrische Energie,PBA
+Flussraum für elektrische Energie,PBA
+Blitzschlagbereich,PBA
+Energieflussraum für Wärmeenergie,PBB
+Wärmeenergieflussraum,PBB
+Wärmeausbreitungsbereich,PBB
+Energieflussraum für mechanische Energie,PBC
+"Flussraum für mechanische
+Energie",PBC
+Aufschlagbereich,PBC
+ Aufprallbereich,PBC
+Energieflussraum für Explosionen,PBD
+Explosionsraum,PBD
+Energieflussraum für Verbrennung,PBE
+Feuerbereich,PBE
+Gasfackelbereich,PBE
+elektrisches Potential,BA
+Spannungswandler,BA
+ Spannungsmesseinheit,BA
+ Messwandler (Spannung),BA
+elektrischer Strom,BC
+Messwandler (Strom),BC
+Dichte,BD
+andere elektrische und elektromagnetische Größen,BE
+Messwandler,BE
+ Messwiderstand,BE
+"Fluss (Durchfluss, Durchsatz)",BF
+Volumenstrommessung,BF
+Messblende,BF
+ Gaszähler,BF
+Wasserzähler,BF
+ Durchflussmesser,BF
+"Abstand, Länge, Stellung, Dehnung, Amplitude",BG
+Näherungsfühler/-schalter,BG
+Bewegungsmelder,BG
+Positionsschalter,BG
+Leistung,BJ
+Wattmeter,BJ
+Zeit,BK
+Uhr,BK
+ Zeitmesser,BK
+"Höhenangabe, Stand",BL
+Füllstandsmessung,BL
+"Wassergehalt, Feuchte",BM
+Feuchtigkeitsmesser,BM
+"Druck, Vakuum",BP
+Druckfühler,BP
+ Drucksensor,BP
+"Qualität
+(Zusammensetzung, Konzentration, Reinheit,
+Stoffeigenschaft)",BQ
+Rauchwächter,BQ
+ CO-Messung,BQ
+Viskosität,BQ
+Strahlung,BR
+Photozelle,BR
+ Brandwächter,BR
+Flammenwächter,BR
+"Geschwindigkeit, Frequenz
+(einschließlich Beschleunigung)",BS
+Geschwindigkeitsmesser,BS
+ Dreh-zahlmesser,BS
+ Schwingungsmesser,BS
+Temperatur,BT
+Temperaturfühler,BT
+Mehrfachvariable (zusammengesetzte Größen),BU
+Energiezähler,BU
+"Gewichtkraft, Masse",BW
+sonstige Größen,BX
+Mikrophon,BX
+ Videokamera,BX
+"Anzahl von Ereignissen, Zählungen, kombinierte
+Aufgaben",BZ
+Schaltspieldetektor,BZ
+ Radargerät,BZ
+kapazitive Speicherung elektrischer Energie,CA
+Kondensator,CA
+induktive Speicherung elektrischer Energie,CB
+Spule,CB
+chemische Speicherung elektrischer Energie,CC
+Speicherbatterie,CC
+ Akkumulator,CC
+statische USV,CC
+Speichern von Informationen,CF
+CD,CF
+ DVD,CF
+ Bandlaufwerk,CF
+ Festplatte,CF
+"offenes Speichern von Stoffen an festem Ort
+(Sammlung, Lagerung)",CL
+Grube,CL
+ Becken,CL
+ Kaverne,CL
+ Zisterne,CL
+"geschlossenes Speichern von Stoffen an festen Orten
+(Sammlung, Lagerung)",CM
+Ausdehnungsgefäß,CM
+ Behälter,CM
+Druckspeicher,CM
+ Tank,CM
+ Brauch-wasserspeicher,CM
+"mobiles Speichern von Stoffen (Sammlung, Lagerung)",CN
+Container,CN
+ Gasflasche,CN
+ Transport-behälter,CN
+Speichern von thermischer Energie,CP
+Eisspeicher,CP
+ Hybrideenergie-speicher,CP
+ Energiepufferspeicher,CP
+Erdspeicher,CP
+ Wärmepufferspeicher,CP
+Dampfspeicher,CP
+Speichern von mechanischer Energie,CQ
+Schwungrad,CQ
+ Dynamische USV,CQ
+"Erzeugung von elektromagnetischer Strahlung für
+Beleuchtungszwecke mittels elektrischer Energie",EA
+Beleuchtung,EA
+ Glühlampe,EA
+ LED,EA
+Leuchte,EA
+ Leuchtstoffröhre,EA
+"Erzeugung von Wärmeenergie mittels Umwandlung von
+elektrischer Energie",EB
+Elektroofen,EB
+ elektrischer Boiler,EB
+Elektro-Lufterhitzer,EB
+ Heizstab,EB
+Infrarotstrahler,EB
+"Erzeugung von Kälteenergie mittels Umwandlung von
+elektrischer Energie",EC
+Gefrieraggregat,EC
+ Kühlaggregat,EC
+Kältemaschine; Kühlschrank,EC
+"Erzeugung von anderer elektromagnetischer
+Strahlung mittels elektrischer Energie",EE
+Laser,EE
+ Röntgengerät,EE
+"Erzeugung von anderer elektromagnetischer Strahlung
+zum Zwecke der Signalisierung",EF
+"Erzeugung von elektromagnetischer Strahlung für
+Beleuchtungszwecke durch Verbrennung fossiler
+Brennstoffe",EL
+Gaslicht,EL
+ Gaslampe,EL
+"Erzeugung von thermischer Energie mittels
+Umwandlung chemischer Energie",EM
+Brenner,EM
+ Wärmeerzeuger,EM
+Heizkessel,EM
+ Ofen,EM
+Erzeugung von Wärmeenergie durch Energieaustausch,EP
+Lufterhitzer,EP
+ Verflüssiger,EP
+Wärmetauscher,EP
+ Heizkörper,EP
+Wärmepumpe,EP
+Erzeugung von Kälteenergie durch Energieaustausch,EQ
+Kühlturm,EQ
+ Luftkühler,EQ
+ Verdampfer,EQ
+Umluftkühlgerät,EQ
+ Kühldecke,EQ
+kombinierte Aufgaben,EZ
+Klimagerät,EZ
+ Klimatruhe,EZ
+Induktionsgerät,EZ
+Schutz gegen Überspannungen,FA
+Überspannungsableiter,FA
+Schutz gegen Fehlerströme,FB
+Fehlerstrom-Schutzschalter,FB
+Schutz gegen Überströme,FC
+Sicherung,FC
+ Sicherungseinheit,FC
+Leitungsschutzschalter,FC
+Schutz gegen andere elektrische Gefährdungen,FE
+Faradayscher Käfig,FE
+ Abschirmung,FE
+Schützen gegen gefährliche Druckzustände,FL
+Berstscheiben,FL
+ Sicherheitsarmatur,FL
+Überdruckventil,FL
+Schützen gegen Brandeinwirkungen,FM
+Brandschutzeinrichtung,FM
+Brandschutzklappen,FM
+Brandschutztür,FM
+ Brandschott,FM
+"Schützen vor gefährlichen Betriebszuständen oder
+Beschädigung",FN
+Schutzschild,FN
+ SchutzvorrichtungRammschutz,FN
+ Sicherheitskupplung,FN
+Schlagschutz,FN
+"Schützen gegen gefährliche Emissionen (z. B.
+Strahlung, chemische Emissionen, Lärm)",FP
+Schalldämmkulisse,FP
+ Strahlenschutz,FP
+Lärmschutzwand,FP
+"Schützen gegen Gefährdungen oder unerwünschten
+Situationen von Personen oder Tieren (z. B.
+Schutzvorrichtungen)",FQ
+Absperrung,FQ
+ Zaun,FQ
+ Brückennetz,FQ
+Fluchtfenster,FQ
+ Fluchttür,FQ
+ Handlauf,FQ
+Schranke schützend,FQ
+ Sichtschutz,FQ
+Schützen gegen Verschleiß (z. B. Korrosion),FR
+Kathodische Schutzanode,FR
+"Schützen vor Umwelteinflüssen (z. B. Witterung,
+geophysikalische Auswirkungen)",FS
+Witterungsschutz,FS
+ Dachpaneel,FS
+Sonnenschutz,FS
+ Blendschutz,FS
+Fassadenbekleidung,FS
+ Jalousie,FS
+kombinierte Aufgaben,FZ
+"Initiieren eines elektrischen Energieflusses durch
+Einsatz mechanischer Energie",GA
+Generator,GA
+ Dynamo,GA
+ Motor-Gene-rator-Satz,GA
+ Notstromgenerator,GA
+"Initiieren eines elektrischen Energieflusses durch
+chemische Umwandlung",GB
+Batterie,GB
+ Brennstoffzelle,GB
+Trockenzellenbatterie,GB
+Initiieren eines elektrischen Energieflusses mittels Licht,GC
+Solarzelle,GC
+Erzeugen von Signalen als Informationsträger,GF
+Signalgeber,GF
+ Signalgenerator,GF
+Initiieren eines stetigen Flusses von festen Stoffen,GL
+Bandförderer,GL
+ Kettenförderer,GL
+Zuteiler,GL
+Initiieren eines unstetigen Flusses von festen Stoffen,GM
+Aufzug,GM
+ Hubeinrichtung,GM
+ Kran,GM
+"Initiieren eines Flusses von flüssigen und fließfähigen
+Stoffen, angetrieben mittels Energieversorgung",GP
+Pumpe,GP
+ Schneckenförderer,GP
+"Initiieren eines Flusses von gasförmigen Stoffen durch
+mechanischen Antrieb",GQ
+Gebläse,GQ
+ Lüfter,GQ
+ Ventilator,GQ
+Verdichter,GQ
+ Vakuumpumpe,GQ
+ Sauger,GQ
+"Initiieren eines Flusses von flüssigen oder gasförmigen
+Stoffen durch ein Treibmedium",GS
+Ejektor,GS
+ Injektor,GS
+ Strahler,GS
+"Initiieren eines Flusses von flüssigen oder gasförmigen
+Stoffen durch Schwerkraft",GT
+Schmiervorrichtung,GT
+ Öler,GT
+kombinierte Aufgaben,GZ
+Trennen von Stoffgemischen durch Fliehkraft,HM
+Zentrifuge,HM
+ Zyklonabscheider,HM
+Trennen von Stoffgemischen durch Schwerkraft,HN
+Absetzbehälter,HN
+ Abscheider,HN
+"Trennen von Stoffgemischen durch thermische
+Verfahren",HP
+Destillierer,HP
+ Trockner,HP
+Trennen von Stoffgemischen durch Filtern,HQ
+Luftfilter,HQ
+ Flüssigkeitsfilter,HQ
+ Gasfilter,HQ
+Gitter,HQ
+ Sieb,HQ
+ Tropfenabscheider,HQ
+Schmutzfänger,HQ
+"Trennen von Stoffgemischen durch elektrostatische oder
+magnetische Kräfte",HR
+Magnetabscheider,HR
+ Elektrofilter,HR
+"Trennen von Stoffgemischen durch physikalische
+Verfahren",HS
+Entsalzung,HS
+ Absorbtionswäscher,HS
+Entfeuchter,HS
+ Ionentauscher,HS
+Aktivkohleabsorbierer,HS
+Erzeugen neuer gasförmiger Stoffe,HT
+Vergaser,HT
+ Mischbox,HT
+"Mischen zum Erzeugen neuer, fester, flüssiger,
+fließfähiger oder gasförmiger Stoffe",HW
+Mischer,HW
+ Befeuchter,HW
+kombinierte Aufgaben,HZ
+"Verarbeiten von elektrischen und elektronischen
+Signalen",KF
+Steuerung,KF
+ Relais,KF
+ Regler elektr.,KF
+Steuergerät,KF
+ Ein-/Ausgangs-baugruppe,KF
+ Prozessrechner,KF
+ CPU,KF
+Verarbeiten von optischen und akustischen Signalen,KG
+Spiegel,KG
+ Prüfgerät,KG
+"Verarbeiten von fluidtechnischen und pneumatischen
+Signalen",KH
+Steuerventil,KH
+ Regler pneumatisch,KH
+Verarbeiten von mechanischen Signalen,KJ
+Regler mechanisch,KJ
+"Verarbeitung unterschiedlicher Informationsträger an
+Ein- und Ausgang (z. B. elektrisch – pneumatisch)",KK
+elektrohydraulischer Umformer,KK
+elektrisches Vorsteuerventil,KK
+ Regler,KK
+kombinierte Aufgaben,KZ
+Antreiben durch elektromagnetische Wirkung,MA
+Elektromotor,MA
+ Stellantriebelektromotorisch,MA
+Antreiben durch magnetische Wirkung,MB
+Magnetantrieb,MB
+ Stellantrieb elektro-magnetisch,MB
+Antreiben durch mechanische Kraft,ML
+Federspeicherantrieb,ML
+ Stellantriebmechanisch,ML
+Antreiben durch fluidtechnische oder pneumatische Kraft,MM
+Fluidantrieb/-motor,MM
+ Stellantriebpneumatisch,MM
+ Hydraulikzylinder,MM
+Antreiben durch Kraft von Dampfstrom,MN
+Dampfturbine,MN
+Antreiben durch Kraft von Gasstrom,MP
+Gasturbine,MP
+Antreiben durch Windkraft,MQ
+Windrad,MQ
+ Windturbine,MQ
+Antreiben durch Kraft von Flüssigkeitsstrom,MR
+Wasserturbine,MR
+Antreiben durch Kraft einer chemischen Umwandlung,MS
+Verbrennungsmotor,MS
+kombinierte Aufgaben,MZ
+visuelle Anzeige von Einzelzuständen,PF
+LED,PF
+ Signalleuchte,PF
+visuelle Anzeige von Einzelvariablen,PG
+Thermometer,PG
+ Manometer,PG
+Pegelanzeige,PG
+ Voltmeter,PG
+Amperemeter,PG
+ Wattmeter,PG
+ Zähler,PG
+Uhr,PG
+"visuelle Anzeige von Information in Zeichnungsform,
+Bildform und/oder Textform",PH
+Barcode-Drucker,PH
+ Rekorder,PH
+Drucker,PH
+ Bildschirm,PH
+ Schreiber,PH
+akustische Informationsdarstellung,PJ
+Klingel,PJ
+ Lautsprecher,PJ
+ Signalgerätakustisch,PJ
+fühlbare Informationsdarstellung,PK
+Vibrator,PK
+kombinierte Aufgaben,PZ
+Schalten und Variieren von elektrischen Energiekreisen,QA
+Leistungsschalter,QA
+ Schütz,QA
+ Thyristor,QA
+Motoranlasser,QA
+Trennen von elektrischen Energiekreisen,QB
+Trennschalter,QB
+ Lasttrenner,QB
+Erden von elektrischen Energiekreisen,QC
+Erder,QC
+ Erdungsschalter,QC
+Bremsen,QL
+Bremse,QL
+"Schalten eines Flusses fließfähiger Stoffe in
+geschlossenen Umschließungen",QM
+Absperrarmaturen (auchEntleerungsarmaturen) Klappe,QM
+Absperrventil,QM
+"Verändern eines Flusses fließfähiger Stoffe in
+geschlossenen Umschließungen",QN
+Gasregelstrecke,QN
+ Regelventil,QN
+Regelklappe,QN
+ Regelarmatur,QN
+"Schalten oder Verändern eines Flusses fließfähiger
+Stoffe in offenen Umschließungen",QP
+Schleuse,QP
+ Wehre,QP
+"Ermöglichen von Zugang zu einem Raum oder einer
+Fläche",QQ
+Tür,QQ
+ Drehkreuz,QQ
+ Schrankeabgrenzend,QQ
+"Absperren eines Flusses fließfähiger Stoffe (keine
+Armaturen)",QR
+Absperreinrichtung,QR
+"Öffnen , Schließen von Einlässen (Licht, Luft) zu
+abgegrenzten Orten",QW
+Fenster,QW
+ Verglasung,QW
+kombinierte Aufgaben,QZ
+Begrenzen des Flusses von elektrischer Energie,RA
+Widerstand,RA
+ Diode,RA
+ Drossel,RA
+Stabilisieren eines Flusses von elektrischer Energie,RB
+USV,RB
+Stabilisieren von Signalen,RF
+Tiefpass,RF
+ Entzerrer,RF
+ Filter,RF
+"Verhindern von unerlaubtem Bedienen und/oder
+Bewegungen (mechanisch)",RL
+Begrenzer,RL
+ Schloss,RL
+ Arretierung,RL
+"Verhindern des Rückflusses von gasförmigen, flüssigen
+und fließfähigen Stoffen",RM
+Rückschlagventil,RM
+Rückschlagklappe,RM
+Rückstauverschluss,RM
+"Begrenzen des Durchflusses von flüssigen und
+gasförmigen Stoffen",RN
+Lufteinlass,RN
+ Luftauslass,RN
+Drosselscheibe,RN
+Abschirmen und Dämmen von Lärm,RP
+Schalldämpfer,RP
+Abschirmen und Dämmen von Wärme oder Kälte,RQ
+Wärmedämmung,RQ
+ Isolierung,RQ
+"Abschirmen und Dämmen vor mechanischen
+Einwirkungen",RR
+Anpralldämpfer,RR
+ Ausmauerung,RR
+Spritzschutz,RR
+ Stoßdämpfer,RR
+Kompensator,RR
+Abschirmen und Dämmen vor chemischen Einwirkungen,RS
+Auskleidung,RS
+Abschirmen und Dämmen von Licht,RT
+Lichtblende,RT
+"Abschirmen und Stabilisieren von Bewegung in Orten/im
+Gelände",RU
+Zaun,RU
+ Trennwand,RU
+kombinierte Aufgaben,RZ
+Bereitstellen eines elektrischen Signals,SF
+DV-Eingabegeräte,SF
+ Schalter,SF
+ Taster,SF
+Sollwerteinsteller,SF
+"Bereitstellen eines elektromagnetischen, optischen oder
+akustischen Signals",SG
+Lichtschranke,SG
+ Computermaus,SG
+Bereitstellen eines mechanischen Signals,SH
+Bedienelemente,SH
+ Handrad,SH
+"Bereitstellung eines fluidtechnischen oder
+pneumatischen Signals",SJ
+Bedienventil,SJ
+kombinierte Aufgaben,SZ
+"Umwandeln elektrischer Energie unter Beibehaltung der
+Energieart und Energieform",TA
+Transformator,TA
+ Frequenzwandler,TA
+DC/DC-Wandler,TA
+ Frequenzumrichter,TA
+"Umwandeln elektrischer Energie unter Beibehaltung der
+Energieart, aber Veränderung der Energieform",TB
+Gleichrichter,TB
+ Wechselrichter,TB
+AC/DC-Wandler,TB
+ Netzteil,TB
+Umwandeln von Signalen,TF
+U/I-Umformer,TF
+ Elektrischer Mess-umformer,TF
+ Antenne,TF
+ Verstärker,TF
+Signalumformer,TF
+"Umwandeln von Drehzahl, Drehmoment, Kraft in
+dieselbe Art",TL
+Drehzahl-,TL
+ Drehmomentwandler,TL
+Druckkraftverstärker,TL
+ Getriebe,TL
+"Umwandeln von Strahlungsenergie unter Beibehaltung
+der Energieform",TR
+Brennglas,TR
+ Parabolspiegel,TR
+kombinierte Aufgaben,TZ
+"Halten und Tragen von Einrichtungen elektrischer
+Energie",UA
+Gerüst,UA
+ Stütze,UA
+ Einbau- undSchwenkrahmen in Schaltschrank,UA
+Halten und Tragen von elektrischen Energiekabeln und -leitungen,UB
+Aufhänger,UB
+ Kabelkanal,UB
+Kabelpritsche ,UB
+ Kabeltrasse,UB
+ Mast,UB
+"Umschließen und Tragen von Einrichtungen elektrischer
+Energie",UC
+Schaltschrank,UC
+ Gehäuse,UC
+"Umschließen, Halten und Tragen von elektrischen und
+kommunikationstechnischen Anschlüssen",UE
+Bodentank,UE
+ Elektrant,UE
+Brüstungskanal,UE
+"Halten, Tragen, Umschließen von leittechnischen und
+kommunikationstechnischen Einrichtungen",UF
+Baugruppenträger,UF
+ Rack,UF
+"Halten und Tragen von leittechnischen und
+kommunikationstechnischen Kabeln und Leitungen",UG
+Kabelkanal,UG
+ Kabelpritsche,UG
+Kabeltrasse,UG
+"Umschließen und Tragen von leittechnischen
+Einrichtungen",UH
+Steuerschrank,UH
+ Gehäuse,UH
+"Halten und Tragen von maschinentechnischen
+Einrichtungen",UL
+Maschinenfundament,UL
+Halten und Tragen von gebäudetechnischen Objekten,UM
+Fundament,UM
+ Bohrpfahl,UM
+ Unterzug,UM
+Oberzug,UM
+ Stütze,UM
+ Strukturelement,UM
+"Halten und Tragen von rohrleitungstechnischen
+Objekten",UN
+Halterung für Rohrleitungen,UN
+Rohrbrücke,UN
+Halten und Führen von Wellen und Läufer,UP
+Gleitlager,UP
+ Kugellager,UP
+"Befestigen und Verankern von maschinentechnischen
+Einrichtungen",UR
+Konsole,UR
+ Montagegestell,UR
+ Träger,UR
+"räumliche Objekte zur Unterbringung und zum Tragen
+anderer Objekte",US
+Schacht,US
+ Raum,US
+ Korridor,US
+ Halle,US
+kombinierte Aufgaben,UZ
+"Reinigen von Stoffen, Produkten oder Einrichtungen",VQ
+Staubsauger,VQ
+ Waschmaschine,VQ
+Gebäudereinigungseinrichtung,VQ
+"Verteilen von elektrischer Energie
+(> 1 000 V AC oder > 1 500 V DC)",WA
+Stromschiene,WA
+ elektrischer Verteiler,WA
+Sammelschiene,WA
+"Transportieren von elektrischer Energie
+(> 1 000 V AC oder > 1 500 V DC)",WB
+Kabel,WB
+ Leiter,WB
+ Durchführung,WB
+"Verteilen von elektrischer Energie
+(<= 1 000 V AC oder <= 1 500 V DC)",WC
+elektrischer Verteiler,WC
+Sammelschiene,WC
+"Transportieren von elektrischer Energie
+(<= 1 000 V AC oder <= 1 500 V DC)",WD
+Leistungskabel,WD
+Leiten von Erdpotential oder Bezugspotential,WE
+Erdungsschiene,WE
+Potentialausgleichsschiene,WE
+Verteilen von elektrischen oder elektronischen Signalen,WF
+Datenbus,WF
+ Feldbus,WF
+ Rangierverteiler,WF
+"Transportieren von elektrischen oder elektronischen
+Signalen",WG
+Steuerkabel,WG
+ Messkabel,WG
+Datenleitung,WG
+Transportieren und Führen von optischen Signalen,WH
+Lichtwellenleiter,WH
+ Glasfaserkabel,WH
+Kabel optisch,WH
+"Transportieren von Stoffen und Produkten (nicht
+angetrieben)",WL
+Förderer,WL
+ schiefe Ebene,WL
+ Rollentisch,WL
+"Leiten und Führen von Strömen flüssiger und
+fließfähiger Stoffe (offene Umschließungen)",WM
+Abläufe,WM
+ Kanal,WM
+ Rinne,WM
+ Bodeneinlauf,WM
+"Leiten und Führen von Strömen flüssiger, fließfähiger
+und gasförmiger Stoffe (geschlossene, flexible Um-schließungen)",WN
+Schlauch,WN
+"Leiten und Führen von Strömen flüssiger und
+fließfähiger Stoffe (geschlossene, starre
+Umschließungen)",WP
+Luftkanal,WP
+ Rohrleitung,WP
+Abwasserleitung,WP
+Übertragen von mechanischer Energie,WQ
+Läufer,WQ
+ Kette,WQ
+ Welle,WQ
+Leiten und Führen für spurgebundene Transportmittel,WR
+Schienen-,WR
+ Weicheneinrichtung,WR
+Leiten und Führen von Personen (Begeheinrichtungen),WS
+Schleuse,WS
+ Treppe,WS
+ Laufsteg,WS
+Plattform,WS
+"Leiten und Führen von mobilen Transportmitteln
+(Transportwege)",WT
+befahrbare Verkehrsfläche,WT
+begehbare Verkehrsfläche,WT
+Schifffahrtsweg,WT
+kombinierte Aufgaben,WZ
+"Anschließen/Verbinden von Objekten
+(> 1 000 V AC oder > 1 500 V DC)",XB
+Klemme,XB
+ Leiste,XB
+ Muffe,XB
+"Anschließen/Verbinden von Objekten
+(<= 1 000 V AC oder <= 1 500 V DC) < 1 kV",XD
+Klemme,XD
+ Leiste,XD
+ Steckverbinder,XD
+LSA-Leisten,XD
+ Steckdose,XD
+Anschließen von Erdpotential oder Bezugspotential,XE
+Erdungsklemme,XE
+Schirmanschlussklemme,XE
+Verbinden in Datenübertragungsnetzen,XF
+Hub,XF
+ Switch,XF
+ Patchpanel,XF
+Verbinden von elektrischen Signalträgern,XG
+Signalverteiler,XG
+ Steckverbinder,XG
+Anschlusselement,XG
+Verbinden (optisch) von Signalen,XH
+optischer Anschluss,XH
+Verbinden starrer Umschließungen für Stoffströme,XL
+Flansch,XL
+ Kupplung,XL
+ Fittings,XL
+Verbinden flexibler Umschließungen für Stoffströme,XM
+Schlauchverbindung,XM
+ -kupplung,XM
+"Verbinden von Objekten zur Übertragung von
+mechanischer Energie, nicht trennbar",XN
+Kupplung,XN
+ starr,XN
+"Verbinden von Objekten zur Übertragung von
+mechanischer Energie (schaltbar/variabel)",XP
+Schaltkupplung,XP
+ Regelkupplung,XP
+"Verbinden von Objekten, unlösbar",XQ
+Schweiß-,XQ
+ Löt-,XQ
+ Klebeverbindung,XQ
+"Verbinden von Objekten, lösbar",XR
+Haken,XR
+ Öse,XR
+kombinierte Aufgaben,XZ
+Fassade ,QQB
+Fenster ,QQA
+Jalousien ,RQF
+Markisen ,RQE
+Natürliche Rauchabzugsanlagen,FMB
+Natürliche Waermeabzugsanlagen,FMB
+Rolläden ,RQG
+Rolltor ,QQF
+Schnellauftor ,QQF
+Sektionaltor ,QQF
+Stütze ,ULD
+Türen ,QQC
+Wand nicht tragend ,RQJ
+Wand tragend ,ULM
+Wandbekleidung ,NCB
+Autokamtiktür zwei Flüglig ,QQC
+Autokamtiktür ein Flüglig ,QQC
+Brandschutzflügeltüren ,FMG
+"Brandschutzschiebetüren, ",FMG
+Brandschutztüren ,FMG
+Drehflügeltür ,QQC
+Glasschiebetüren ,QQC
+Jalousien ,RQF
+Kraftbetriebene Türen/Tore ,QQC
+Pendeltüren ,QQC
+Raffstores ,RQD
+Rolläden ,RQG
+Schiebetor ,QQC
+Schnellauftore ,FMG
+Stütze ,ULD
+Wand ,ULM
+Wand nicht tragend ,RQJ
+Wandbekleidung ,NCB
+Abläufe ,XKE
+Absperrschieber ,QMA
+Abwasserleitungen ,WPA
+Automatische Spülarmaturen ,QPA
+Automatische Spülventile ,QNA
+Bewässerungsanlagen ,WPE
+Brunnenwasseranlage ,GPF
+Dosieranlagen ,QNC
+Druckerhöhungsanlagen ,GPA
+Druckhalteeinrichtungen ,CND
+Druckluftbehälter ,CNB
+Druckschalter ,SJB
+Enthärtungsanlagen ,HSD
+Fettabscheider ,HQA
+Gastank ,CPB
+Hauseinspeisung mit Filter ,XMA
+Liftingstation ,GPE
+Hebeanlage ,GPE
+Kompressor ,GQA
+Membranausdehungsgefäß ,FLE
+Ölabscheider ,HQA
+Regenwassernutzungsanlage ,CMA
+Sanitärobjekte ,XK
+Steigleitungen ,WPA
+Tauchpumpe ,GP
+VE-Anlagen ,HSE
+Wasseraufbereitsungsanlagen ,HYA
+Wasseraufbereitung,HYA
+Wasserzähler ,BZA
+Zentrale Kaltwasserverteilungen ,QMA
+"Abgasanlage, Abgasklappe ",RMB
+BHKW ,MSD
+"Dachrinnenheizung, ",EBC
+Dunkelstrahler ,GQC
+Elektroheizkörper ,EBB
+Fernwärmeübergabestation ,EGD
+Fussbodenheizung ,EPA
+Heizkörper ,EPC
+Heizungsverteilung ,WVA
+Hellstrahler ,GQC
+Kraftstofftank ,CMA
+Öltank ,CMA
+Pufferspeicher ,CPA
+Rohrbegleitheizungen ,EBC
+Solarkollektor ,GRA
+Unterverteilungen ,WVC
+Wärmeerzeugungsanlagen ,EMB
+Wärmepumpe ,EGA
+Plattenwärmetauscher,EGA
+Rohrbündelwärmetauscher,EGA
+Wärmetauscher,EGC
+Warmwasserbereiter ,EBA
+Abluftanlage ,GQD
+Außengeräte ,EQD
+Brandschutzklappen (Asbesthaltig) ,FMA
+Brandschutzklappen ,FMA
+Brandschutzventile ,FMG
+Deckenkühler ,EQB
+Entrauchungsventilatoren ,GQD
+Kälteanlagen ,EQD
+Kältemaschienen ,EQD
+Klimaanlagen ,EQD
+Klima-Splitt ,ECB
+Kühltürme geschlossen ,EQB
+Kühltürme offen ,EQB
+Luftschleieranlagen ,GQB
+Lüftungsanlagen ,GQD
+RWA – Anlagen,FMB
+Rauch warn Anlagen,FMB
+Teilklimaanlagen ,EQD
+Torschleieranlagen ,GQB
+Verflüssigereinheiten  ,EQA
+Abuftanlage,GQD
+Zuluftanlage ,GQD
+Zyrkulationspumpen ,GPA
+Fortluftanlage ,GQD
+Aussenluftanlage ,GQD
+Umluftanlage ,GQD
+Luftzonenanlage ,GQD
+Kaltwassersatz,EQD
+Anzahl Felder Niederspannung Hauptverteilung  NSHV,XDC
+Einzelaufnahme ,XDA
+Einzelaufnahme Verteiler/Felder  ,XDA
+Erdung und Blitzschutz ,FBB
+"Maschennetztrafo, 20kV Schaltanlage ",TAA
+"Notstrom, USV  ",RBA
+NSHV zu Trafo ,XDE
+NSL Verteilung,XDC
+ SLA Verteilung ,XDC
+Photovoltaikanlagen ,GC
+Raumbeleuchtung ,UAC
+Sicherheitsbeleuchtungsanlagen ,UAC
+Sykatec 400Hz Umformer ,TAA
+Alarmglocke,PJB
+Hupe ,PJB
+Einbruchmeldeanlage ,BXB
+ELA Anlagen ,BX
+"Kupferleitung
+ ",WG
+Lautsprecher ,PJA
+Lautsprecherlinien ,PJA
+LWL Leitungen,WH
+Notruftelefone ,TFA
+Objektfunk ,GFA
+Singalanlage,PFA
+Ampeln,PFA
+Sprechanlage ,BXA
+Sprechstellen ,BXA
+Telefonverteiler ,TFE
+Überwachungskameras ,BXC
+Uhrenanlage ,PGK
+Verstärker ,RBD
+Videoanlage ,BXC
+Weitere Leitungen ,W
+Brandmeldeanlage ,BQF
+Ausdehnungsgefaess ,FLE
+Druckhalteeinrichtungen ,CND
+Druckluftbehälter ,CNB
+Druckluftleitung ,WPA
+Druckluftsteuerung ,QNB
+Feuerlöschleitung trocken,FMO
+Feuerlöschleitungen nass,FML
+Feuerlöschversorgungsanlage ,FMN
+Filter ,HQB
+Handfeuerlöscher.   ,FMD
+Kältetrockner ,HPA
+Kolbenkompressoren ,GQA
+Löschwassereinspeisung ,FML
+Öl-Wasser-Trenner ,HQC
+Schraubenkompressoren ,GQA
+Sprinkleranlagen ,FMM
+Vakuumpumpen ,GP
+Wandhydranten ,FMP
+Zyklonenabscheider ,HQA
+Raumautomationsanlage ,ZRA
+Schaltschränke, UC
+Abscheider ,HQA
+Abwasserleitung ,WPC
+Anzeigetafel ,PHA
+Außenbeleuchtung ,UAC
+"Außenbeleuchtung, Lichtmasten ",UAC
+Außenluftansaugung ,GQD
+badetechnische Anlage ,XK
+Beregnungsanlage ,GPF
+Beschallungsanlage ,BX
+Brunnenanlage ,GPF
+Druckerhöhungsanlage ,GPA
+Eigenstromerzeuger ,RBA
+Entwässerung ,WMA
+Erdwäremetauscher ,EGC
+Fahrleitungen ,WBB
+Flüssiggasanlage ,CPB
+Flutlicht ,UBD
+Fortluftausblas ,GQD
+Freiflächenheizung ,EPA
+Freilufttrafostation ,TAA
+Gasleitung ,WPA
+Geschwindigkeitsanzeigen ,PHA
+Hebeanlage ,GPE
+Kälteversorgung ,EQD
+Kläranlage ,HMA
+Ladesäule ,UBD
+Löschwasseranlage ,FMJ
+Löschwasserbrunnen ,CLA
+Medienversorgungsanlage ,WZA
+Oberflurhydranten ,FMP
+Objektsicherungsanlagen ,BXB
+Parkleitsystem ,QQH
+Rampenheizung ,EPC
+Regenwasserschacht  ,CLA
+Regenwasserstraßeneinläufe ,XKE
+Sammelgrube ,HMA
+Stromleitung ,XBA
+Tankanlage ,CMA
+Verkehrssignalanlage ,PFA
+Wärmeerzeugungsanlage ,EMB
+Wärmeversorgungsleitung ,EPB
+Wasserversorgungsleitung ,WPA
+Zeitdienstanlage ,PGK
+Zisterne ,CLA
+Leitfähigkeitsmessgerät,BBA
+Leitwertmessgerät,BBA
+"Leitwertsensor, Messwert für thermischen Widerstand ",BBC
+Stromrelais,BCB
+Stromschalter,BCB
+Magnetkontakt,BED
+Fensterkontakt ,BED
+Reedschalter,BED
+Türkontakt,BED
+Strömungsfühler,BFA
+Durchflussmesser,BFA
+Medium Luft,BFA
+Volumenstromfühler,BFA
+Wasserzähler,BFA
+Strömungsschalter,BFB
+Gasflussschalter,BFB
+Strömungsmelder,BFB
+Strömungswächter,BFB
+Windrichtungssensor ,BGA
+Bewegungsmelder (PIR),BGB
+Schneehöhensensor,BGC
+Durchflussenergiemessgerät,BHA
+Gasenergiezähler,BHA
+Energiezähler,BHB
+Wärmeenergiemessgerät,BHB
+"Füllstandsensor, Flüssigkeitsstandmelder",BLA
+"Feuchte-Messfühler, Luftfeuchtigkeits-Messfühler",BMA
+Abluftfeuchtesensor ,BMA
+Fortluftfeuchtesensor ,BMA
+Außenluftfeuchtesensor ,BMA
+Raumtemperaturfeuchtesensor ,BMA
+Umluftfeuchtesensor,BMA
+Zuluftfeuchtesensor ,BMA
+Raumhygrostat,BMB
+Feuchteschalter,BMB
+Drucksensor,BPA
+Luftdrucksensor,BPA
+Manometer,BPA
+Abluftdrucksensor,BPA
+Fortluftdrucksensor,BPA
+Aussenluftdrucksensor,BPA
+Zuluftdrucksensor,BPA
+Absolutdruckschalter,BPB
+Druckwächter ,BPB
+Filterwächter,BPC
+Differenzialdrucksensor ,BPC
+Differenzdruckschalter,BPD
+Leckwarngerät,BPD
+Luftqualitätssensor,BQA
+ CO2 Sensor,BQA
+VOC-Sensor,BQA
+CO-Messfühler,BQA
+Gasmelder,BQB
+Konzentrationserkennungsschalter,BQB
+Regensensor,BQC
+Feinstaubsensor,BQE
+Brandmelder,BQF
+Rauchmelder,BQF
+Rauchmelder linear,BQF
+Rauchmelder mit Akustik,BQF
+Rauchansaugsystem,BQF
+Rauchansaugmelder,BQF
+Lichtsensor,BRA
+Helligkeitssensor,BRA
+Lichtschranke,BRB
+Flammenwächter,BRC
+"Strahlungsmessgerät für nicht sichtbare Strahlung (IR, UV)",BRC
+Geschwindigkeitssensor,BSC
+Drehzahlmesser,BSE
+Windgeschwindigkeitssensor,BSE
+Körperschallmesser,BSH
+Einbruchalarmgeber,BSH
+Vibrationsschalter,BSH
+Temperatursensor ,BTA
+Thermostat,BTA
+Ablufttemperatursensor ,BTA
+Frostsensor ,BTA
+Fortlufttemperatursensor ,BTA
+Außenlufttemperatursensor ,BTA
+Rücklauftemperatursensor ,BTA
+Raumtemperatursensor ,BTA
+Umlufttemperatursensor,BTA
+Vorlauftemperatursensor ,BTA
+Zulufttemperatursensor ,BTA
+Hitzemelder,BTB
+Temperaturwächter,BTB
+Temperaturschalte,BTB
+Kondensationswächter,BTB
+Kondensattemperaturfühler,BTB
+Taupunkttemperaturfühler,BTB
+Taupunktwächter,BTB
+Lautstärkeüberwachung,BXA
+Schallmesswertgeber,BXA
+Akkustiküberwachungssensor,BXA
+Akustikindikator (z.B. Glasbruch),BXB
+Gesichtserkennungsgerät,BXD
+Fingerabdruckleser,BXD
+Iris-Scanner,BXD
+Bilderkennungsgerät,BXD
+Chipkartenlesegerät,BYA
+Zutrittsleser,BYA
+RFID Lesegerät,BYA
+Magnetstreifen Lesegerät,BYA
+Personenzähler,BZA
+Personendetektor,BZA
+Präsenzdetektor nicht Bewegungsmelder,BZC
+Wärmespeicher,CPA
+Lampe,EAA
+Lichtquelle,EAA
+Elektrokessel,EBA
+Mischkammer,EBC
+Heizkessel,EMB
+Gaskessel,EMB
+Dampfkessel,EMB
+Brenner,EMB
+Heizkessel Schnittstelle,EMB
+Brenner Schnittstelle,EMB
+Lufterwärmer,EPB
+Nacherwärmer,EPB
+Vorerwärmer,EPB
+Wasservorerwärmer,EPB
+Verdampfer,EQB
+Kondensator,EQB
+Rückkühleinheit,EQB
+Gebläsekonvektor,EQC
+Ventilator,EQC
+Luftkühler,EQD
+Motorschutzschalter,FCB
+Pumpe,GP_
+Zirkulationspumpe,GPA
+Warmwasserpumpe,GPH
+Kondensatpumpe,GPH
+Primärpumpe ,GPH
+Sekundärpumpe,GPH
+WRG-Pumpe,GPH
+Kaltwasserpumpe,GPK
+Kühlwasserpumpe,GPK
+Kühlerpumpe,GPL
+Erwärmerpumpe Nacherhitzer,GPL
+Erwärmerpumpe Vorerhitzer,GPL
+Kompressor,GQA
+Kälteverdichter,GQA
+Gaskompressor,GQA
+Ventilator,GQB
+Abluftventilator,GQB
+Doppelventilator,GQB
+Fortluftventilator,GQB
+Luftheizer,GQB
+Aussenluftventilator,GQB
+Ventilatorregler,GQB
+Umluftventilator,GQB
+Zuluftventilator,GQB
+Filter,HQB
+Abluftfilter,HQB
+Elektrofilter,HQB
+Fortluftfilter,HQB
+Aussluftfilter,HQB
+Umluftfilter,HQB
+Zuluftfilter,HQB
+Befeuchter,HWB
+Dampfbefeuchter,HWB
+Ultraschallbefeuchter,HWB
+Automationsstation,KEB
+WLAN-Router,KED
+Tasterschnittstelle,KFE
+Volumenstromregler,KJA
+Volumenstromregler Abluft,KJA
+Volumenstromregler Fortluft,KJA
+Volumenstromregler Aussenluft,KJA
+Volumenstromregler Raum,KJA
+Volumenstromregler Zuluft,KJA
+Schliesszylinder,KJB
+Jalousiemotor,MAA
+Jalousieaktor,MAA
+Fensterantrieb,MBA
+"Ventilantrieb, Stellantrieb",MBB
+Thermoaktor,MDA
+Display,PHA
+Raumpanel,PHA
+Blitzleuchte,PZA
+Alarmindikator,PZA
+Sicherung,QBB
+Absperrventil,QMA
+Ventil,QN_
+Frischwasserventil,QNA
+Kühlventil,QNA
+Kaltwasserventil,QNA
+Kühlwasserventil,QNA
+Warmwasserventil,QNA
+Mischventil,QNA
+Deckenheizventil,QNA
+Deckenventil,QNA
+Deckenkühlventil,QNA
+Steuerklappe,QNB
+Gassteuerventil,QNB
+Klappe,RNB
+Volumenstromregler VVS,RNB
+Abluftklappe,RNB
+Abluft Volumenstromregler,RNB
+Bypassklappe,RNB
+Entrauchungsklappe,RNB
+Fortluftklappe,RNB
+Klappe Schnittstelle,RNB
+Mischluftklappe,RNB
+Aussenluftklappe,RNB
+Absperrklappe,RNB
+Umluftklappe,RNB
+Absperrklappe Ventilator,RNB
+Zuluftklappe,RNB
+Zuluft-Volumenstromregler,RNB
+Zutrittsverwaltungsgerät,RUC
+Drehkreuz ,RUC
+Notfallknopf,SGC
+Handmelder,SGC
+Feuermelder manuell,SGC
+Druckknopfmelder ,SGC
+Kippschalter,SJA
+Schalter,SJA
+Taster ,SJB
+Jalousietaster,SJB
+Raumbediengerät,SJC
+Bediengerät,SJC
+Raumbediengerät,SJC
+Frequenzumrichter,TAC
+Stromwandler,TBA
+Stromversorgung,TBA
+Stromrichter,TBA
+Bluetooth-Empfänger,TFB
+Koppler,TFC
+Druckmessumformer,TFC
+Differenzdruck Messumformer,TFC
+Leuchte,UAC
+Kabeltrasse,UBA
+Abzug,UCC
+Laborabzug,UCC
+Kabel,WG_
+Klemmdose,XDB
+Elektromotorischer Drehantrieb,MAA
+Elektromotorischer Stellantrieb,MBA
+Raum-Controller,UCA
+BACnet Router,KED
+Gateway,KED
+Luftkanalqualitätsfühler,BQA
+Dimmer,QAC
+Kabeltemperaturfühler,BTA
+Luftkanaldruckdifferenzfühler,BPC
+Luftkanaltemperaturfühler,BTA

@@ -1,0 +1,461 @@
+Beispiel,Kennzeichen
+Fassade ,QQB
+Fenster ,QQA
+Jalousien ,RQF
+Markisen ,RQE
+Natürliche Rauchabzugsanlagen,FMB
+Natürliche Waermeabzugsanlagen,FMB
+Rolläden ,RQG
+Rolltor ,QQF
+Schnellauftor ,QQF
+Sektionaltor ,QQF
+Stütze ,ULD
+Türen ,QQC
+Wand nicht tragend ,RQJ
+Wand tragend ,ULM
+Wandbekleidung ,NCB
+Autokamtiktür zwei Flüglig ,QQC
+Autokamtiktür ein Flüglig ,QQC
+Brandschutzflügeltüren ,FMG
+"Brandschutzschiebetüren, ",FMG
+Brandschutztüren ,FMG
+Drehflügeltür ,QQC
+Glasschiebetüren ,QQC
+Jalousien ,RQF
+Kraftbetriebene Türen/Tore ,QQC
+Pendeltüren ,QQC
+Raffstores ,RQD
+Rolläden ,RQG
+Schiebetor ,QQC
+Schnellauftore ,FMG
+Stütze ,ULD
+Wand ,ULM
+Wand nicht tragend ,RQJ
+Wandbekleidung ,NCB
+Abläufe ,XKE
+Absperrschieber ,QMA
+Abwasserleitungen ,WPA
+Automatische Spülarmaturen ,QPA
+Automatische Spülventile ,QNA
+Bewässerungsanlagen ,WPE
+Brunnenwasseranlage ,GPF
+Dosieranlagen ,QNC
+Druckerhöhungsanlagen ,GPA
+Druckhalteeinrichtungen ,CND
+Druckluftbehälter ,CNB
+Druckschalter ,SJB
+Enthärtungsanlagen ,HSD
+Fettabscheider ,HQA
+Gastank ,CPB
+Hauseinspeisung mit Filter ,XMA
+Liftingstation ,GPE
+Hebeanlage ,GPE
+Kompressor ,GQA
+Membranausdehungsgefäß ,FLE
+Ölabscheider ,HQA
+Regenwassernutzungsanlage ,CMA
+Sanitärobjekte ,XK
+Steigleitungen ,WPA
+Tauchpumpe ,GP
+VE-Anlagen ,HSE
+Wasseraufbereitsungsanlagen ,HYA
+Wasseraufbereitung,HYA
+Wasserzähler ,BZA
+Zentrale Kaltwasserverteilungen ,QMA
+"Abgasanlage, Abgasklappe ",RMB
+BHKW ,MSD
+"Dachrinnenheizung, ",EBC
+Dunkelstrahler ,GQC
+Elektroheizkörper ,EBB
+Fernwärmeübergabestation ,EGD
+Fussbodenheizung ,EPA
+Heizkörper ,EPC
+Heizungsverteilung ,WVA
+Hellstrahler ,GQC
+Kraftstofftank ,CMA
+Öltank ,CMA
+Pufferspeicher ,CPA
+Rohrbegleitheizungen ,EBC
+Solarkollektor ,GRA
+Unterverteilungen ,WVC
+Wärmeerzeugungsanlagen ,EMB
+Wärmepumpe ,EGA
+Plattenwärmetauscher,EGA
+Rohrbündelwärmetauscher,EGA
+Wärmetauscher,EGC
+Warmwasserbereiter ,EBA
+Abluftanlage ,GQD
+Außengeräte ,EQD
+Brandschutzklappen (Asbesthaltig) ,FMA
+Brandschutzklappen ,FMA
+Brandschutzventile ,FMG
+Deckenkühler ,EQB
+Entrauchungsventilatoren ,GQD
+Kälteanlagen ,EQD
+Kältemaschienen ,EQD
+Klimaanlagen ,EQD
+Klima-Splitt ,ECB
+Kühltürme geschlossen ,EQB
+Kühltürme offen ,EQB
+Luftschleieranlagen ,GQB
+Lüftungsanlagen ,GQD
+RWA – Anlagen,FMB
+Rauch warn Anlagen,FMB
+Teilklimaanlagen ,EQD
+Torschleieranlagen ,GQB
+Verflüssigereinheiten  ,EQA
+Abuftanlage,GQD
+Zuluftanlage ,GQD
+Zyrkulationspumpen ,GPA
+Fortluftanlage ,GQD
+Aussenluftanlage ,GQD
+Umluftanlage ,GQD
+Luftzonenanlage ,GQD
+Kaltwassersatz,EQD
+Anzahl Felder Niederspannung Hauptverteilung  NSHV,XDC
+Einzelaufnahme ,XDA
+Einzelaufnahme Verteiler/Felder  ,XDA
+Erdung und Blitzschutz ,FBB
+"Maschennetztrafo, 20kV Schaltanlage ",TAA
+"Notstrom, USV  ",RBA
+NSHV zu Trafo ,XDE
+NSL Verteilung,XDC
+ SLA Verteilung ,XDC
+Photovoltaikanlagen ,GC
+Raumbeleuchtung ,UAC
+Sicherheitsbeleuchtungsanlagen ,UAC
+Sykatec 400Hz Umformer ,TAA
+Alarmglocke,PJB
+Hupe ,PJB
+Einbruchmeldeanlage ,BXB
+ELA Anlagen ,BX
+"Kupferleitung
+ ",WG
+Lautsprecher ,PJA
+Lautsprecherlinien ,PJA
+LWL Leitungen,WH
+Notruftelefone ,TFA
+Objektfunk ,GFA
+Singalanlage,PFA
+Ampeln,PFA
+Sprechanlage ,BXA
+Sprechstellen ,BXA
+Telefonverteiler ,TFE
+Überwachungskameras ,BXC
+Uhrenanlage ,PGK
+Verstärker ,RBD
+Videoanlage ,BXC
+Weitere Leitungen ,W
+Brandmeldeanlage ,BQF
+Ausdehnungsgefaess ,FLE
+Druckhalteeinrichtungen ,CND
+Druckluftbehälter ,CNB
+Druckluftleitung ,WPA
+Druckluftsteuerung ,QNB
+Feuerlöschleitung trocken,FMO
+Feuerlöschleitungen nass,FML
+Feuerlöschversorgungsanlage ,FMN
+Filter ,HQB
+Handfeuerlöscher.   ,FMD
+Kältetrockner ,HPA
+Kolbenkompressoren ,GQA
+Löschwassereinspeisung ,FML
+Öl-Wasser-Trenner ,HQC
+Schraubenkompressoren ,GQA
+Sprinkleranlagen ,FMM
+Vakuumpumpen ,GP
+Wandhydranten ,FMP
+Zyklonenabscheider ,HQA
+Raumautomationsanlage ,ZRA
+Schaltschränke, UC
+Abscheider ,HQA
+Abwasserleitung ,WPC
+Anzeigetafel ,PHA
+Außenbeleuchtung ,UAC
+"Außenbeleuchtung, Lichtmasten ",UAC
+Außenluftansaugung ,GQD
+badetechnische Anlage ,XK
+Beregnungsanlage ,GPF
+Beschallungsanlage ,BX
+Brunnenanlage ,GPF
+Druckerhöhungsanlage ,GPA
+Eigenstromerzeuger ,RBA
+Entwässerung ,WMA
+Erdwäremetauscher ,EGC
+Fahrleitungen ,WBB
+Flüssiggasanlage ,CPB
+Flutlicht ,UBD
+Fortluftausblas ,GQD
+Freiflächenheizung ,EPA
+Freilufttrafostation ,TAA
+Gasleitung ,WPA
+Geschwindigkeitsanzeigen ,PHA
+Hebeanlage ,GPE
+Kälteversorgung ,EQD
+Kläranlage ,HMA
+Ladesäule ,UBD
+Löschwasseranlage ,FMJ
+Löschwasserbrunnen ,CLA
+Medienversorgungsanlage ,WZA
+Oberflurhydranten ,FMP
+Objektsicherungsanlagen ,BXB
+Parkleitsystem ,QQH
+Rampenheizung ,EPC
+Regenwasserschacht  ,CLA
+Regenwasserstraßeneinläufe ,XKE
+Sammelgrube ,HMA
+Stromleitung ,XBA
+Tankanlage ,CMA
+Verkehrssignalanlage ,PFA
+Wärmeerzeugungsanlage ,EMB
+Wärmeversorgungsleitung ,EPB
+Wasserversorgungsleitung ,WPA
+Zeitdienstanlage ,PGK
+Zisterne ,CLA
+Leitfähigkeitsmessgerät,BBA
+Leitwertmessgerät,BBA
+"Leitwertsensor, Messwert für thermischen Widerstand ",BBC
+Stromrelais,BCB
+Stromschalter,BCB
+Magnetkontakt,BED
+Fensterkontakt ,BED
+Reedschalter,BED
+Türkontakt,BED
+Strömungsfühler,BFA
+Durchflussmesser,BFA
+Medium Luft,BFA
+Volumenstromfühler,BFA
+Wasserzähler,BFA
+Strömungsschalter,BFB
+Gasflussschalter,BFB
+Strömungsmelder,BFB
+Strömungswächter,BFB
+Windrichtungssensor ,BGA
+Bewegungsmelder (PIR),BGB
+Schneehöhensensor,BGC
+Durchflussenergiemessgerät,BHA
+Gasenergiezähler,BHA
+Energiezähler,BHB
+Wärmeenergiemessgerät,BHB
+"Füllstandsensor, Flüssigkeitsstandmelder",BLA
+"Feuchte-Messfühler, Luftfeuchtigkeits-Messfühler",BMA
+Abluftfeuchtesensor ,BMA
+Fortluftfeuchtesensor ,BMA
+Außenluftfeuchtesensor ,BMA
+Raumtemperaturfeuchtesensor ,BMA
+Umluftfeuchtesensor,BMA
+Zuluftfeuchtesensor ,BMA
+Raumhygrostat,BMB
+Feuchteschalter,BMB
+Drucksensor,BPA
+Luftdrucksensor,BPA
+Manometer,BPA
+Abluftdrucksensor,BPA
+Fortluftdrucksensor,BPA
+Aussenluftdrucksensor,BPA
+Zuluftdrucksensor,BPA
+Absolutdruckschalter,BPB
+Druckwächter ,BPB
+Filterwächter,BPC
+Differenzialdrucksensor ,BPC
+Differenzdruckschalter,BPD
+Leckwarngerät,BPD
+Luftqualitätssensor,BQA
+ CO2 Sensor,BQA
+VOC-Sensor,BQA
+CO-Messfühler,BQA
+Gasmelder,BQB
+Konzentrationserkennungsschalter,BQB
+Regensensor,BQC
+Feinstaubsensor,BQE
+Brandmelder,BQF
+Rauchmelder,BQF
+Rauchmelder linear,BQF
+Rauchmelder mit Akustik,BQF
+Rauchansaugsystem,BQF
+Rauchansaugmelder,BQF
+Lichtsensor,BRA
+Helligkeitssensor,BRA
+Lichtschranke,BRB
+Flammenwächter,BRC
+"Strahlungsmessgerät für nicht sichtbare Strahlung (IR, UV)",BRC
+Geschwindigkeitssensor,BSC
+Drehzahlmesser,BSE
+Windgeschwindigkeitssensor,BSE
+Körperschallmesser,BSH
+Einbruchalarmgeber,BSH
+Vibrationsschalter,BSH
+Temperatursensor ,BTA
+Thermostat,BTA
+Ablufttemperatursensor ,BTA
+Frostsensor ,BTA
+Fortlufttemperatursensor ,BTA
+Außenlufttemperatursensor ,BTA
+Rücklauftemperatursensor ,BTA
+Raumtemperatursensor ,BTA
+Umlufttemperatursensor,BTA
+Vorlauftemperatursensor ,BTA
+Zulufttemperatursensor ,BTA
+Hitzemelder,BTB
+Temperaturwächter,BTB
+Temperaturschalte,BTB
+Kondensationswächter,BTB
+Kondensattemperaturfühler,BTB
+Taupunkttemperaturfühler,BTB
+Taupunktwächter,BTB
+Lautstärkeüberwachung,BXA
+Schallmesswertgeber,BXA
+Akkustiküberwachungssensor,BXA
+Akustikindikator (z.B. Glasbruch),BXB
+Gesichtserkennungsgerät,BXD
+Fingerabdruckleser,BXD
+Iris-Scanner,BXD
+Bilderkennungsgerät,BXD
+Chipkartenlesegerät,BYA
+Zutrittsleser,BYA
+RFID Lesegerät,BYA
+Magnetstreifen Lesegerät,BYA
+Personenzähler,BZA
+Personendetektor,BZA
+Präsenzdetektor nicht Bewegungsmelder,BZC
+Wärmespeicher,CPA
+Lampe,EAA
+Lichtquelle,EAA
+Elektrokessel,EBA
+Mischkammer,EBC
+Heizkessel,EMB
+Gaskessel,EMB
+Dampfkessel,EMB
+Brenner,EMB
+Heizkessel Schnittstelle,EMB
+Brenner Schnittstelle,EMB
+Lufterwärmer,EPB
+Nacherwärmer,EPB
+Vorerwärmer,EPB
+Wasservorerwärmer,EPB
+Verdampfer,EQB
+Kondensator,EQB
+Rückkühleinheit,EQB
+Gebläsekonvektor,EQC
+Ventilator,EQC
+Luftkühler,EQD
+Motorschutzschalter,FCB
+Pumpe,GP_
+Zirkulationspumpe,GPA
+Warmwasserpumpe,GPH
+Kondensatpumpe,GPH
+Primärpumpe ,GPH
+Sekundärpumpe,GPH
+WRG-Pumpe,GPH
+Kaltwasserpumpe,GPK
+Kühlwasserpumpe,GPK
+Kühlerpumpe,GPL
+Erwärmerpumpe Nacherhitzer,GPL
+Erwärmerpumpe Vorerhitzer,GPL
+Kompressor,GQA
+Kälteverdichter,GQA
+Gaskompressor,GQA
+Ventilator,GQB
+Abluftventilator,GQB
+Doppelventilator,GQB
+Fortluftventilator,GQB
+Luftheizer,GQB
+Aussenluftventilator,GQB
+Ventilatorregler,GQB
+Umluftventilator,GQB
+Zuluftventilator,GQB
+Filter,HQB
+Abluftfilter,HQB
+Elektrofilter,HQB
+Fortluftfilter,HQB
+Aussluftfilter,HQB
+Umluftfilter,HQB
+Zuluftfilter,HQB
+Befeuchter,HWB
+Dampfbefeuchter,HWB
+Ultraschallbefeuchter,HWB
+Automationsstation,KEB
+WLAN-Router,KED
+Tasterschnittstelle,KFE
+Volumenstromregler,KJA
+Volumenstromregler Abluft,KJA
+Volumenstromregler Fortluft,KJA
+Volumenstromregler Aussenluft,KJA
+Volumenstromregler Raum,KJA
+Volumenstromregler Zuluft,KJA
+Schliesszylinder,KJB
+Jalousiemotor,MAA
+Jalousieaktor,MAA
+Fensterantrieb,MBA
+"Ventilantrieb, Stellantrieb",MBB
+Thermoaktor,MDA
+Display,PHA
+Raumpanel,PHA
+Blitzleuchte,PZA
+Alarmindikator,PZA
+Sicherung,QBB
+Absperrventil,QMA
+Ventil,QN_
+Frischwasserventil,QNA
+Kühlventil,QNA
+Kaltwasserventil,QNA
+Kühlwasserventil,QNA
+Warmwasserventil,QNA
+Mischventil,QNA
+Deckenheizventil,QNA
+Deckenventil,QNA
+Deckenkühlventil,QNA
+Steuerklappe,QNB
+Gassteuerventil,QNB
+Klappe,RNB
+Volumenstromregler VVS,RNB
+Abluftklappe,RNB
+Abluft Volumenstromregler,RNB
+Bypassklappe,RNB
+Entrauchungsklappe,RNB
+Fortluftklappe,RNB
+Klappe Schnittstelle,RNB
+Mischluftklappe,RNB
+Aussenluftklappe,RNB
+Absperrklappe,RNB
+Umluftklappe,RNB
+Absperrklappe Ventilator,RNB
+Zuluftklappe,RNB
+Zuluft-Volumenstromregler,RNB
+Zutrittsverwaltungsgerät,RUC
+Drehkreuz ,RUC
+Notfallknopf,SGC
+Handmelder,SGC
+Feuermelder manuell,SGC
+Druckknopfmelder ,SGC
+Kippschalter,SJA
+Schalter,SJA
+Taster ,SJB
+Jalousietaster,SJB
+Raumbediengerät,SJC
+Bediengerät,SJC
+Raumbediengerät,SJC
+Frequenzumrichter,TAC
+Stromwandler,TBA
+Stromversorgung,TBA
+Stromrichter,TBA
+Bluetooth-Empfänger,TFB
+Koppler,TFC
+Druckmessumformer,TFC
+Differenzdruck Messumformer,TFC
+Leuchte,UAC
+Kabeltrasse,UBA
+Abzug,UCC
+Laborabzug,UCC
+Kabel,WG_
+Klemmdose,XDB
+Elektromotorischer Drehantrieb,MAA
+Elektromotorischer Stellantrieb,MBA
+Raum-Controller,UCA
+BACnet Router,KED
+Gateway,KED
+Luftkanalqualitätsfühler,BQA
+Dimmer,QAC
+Kabeltemperaturfühler,BTA
+Luftkanaldruckdifferenzfühler,BPC
+Luftkanaltemperaturfühler,BTA
